@@ -1,0 +1,3013 @@
+family,feature,coefficient
+price_logistic,price__return_1,-0.2981688319760188
+price_logistic,price__return_5,0.352078326759017
+price_logistic,price__return_20,0.020470985725249687
+price_logistic,price__return_60,0.05253038529588912
+price_logistic,price__volatility_20,0.22153043942679085
+price_logistic,price__quote_age_days,-0.002977841570188971
+text_logistic,text__12,0.0022402564941644528
+text_logistic,text__12 month,0.0022402564941644528
+text_logistic,text__15,-0.01381815858724003
+text_logistic,text__20,-0.01659942181623468
+text_logistic,text__20 billion,-0.01659942181623468
+text_logistic,text__2010,-0.007390535461999819
+text_logistic,text__2011,0.00491133718506613
+text_logistic,text__2013,-0.007733556767638739
+text_logistic,text__2013 committee,-0.007733556767638739
+text_logistic,text__2014,0.0063385413380390955
+text_logistic,text__2014 committee,0.0063385413380390955
+text_logistic,text__25,-0.009755666016029979
+text_logistic,text__25 billion,-0.00684324845289339
+text_logistic,text__25 trillion,-0.003548762008849991
+text_logistic,text__30,-0.01256884987978804
+text_logistic,text__30 billion,-0.00241506786019038
+text_logistic,text__31,-0.013986243050317843
+text_logistic,text__35,0.006293964589456642
+text_logistic,text__35 billion,0.006293964589456642
+text_logistic,text__40,0.0059490376387853
+text_logistic,text__40 billion,0.0059490376387853
+text_logistic,text__45,0.004887024618115129
+text_logistic,text__45 billion,0.004887024618115129
+text_logistic,text__600,0.00952879564847716
+text_logistic,text__600 billion,0.00952879564847716
+text_logistic,text__accommodation,-0.007933633287094956
+text_logistic,text__accommodation balanced,-0.0074058850024963565
+text_logistic,text__accommodation economic,-0.006791760549789783
+text_logistic,text__accommodative,0.0042906895328629555
+text_logistic,text__accommodative committee,0.0019713745233229697
+text_logistic,text__accommodative financial,-0.006433807022548412
+text_logistic,text__accommodative stance,0.00939842451201989
+text_logistic,text__accommodative supporting,0.0015483958150287374
+text_logistic,text__accommodative turn,0.00029665746422374113
+text_logistic,text__account,-0.007485488963978614
+text_logistic,text__account extent,0.007546044697161234
+text_logistic,text__account likely,0.0018915169634159668
+text_logistic,text__account wide,-0.008327194319616609
+text_logistic,text__achieved,0.0010353417645832554
+text_logistic,text__actions,0.0020228843880155064
+text_logistic,text__actions maintain,0.0073266982339108555
+text_logistic,text__activity,-0.009497596187428133
+text_logistic,text__activity continued,-0.017113355638601283
+text_logistic,text__activity expand,-0.008457554953689333
+text_logistic,text__activity expanding,0.00581080722972024
+text_logistic,text__activity labor,-0.0054678929792997995
+text_logistic,text__activity picked,-0.001816321052991156
+text_logistic,text__activity rising,-0.002486664337867802
+text_logistic,text__activity strong,-0.0030478399403136083
+text_logistic,text__actual,0.006339824253152844
+text_logistic,text__actual expected,0.0037444023330896613
+text_logistic,text__actual path,0.0037444023330896613
+text_logistic,text__add,-0.009351487333373841
+text_logistic,text__add holdings,-0.009948299180050763
+text_logistic,text__add payrolls,-0.0021380928126592045
+text_logistic,text__addition,0.0022561648011141
+text_logistic,text__additional,0.02351710792265188
+text_logistic,text__additional agency,0.007383873275419625
+text_logistic,text__additional measures,0.007265022525712759
+text_logistic,text__adjust,0.0030443471623806473
+text_logistic,text__adjust holdings,-0.0010023712252877953
+text_logistic,text__adjustments,0.004709361867958753
+text_logistic,text__adjustments stance,0.0037444023330896613
+text_logistic,text__adjustments target,-0.00023299454432367244
+text_logistic,text__advance,0.0024352563070171827
+text_logistic,text__advanced,0.007856721373444866
+text_logistic,text__advanced housing,0.0011830668075495637
+text_logistic,text__advancing,-0.016942996371216795
+text_logistic,text__advancing recovery,-0.016942996371216795
+text_logistic,text__affect,-0.00312991147215203
+text_logistic,text__agency,-0.007123545452289735
+text_logistic,text__agency debt,-0.005954466132290307
+text_logistic,text__agency mortgage,-0.004312555743041634
+text_logistic,text__ahead,0.007265022525712759
+text_logistic,text__ahead projected,0.007265022525712759
+text_logistic,text__alignment,-0.00021319917501773668
+text_logistic,text__alignment sales,-0.00021319917501773668
+text_logistic,text__amounts,-0.005956823393771636
+text_logistic,text__anchored,-0.002998158353751136
+text_logistic,text__anchored committee,-0.003077494885402577
+text_logistic,text__anchored determining,0.004367188158156504
+text_logistic,text__announced,0.007877738226334339
+text_logistic,text__announced september,-0.0022452712803758355
+text_logistic,text__anticipate,0.0038395695082553576
+text_logistic,text__anticipate based,-0.0036561595907222584
+text_logistic,text__anticipate economic,0.005905088387609213
+text_logistic,text__anticipated,-0.013592745671255633
+text_logistic,text__anticipated remain,-0.0043955112764145765
+text_logistic,text__anticipates,-0.0027752912168173796
+text_logistic,text__anticipates appropriate,-0.0043955112764145765
+text_logistic,text__anticipates doing,0.0031753996467409245
+text_logistic,text__anticipates economic,-0.0008848802780543408
+text_logistic,text__anticipates employment,-0.015625998180402983
+text_logistic,text__anticipates exceptionally,0.007383873275419625
+text_logistic,text__anticipates gradual,0.0003176308010139198
+text_logistic,text__anticipates inflation,0.004841710775615898
+text_logistic,text__anticipates unemployment,-0.0008848802780543408
+text_logistic,text__apart,0.005907380616992124
+text_logistic,text__appear,-0.0032253549342000504
+text_logistic,text__appear roughly,-0.0015770130384454941
+text_logistic,text__appears,-0.03491733166696404
+text_logistic,text__appears rising,-0.013816213581613553
+text_logistic,text__approach,-0.0074058850024963565
+text_logistic,text__approach consistent,-0.0074058850024963565
+text_logistic,text__appropriate,-0.016949066634876934
+text_logistic,text__appropriate account,0.0018915169634159668
+text_logistic,text__appropriate considerable,0.00734871882685819
+text_logistic,text__appropriate determining,-0.015625998180402983
+text_logistic,text__appropriate long,0.007265022525712759
+text_logistic,text__appropriate maintain,-0.010775176830130148
+text_logistic,text__appropriate outlook,0.0011418275959705342
+text_logistic,text__appropriate policy,-0.010941019767765273
+text_logistic,text__appropriate raise,-0.006604396427108923
+text_logistic,text__april,-0.003259294581483551
+text_logistic,text__arrangements,-0.018965848809873488
+text_logistic,text__assess,-0.00632578504160845
+text_logistic,text__assess progress,-0.015625998180402983
+text_logistic,text__assess realized,0.0009769056183795842
+text_logistic,text__assessment,-0.010616518141524556
+text_logistic,text__assessment account,-0.008327194319616609
+text_logistic,text__assessment factors,-0.005875625754378147
+text_logistic,text__assessment likely,-0.002243623768474763
+text_logistic,text__asset,-0.008529455027506962
+text_logistic,text__asset backed,-0.01829691469989002
+text_logistic,text__asset purchase,0.0011669801387400825
+text_logistic,text__asset purchases,0.00038338858574880766
+text_logistic,text__attention,-0.0020864181072181216
+text_logistic,text__attention evolution,-0.0020864181072181216
+text_logistic,text__auction,-0.00406977126359223
+text_logistic,text__auction anticipates,0.0031753996467409245
+text_logistic,text__auction committee,0.003130406228462605
+text_logistic,text__auction policy,-0.012044018849789702
+text_logistic,text__auction taken,0.0073266982339108555
+text_logistic,text__august,-0.0020378815034899594
+text_logistic,text__available,-0.0026714674319181166
+text_logistic,text__average,0.005098816334348
+text_logistic,text__average maturity,0.005675621319850941
+text_logistic,text__average recent,-0.002538698839548515
+text_logistic,text__backdrop,-0.005428697890611316
+text_logistic,text__backdrop committee,-0.005428697890611316
+text_logistic,text__backed,-0.013986331911584155
+text_logistic,text__backed securities,-0.01071401874535488
+text_logistic,text__balance,0.008125520147366127
+text_logistic,text__balance consistent,0.00445219729666316
+text_logistic,text__balance range,-0.0084151883924739
+text_logistic,text__balance recent,0.002581447487230248
+text_logistic,text__balance sheet,0.009886008299279051
+text_logistic,text__balanced,-0.008335678365615232
+text_logistic,text__balanced approach,-0.0074058850024963565
+text_logistic,text__balanced committee,-0.003031416584647794
+text_logistic,text__balanced inflation,-0.006984758975864385
+text_logistic,text__balanced view,-0.002250926007588574
+text_logistic,text__bank,-0.02624006310357555
+text_logistic,text__bank lending,-0.004287404088528775
+text_logistic,text__banks,-0.015687039246435046
+text_logistic,text__based,-0.0180264040201207
+text_logistic,text__based assessment,-0.005875625754378147
+text_logistic,text__based measures,-0.016866156635010378
+text_logistic,text__basis,0.0022402564941644528
+text_logistic,text__basis expected,0.0014814165549705601
+text_logistic,text__basis overall,-0.007442549270909102
+text_logistic,text__begin,-0.0019702112557296275
+text_logistic,text__begin remove,-0.0074058850024963565
+text_logistic,text__beginning,-0.011246938502827637
+text_logistic,text__best,0.00952879564847716
+text_logistic,text__best foster,0.00952879564847716
+text_logistic,text__better,-0.00021319917501773668
+text_logistic,text__better alignment,-0.00021319917501773668
+text_logistic,text__billion,-0.0007817058995438658
+text_logistic,text__billion agency,-0.003548762008849991
+text_logistic,text__billion longer,0.00952879564847716
+text_logistic,text__billion month,-0.004246348110804277
+text_logistic,text__broader,-5.7430017895977795e-05
+text_logistic,text__broader economy,-0.002243623768474763
+text_logistic,text__broader financial,0.001817192360580013
+text_logistic,text__broadly,0.0020775066360264375
+text_logistic,text__broadly supports,-0.005875625754378147
+text_logistic,text__business,-0.0023070376178907543
+text_logistic,text__business fixed,-0.002557484643230189
+text_logistic,text__business investment,0.0016242942296907502
+text_logistic,text__business spending,0.0003176308010139198
+text_logistic,text__carefully,0.0026007778315902575
+text_logistic,text__carefully evidence,-0.001353754705616352
+text_logistic,text__carefully monitor,0.0037444023330896613
+text_logistic,text__central,-0.02056294542421489
+text_logistic,text__central banks,-0.015687039246435046
+text_logistic,text__chain,0.005966150702616303
+text_logistic,text__chain disruptions,0.005966150702616303
+text_logistic,text__changed,-0.012210289425600818
+text_logistic,text__changed balance,0.005568853082471788
+text_logistic,text__changed consistent,-0.010584353705206226
+text_logistic,text__changes,0.004067070967211314
+text_logistic,text__close,-0.0076262345287069055
+text_logistic,text__close attention,-0.0020864181072181216
+text_logistic,text__closely,-0.0012975751272640463
+text_logistic,text__closely monitor,-0.0035003071994235166
+text_logistic,text__closely support,-0.009749136486149366
+text_logistic,text__closely view,0.005255004886797919
+text_logistic,text__coming,0.002729359391590607
+text_logistic,text__coming months,-0.0010459124370855836
+text_logistic,text__coming quarters,0.001382977894097052
+text_logistic,text__commercial,-0.020818495967811552
+text_logistic,text__committee,-0.008018216673388394
+text_logistic,text__committee add,-0.005875625754378147
+text_logistic,text__committee anticipates,-0.0025064775584083382
+text_logistic,text__committee assess,-0.008327194319616609
+text_logistic,text__committee carefully,0.0037444023330896613
+text_logistic,text__committee closely,0.004474058283348379
+text_logistic,text__committee consider,0.007265022525712759
+text_logistic,text__committee continue,-0.005884391566543873
+text_logistic,text__committee continues,-0.005886536823118054
+text_logistic,text__committee currently,-0.009668317701242896
+text_logistic,text__committee decided,0.007326860593933956
+text_logistic,text__committee decides,-0.0074058850024963565
+text_logistic,text__committee decisions,0.00029665746422374113
+text_logistic,text__committee dual,0.0016190409586126463
+text_logistic,text__committee expectation,0.00029665746422374113
+text_logistic,text__committee expects,-0.003913854636068111
+text_logistic,text__committee holdings,-0.005818170486583582
+text_logistic,text__committee judges,-0.0008569515409890816
+text_logistic,text__committee likely,-0.0036707035728628713
+text_logistic,text__committee longer,-0.0074058850024963565
+text_logistic,text__committee maintain,0.0054386908900155
+text_logistic,text__committee maintaining,-0.00021971243511759278
+text_logistic,text__committee met,-0.0014221784453246772
+text_logistic,text__committee monitoring,0.005255004886797919
+text_logistic,text__committee outlook,-0.005875625754378147
+text_logistic,text__committee percent,0.0029035984047565883
+text_logistic,text__committee recognizes,0.0019580434586892142
+text_logistic,text__committee regularly,0.00616466650377195
+text_logistic,text__committee seeks,-0.00024423216126408037
+text_logistic,text__committee sees,-0.00022777041908636237
+text_logistic,text__committee sizable,-0.005875625754378147
+text_logistic,text__committee symmetric,-0.006072844890502335
+text_logistic,text__committee today,-0.011288879932400834
+text_logistic,text__committee views,-0.009084441417357855
+text_logistic,text__commodities,0.004470059845840762
+text_logistic,text__commodity,0.005579235283067891
+text_logistic,text__compensation,-0.009961423808078242
+text_logistic,text__compensation declined,-0.012885595253470068
+text_logistic,text__compensation moved,-0.003038478104708362
+text_logistic,text__compensation remain,0.0022468929654689295
+text_logistic,text__composition,0.0017506544432330563
+text_logistic,text__composition asset,0.0018915169634159668
+text_logistic,text__composition securities,-0.0010023712252877953
+text_logistic,text__conditions,-0.00428772070508782
+text_logistic,text__conditions accommodative,0.001817192360580013
+text_logistic,text__conditions committee,-0.008758773347616414
+text_logistic,text__conditions evolve,0.0037444023330896613
+text_logistic,text__conditions financial,0.0037452865542017236
+text_logistic,text__conditions improved,-0.013503685434620816
+text_logistic,text__conditions inception,-0.006843480621609811
+text_logistic,text__conditions including,-0.0012875763617365308
+text_logistic,text__conditions indicators,-0.00397128123141709
+text_logistic,text__conditions inflation,0.0024423240084623914
+text_logistic,text__conditions light,-0.006843480621609811
+text_logistic,text__conditions private,-0.003548762008849991
+text_logistic,text__conditions relative,0.0009769056183795842
+text_logistic,text__conditions remain,-0.01667065793022661
+text_logistic,text__conditions return,0.002757041332001008
+text_logistic,text__conditions shown,0.00488580289302682
+text_logistic,text__conditions strengthen,0.0030145917034208928
+text_logistic,text__conditions sustained,0.002592295172629184
+text_logistic,text__conditions time,-0.015625998180402983
+text_logistic,text__confident,-0.00036721688979749227
+text_logistic,text__confident inflation,-0.00036721688979749227
+text_logistic,text__consequently,0.0031551503944934737
+text_logistic,text__consequently anticipates,0.0017739714500607498
+text_logistic,text__consequently committee,0.002003001673346746
+text_logistic,text__consider,0.007265022525712759
+text_logistic,text__consider information,0.007265022525712759
+text_logistic,text__considerable,0.0003399908199426607
+text_logistic,text__considerable time,-0.002465860379720356
+text_logistic,text__consistent,-0.0011390729087647905
+text_logistic,text__consistent committee,0.0016190409586126463
+text_logistic,text__consistent dual,-0.003474370531216659
+text_logistic,text__consistent growing,0.007546044697161234
+text_logistic,text__consistent levels,-0.015625998180402983
+text_logistic,text__consistent longer,-0.0010030604091487369
+text_logistic,text__consistent mandate,0.016196445784836797
+text_logistic,text__consistent statutory,-0.00024423216126408037
+text_logistic,text__consistent sustained,0.007623151832942158
+text_logistic,text__constrained,0.0024203473841618015
+text_logistic,text__constrained high,0.002989794744914756
+text_logistic,text__consumer,-0.0050447875541468085
+text_logistic,text__context,-0.0003397318240698969
+text_logistic,text__context price,-0.0003397318240698969
+text_logistic,text__contingent,0.00029665746422374113
+text_logistic,text__contingent committee,0.00029665746422374113
+text_logistic,text__continue,0.009967114186957088
+text_logistic,text__continue anchored,0.007265022525712759
+text_logistic,text__continue evaluate,-0.00021319917501773668
+text_logistic,text__continue monitor,0.0016989200391718405
+text_logistic,text__continue pay,-0.0028310710383725
+text_logistic,text__continue pose,0.009020298765140473
+text_logistic,text__continue program,-0.0022452712803758355
+text_logistic,text__continue purchases,0.0017303163262298454
+text_logistic,text__continue purchasing,0.010824227709324119
+text_logistic,text__continued,-0.003597080810553369
+text_logistic,text__continued advance,0.004630246706604278
+text_logistic,text__continued expand,0.0015376214802109212
+text_logistic,text__continued grow,0.008819109873196354
+text_logistic,text__continued progress,-0.010533981566586038
+text_logistic,text__continued run,-0.005926955493800091
+text_logistic,text__continued strengthen,-0.008689560692467754
+text_logistic,text__continues,-0.004592331800156309
+text_logistic,text__continues anticipate,0.005125917817181222
+text_logistic,text__continues closely,-0.007442706003508866
+text_logistic,text__continues depressed,0.013782158579055724
+text_logistic,text__continues expect,0.009717491379740149
+text_logistic,text__continues monitor,-0.0021549535507124
+text_logistic,text__continues risks,-0.0072343013008281136
+text_logistic,text__continues run,-0.010775176830130148
+text_logistic,text__continues weak,0.006401767894579203
+text_logistic,text__continuing,0.0008704901170113688
+text_logistic,text__continuing levels,-0.0072343013008281136
+text_logistic,text__continuing restrain,-0.004287404088528775
+text_logistic,text__contract,-0.004287404088528775
+text_logistic,text__cost,-0.001415413673294137
+text_logistic,text__cost pressures,-0.001415413673294137
+text_logistic,text__costs,0.0017303163262298454
+text_logistic,text__costs purchases,0.0017303163262298454
+text_logistic,text__course,0.0007456890813059706
+text_logistic,text__course committee,0.00029665746422374113
+text_logistic,text__credit,-0.0007950949163680564
+text_logistic,text__credit business,0.0003176308010139198
+text_logistic,text__credit markets,-0.003548762008849991
+text_logistic,text__crude,0.002114899032804459
+text_logistic,text__crude oil,0.002114899032804459
+text_logistic,text__cumulative,-0.005875625754378147
+text_logistic,text__cumulative progress,-0.005875625754378147
+text_logistic,text__current,-0.02484899682045888
+text_logistic,text__current asset,-0.008368071313232053
+text_logistic,text__current percent,-0.015625998180402983
+text_logistic,text__current shortfall,0.002757041332001008
+text_logistic,text__current target,-0.005875625754378147
+text_logistic,text__currently,0.0013756134248235794
+text_logistic,text__currently anticipated,-0.01769148389563178
+text_logistic,text__currently anticipates,-0.006853546328564133
+text_logistic,text__currently expects,0.012993157176075599
+text_logistic,text__currently judges,-0.006843480621609811
+text_logistic,text__data,0.005846175199892722
+text_logistic,text__data committee,0.00641634836779125
+text_logistic,text__debt,-0.005954466132290307
+text_logistic,text__debt agency,-0.00527275788486253
+text_logistic,text__december,-0.004868884295080692
+text_logistic,text__december suggests,-0.0005179646837779268
+text_logistic,text__decided,0.0056999174679353256
+text_logistic,text__decided continue,0.011513037564038032
+text_logistic,text__decided maintain,-0.007055834016675002
+text_logistic,text__decided make,-0.0036561595907222584
+text_logistic,text__decided raise,0.01380023038409657
+text_logistic,text__decided target,0.0037784908339835084
+text_logistic,text__decided today,0.006670442220082155
+text_logistic,text__decides,-0.0074058850024963565
+text_logistic,text__decides begin,-0.0074058850024963565
+text_logistic,text__decisions,0.00029665746422374113
+text_logistic,text__decisions pace,0.00029665746422374113
+text_logistic,text__decline,0.006203362591156167
+text_logistic,text__decline gradually,-0.0017760665642316265
+text_logistic,text__decline levels,0.008020249897042997
+text_logistic,text__declined,0.017548076533913787
+text_logistic,text__declined household,0.02990180343751414
+text_logistic,text__declines,-0.003817153268017815
+text_logistic,text__declines energy,-0.0033831012870040884
+text_logistic,text__declining,0.002650201051575615
+text_logistic,text__depend,0.0037444023330896613
+text_logistic,text__depend economic,0.0037444023330896613
+text_logistic,text__depressed,0.00509387303722199
+text_logistic,text__depressed inflation,0.002836550314469716
+text_logistic,text__depressed level,-0.0008048734549207388
+text_logistic,text__despite,0.009197294463992702
+text_logistic,text__determining,-0.003249730923985426
+text_logistic,text__determining long,-0.005473544495068716
+text_logistic,text__determining size,0.0018915169634159668
+text_logistic,text__determining timing,0.0009769056183795842
+text_logistic,text__developments,0.0026926282975291696
+text_logistic,text__developments backdrop,-0.009857555168113194
+text_logistic,text__developments carefully,-0.001353754705616352
+text_logistic,text__developments closely,0.002184587397256442
+text_logistic,text__developments coming,0.0017303163262298454
+text_logistic,text__developments committee,-0.00022536076497664932
+text_logistic,text__developments employ,-0.0008389349692866101
+text_logistic,text__developments light,0.002757041332001008
+text_logistic,text__developments relative,0.0019920947087745332
+text_logistic,text__diminished,0.00445878539885283
+text_logistic,text__diminishing,-0.008368071313232053
+text_logistic,text__diminishing inflation,-0.005875625754378147
+text_logistic,text__disruptions,0.01234697360130457
+text_logistic,text__dissipate,-0.001768637229219512
+text_logistic,text__dissipate committee,-0.007757921757746751
+text_logistic,text__dissipate labor,0.006103661002708782
+text_logistic,text__does,0.0007957104018062904
+text_logistic,text__does not,0.0007957104018062904
+text_logistic,text__doing,0.0031753996467409245
+text_logistic,text__doing normalization,0.0031753996467409245
+text_logistic,text__dollar,-0.01683710557775607
+text_logistic,text__downside,0.005249325638038048
+text_logistic,text__downside risks,0.005249325638038048
+text_logistic,text__downward,0.009876282663720105
+text_logistic,text__downward pressure,0.004552949105160348
+text_logistic,text__dual,-0.00013152308424169775
+text_logistic,text__dual mandate,-0.00013152308424169775
+text_logistic,text__earlier,-0.01033759553979574
+text_logistic,text__earlier declines,-0.007968590190757444
+text_logistic,text__earlier year,-0.003947336489684622
+text_logistic,text__early,-0.0028029519421919674
+text_logistic,text__early year,0.0035818812476446442
+text_logistic,text__economic,0.0005876627744539721
+text_logistic,text__economic activity,-0.009635234673179737
+text_logistic,text__economic conditions,-0.0025222826640576377
+text_logistic,text__economic financial,0.0068645695289975914
+text_logistic,text__economic growth,-0.003672574238416446
+text_logistic,text__economic outlook,0.007686858303478943
+text_logistic,text__economic performance,0.0019580434586892142
+text_logistic,text__economic recovery,0.013309746687720126
+text_logistic,text__economy,0.009176684047418622
+text_logistic,text__economy expanding,-0.002391583709911666
+text_logistic,text__economy labor,0.00711412242933778
+text_logistic,text__economy support,-0.009461090698575127
+text_logistic,text__effects,-0.0013512525091970936
+text_logistic,text__effects declines,0.006285023647459159
+text_logistic,text__effects past,-0.0007939207113422906
+text_logistic,text__efficacy,0.0017303163262298454
+text_logistic,text__efficacy costs,0.0017303163262298454
+text_logistic,text__elevated,0.011324802691044616
+text_logistic,text__elevated household,0.003936288581302596
+text_logistic,text__elevated measures,0.005411695032357505
+text_logistic,text__employ,-8.376919816738824e-05
+text_logistic,text__employ policy,0.0008821338838924584
+text_logistic,text__employers,0.0003176308010139198
+text_logistic,text__employers remain,0.0003176308010139198
+text_logistic,text__employment,-0.00465480110385478
+text_logistic,text__employment improvement,-0.005875625754378147
+text_logistic,text__employment inflation,-0.012671069933300557
+text_logistic,text__employment objective,-0.0030478399403136083
+text_logistic,text__employment percent,-0.007854328738762531
+text_logistic,text__employment price,0.0009414445708923444
+text_logistic,text__end,0.008816769726281173
+text_logistic,text__end year,0.009845190563099295
+text_logistic,text__ends,0.0013635777955282157
+text_logistic,text__ends economic,0.007265022525712759
+text_logistic,text__ends especially,-0.006843480621609811
+text_logistic,text__energy,0.0027278286403726575
+text_logistic,text__energy commodities,0.006464179926144529
+text_logistic,text__energy import,0.004320154578791543
+text_logistic,text__energy imports,0.004320154578791543
+text_logistic,text__energy prices,-0.0025701437779389264
+text_logistic,text__energy remain,-0.0028128367026532264
+text_logistic,text__ensure,0.004441374397500394
+text_logistic,text__ensure inflation,0.008094164210502696
+text_logistic,text__equipment,0.0015118328813440078
+text_logistic,text__equipment software,0.0015118328813440078
+text_logistic,text__especially,-0.010775176830130148
+text_logistic,text__especially projected,-0.010775176830130148
+text_logistic,text__evaluate,-0.00021319917501773668
+text_logistic,text__evidence,-0.0013720177388983738
+text_logistic,text__evidence inflation,-0.001353754705616352
+text_logistic,text__evolution,-0.0020864181072181216
+text_logistic,text__evolution inflation,-0.0020864181072181216
+text_logistic,text__evolve,0.0037444023330896613
+text_logistic,text__evolve manner,0.0037444023330896613
+text_logistic,text__evolving,-0.00021319917501773668
+text_logistic,text__evolving economic,-0.00021319917501773668
+text_logistic,text__exceptionally,0.008203507312038458
+text_logistic,text__exceptionally low,0.008203507312038458
+text_logistic,text__excluding,0.005746383926554041
+text_logistic,text__executed,-0.008420660732218609
+text_logistic,text__executed end,-0.008420660732218609
+text_logistic,text__existing,0.005823966941399498
+text_logistic,text__existing policies,-0.0022452712803758355
+text_logistic,text__existing policy,0.007124272869622247
+text_logistic,text__expand,-0.00391805850755664
+text_logistic,text__expand moderate,-0.00618754685322675
+text_logistic,text__expanding,0.003796336805831764
+text_logistic,text__expanding moderate,0.004095530149199543
+text_logistic,text__expanding moderately,-0.0012894290787185275
+text_logistic,text__expansion,-0.004937326654197769
+text_logistic,text__expansion economic,-0.0030478399403136083
+text_logistic,text__expect,0.009717491379740149
+text_logistic,text__expect gradual,0.017656697792305318
+text_logistic,text__expectation,0.0005752149543072473
+text_logistic,text__expectation ongoing,0.00029665746422374113
+text_logistic,text__expectations,-0.006126589669985368
+text_logistic,text__expectations continue,0.007265022525712759
+text_logistic,text__expectations likely,-0.004288514699983147
+text_logistic,text__expectations little,-0.0012827756944093585
+text_logistic,text__expectations readings,-0.00397128123141709
+text_logistic,text__expectations remain,-0.011968381203227196
+text_logistic,text__expectations remained,-0.0012210640385782088
+text_logistic,text__expectations stable,-0.005517784183745572
+text_logistic,text__expected,-0.00755789929453497
+text_logistic,text__expected economic,0.0009769056183795842
+text_logistic,text__expected inflation,0.0019920947087745332
+text_logistic,text__expected labor,0.007348753274770491
+text_logistic,text__expected objectives,-0.015625998180402983
+text_logistic,text__expected prevail,0.0037444023330896613
+text_logistic,text__expected progress,0.002757041332001008
+text_logistic,text__expected remain,0.013011294613971965
+text_logistic,text__expects,-0.0011754574383601127
+text_logistic,text__expects appropriate,-0.007948766117387708
+text_logistic,text__expects economic,0.004487630923095924
+text_logistic,text__expects gradual,-0.007507503486294374
+text_logistic,text__expects highly,0.004876931725139043
+text_logistic,text__expects inflation,-0.006455602988582418
+text_logistic,text__expects maintain,0.0063385413380390955
+text_logistic,text__exports,0.004124470548765127
+text_logistic,text__exports soft,0.009608216988844906
+text_logistic,text__extend,0.005675621319850941
+text_logistic,text__extend average,0.005675621319850941
+text_logistic,text__extended,0.005905088387609213
+text_logistic,text__extended period,0.005905088387609213
+text_logistic,text__extent,0.0013906471630536746
+text_logistic,text__extent restraint,-0.005875625754378147
+text_logistic,text__facilities,-0.020573140713881652
+text_logistic,text__facility,-0.02512916761738373
+text_logistic,text__factors,-0.020383346341101685
+text_logistic,text__factors likely,-0.0016369300421031718
+text_logistic,text__faqs,-0.016320128652409525
+text_logistic,text__february,-0.016614837122949838
+text_logistic,text__federal,-0.009520092222269
+text_logistic,text__federal funds,-0.00464577990299253
+text_logistic,text__federal open,-0.003672810301525922
+text_logistic,text__federal reserve,-0.026527436892594288
+text_logistic,text__financial,-0.0018141879010292366
+text_logistic,text__financial conditions,9.199930442860923e-05
+text_logistic,text__financial developments,0.0072735468579485565
+text_logistic,text__financial international,-0.0029034625519450672
+text_logistic,text__financial markets,-0.001937542252933206
+text_logistic,text__fiscal,0.006473762376512747
+text_logistic,text__fiscal policy,0.0011418275959705342
+text_logistic,text__fixed,-0.002901229503321669
+text_logistic,text__fixed investment,-0.0015120747283684731
+text_logistic,text__fluctuations,0.01125266850760744
+text_logistic,text__following,-0.004158783609499607
+text_logistic,text__food,-0.00044499009466942874
+text_logistic,text__food energy,-0.0009182706539919421
+text_logistic,text__foster,0.0006696772859863054
+text_logistic,text__foster maximum,0.0019212478247873808
+text_logistic,text__funding,-0.016541167705637433
+text_logistic,text__funds,-0.00464577990299253
+text_logistic,text__funds rate,-0.00464577990299253
+text_logistic,text__furthermore,0.005139360384811116
+text_logistic,text__furthermore strains,0.005139360384811116
+text_logistic,text__future,-0.0002327773551576004
+text_logistic,text__future adjustments,-0.00023299454432367244
+text_logistic,text__future meetings,-0.0036707035728628713
+text_logistic,text__gains,-0.00784657949182333
+text_logistic,text__gains solid,0.003202563968617923
+text_logistic,text__gains strong,-0.0007504148753720783
+text_logistic,text__gasoline,0.002615336985012614
+text_logistic,text__global,0.003907377880653645
+text_logistic,text__global economic,0.004338244385001453
+text_logistic,text__global financial,0.0029556062278184698
+text_logistic,text__goal,0.0008590530554223838
+text_logistic,text__goal committee,0.0038987210616771464
+text_logistic,text__goal longer,0.007265022525712759
+text_logistic,text__goal provided,-0.011968381203227196
+text_logistic,text__goals,-0.01147341625019123
+text_logistic,text__goals maximum,-0.0074058850024963565
+text_logistic,text__gradual,0.011956755926581561
+text_logistic,text__gradual adjustments,0.0037444023330896613
+text_logistic,text__gradual increases,0.007983730738933647
+text_logistic,text__gradual return,-0.0007501171211109762
+text_logistic,text__gradually,-0.003578286946143479
+text_logistic,text__gradually decline,0.004367188158156504
+text_logistic,text__gradually levels,-0.0017760665642316265
+text_logistic,text__gradually percent,-0.009749136486149366
+text_logistic,text__grow,0.008819109873196354
+text_logistic,text__grow strongly,0.008819109873196354
+text_logistic,text__growing,0.00763179258373242
+text_logistic,text__growth,-0.004499754112811385
+text_logistic,text__growth business,0.013521979134345762
+text_logistic,text__growth economic,-0.016634399588192288
+text_logistic,text__growth extent,-0.005875625754378147
+text_logistic,text__growth household,-0.011532168166008244
+text_logistic,text__growth lower,0.0024203473841618015
+text_logistic,text__guidance,0.002638440153932751
+text_logistic,text__half,0.00332050469787523
+text_logistic,text__half percentage,0.007265022525712759
+text_logistic,text__having,0.0018305473711372497
+text_logistic,text__help,0.00012170872608220298
+text_logistic,text__help ensure,0.008094164210502696
+text_logistic,text__help maintain,-0.006433807022548412
+text_logistic,text__help make,0.001817192360580013
+text_logistic,text__high,-0.002818432070746943
+text_logistic,text__high unemployment,0.002989794744914756
+text_logistic,text__higher,-0.00207841748130572
+text_logistic,text__higher levels,-0.0007501171211109762
+text_logistic,text__highly,0.00939842451201989
+text_logistic,text__highly accommodative,0.00939842451201989
+text_logistic,text__holdings,-0.0027811710027002153
+text_logistic,text__holdings agency,-0.0018225386844507904
+text_logistic,text__holdings appropriate,0.0023195559598175428
+text_logistic,text__holdings longer,-0.01111947779968017
+text_logistic,text__holdings prepared,0.0023195559598175428
+text_logistic,text__holdings securities,0.00023034626121878153
+text_logistic,text__household,-0.00195417867356639
+text_logistic,text__household spending,-0.0006913069467882144
+text_logistic,text__housing,0.0004710801804334528
+text_logistic,text__housing markets,-0.003548762008849991
+text_logistic,text__housing sector,0.0020628078254703304
+text_logistic,text__housing starts,-0.005093798222563648
+text_logistic,text__housing wealth,0.0024203473841618015
+text_logistic,text__implications,-0.0004852421586612946
+text_logistic,text__import,0.004320154578791543
+text_logistic,text__import prices,0.004320154578791543
+text_logistic,text__imports,0.004320154578791543
+text_logistic,text__imports market,0.006925828594945928
+text_logistic,text__improve,-0.0053923437710988046
+text_logistic,text__improve overall,-0.003548762008849991
+text_logistic,text__improved,-0.0044767104699772655
+text_logistic,text__improved substantially,0.0011418275959705342
+text_logistic,text__improvement,0.0017202075704097928
+text_logistic,text__improvement labor,0.002093777138529791
+text_logistic,text__improvement outlook,-0.008368071313232053
+text_logistic,text__improvement recent,0.0014922174442938843
+text_logistic,text__improvement unemployment,0.0019342119433514056
+text_logistic,text__improves,-0.009749136486149366
+text_logistic,text__improves transitory,-0.009749136486149366
+text_logistic,text__inception,-0.008368071313232053
+text_logistic,text__inception current,-0.008368071313232053
+text_logistic,text__including,-0.001539161187637031
+text_logistic,text__including additional,0.007265022525712759
+text_logistic,text__including low,-0.0012875763617365308
+text_logistic,text__including measures,-0.008327194319616609
+text_logistic,text__income,-0.0002856519275083203
+text_logistic,text__income growth,0.0024203473841618015
+text_logistic,text__incoming,-0.002533226575567277
+text_logistic,text__incoming data,0.0037444023330896613
+text_logistic,text__incoming information,-0.006275175857066177
+text_logistic,text__increase,-0.00900264933277548
+text_logistic,text__increased,-0.019472328841014484
+text_logistic,text__increased recent,-0.019381226417461123
+text_logistic,text__increases,-0.003893848347229328
+text_logistic,text__increases federal,0.0011169582569250092
+text_logistic,text__increases target,-0.007385609433703502
+text_logistic,text__increasing,0.009217894400612032
+text_logistic,text__increasing holdings,-0.005875625754378147
+text_logistic,text__indicates,-0.009510057576390571
+text_logistic,text__indicates economic,-0.0008873806692288319
+text_logistic,text__indicates growth,-0.001272311563341035
+text_logistic,text__indicates labor,-0.004127994307472562
+text_logistic,text__indicators,-0.006469525060192474
+text_logistic,text__indicators continuing,-0.0072343013008281136
+text_logistic,text__indicators global,-0.007442706003508866
+text_logistic,text__indicators inflation,-0.0061229536546963965
+text_logistic,text__indicators longer,0.007623151832942158
+text_logistic,text__indicators point,0.000719818473573182
+text_logistic,text__indicators suggests,-0.017128642173115948
+text_logistic,text__inflation,-0.00671635894538719
+text_logistic,text__inflation 12,0.0014814165549705601
+text_logistic,text__inflation anticipated,-0.0072343013008281136
+text_logistic,text__inflation assessment,-0.009776925363779608
+text_logistic,text__inflation committee,0.010167876117388777
+text_logistic,text__inflation compensation,-0.009961423808078242
+text_logistic,text__inflation continued,0.0025549390170249327
+text_logistic,text__inflation continues,-0.010775176830130148
+text_logistic,text__inflation declined,-0.005653877521751821
+text_logistic,text__inflation determining,0.004172114411279843
+text_logistic,text__inflation developments,0.0014415890304317867
+text_logistic,text__inflation expectations,-0.006126589669985368
+text_logistic,text__inflation expected,0.006103661002708782
+text_logistic,text__inflation goal,0.0037444023330896613
+text_logistic,text__inflation indicators,-0.007442706003508866
+text_logistic,text__inflation inflation,-0.005839513449886272
+text_logistic,text__inflation items,-0.005056184176095231
+text_logistic,text__inflation likely,-0.004287404088528775
+text_logistic,text__inflation medium,0.006596781988867049
+text_logistic,text__inflation moving,-0.005148942712713759
+text_logistic,text__inflation near,-0.012712210290715594
+text_logistic,text__inflation objective,-0.0010932850893601853
+text_logistic,text__inflation percent,-0.006227310573759817
+text_logistic,text__inflation persistently,0.0019580434586892142
+text_logistic,text__inflation picked,-0.0027707221192010056
+text_logistic,text__inflation pressures,-0.007039217089311284
+text_logistic,text__inflation rise,-0.008813857767664336
+text_logistic,text__inflation running,-0.0021002309055017376
+text_logistic,text__inflation subdued,0.0062109227830895244
+text_logistic,text__inflation time,0.010552048898133147
+text_logistic,text__inflation trends,-0.004288514699983147
+text_logistic,text__inflation years,0.007265022525712759
+text_logistic,text__information,-0.006752859881977439
+text_logistic,text__information broadly,-0.005875625754378147
+text_logistic,text__information economic,-0.0006199953866880333
+text_logistic,text__information including,-0.00397128123141709
+text_logistic,text__information prepared,-0.011139978823591783
+text_logistic,text__information received,-0.0006913069467882144
+text_logistic,text__informed,0.0037444023330896613
+text_logistic,text__informed incoming,0.0037444023330896613
+text_logistic,text__intends,0.00902369974015634
+text_logistic,text__intends purchase,0.00902369974015634
+text_logistic,text__international,-0.0015034770963550433
+text_logistic,text__international developments,-0.0015034770963550433
+text_logistic,text__inventory,0.003908722257981351
+text_logistic,text__inventory stocks,-0.00021319917501773668
+text_logistic,text__investment,0.0004688473663255103
+text_logistic,text__investment advanced,0.004367188158156504
+text_logistic,text__investment advancing,-0.016942996371216795
+text_logistic,text__investment continued,0.013110861761682302
+text_logistic,text__investment equipment,0.0016242942296907502
+text_logistic,text__investment nonresidential,0.0037923428279337925
+text_logistic,text__investment slowed,0.022996997960184524
+text_logistic,text__items,-0.007530086104525568
+text_logistic,text__items food,-0.005056184176095231
+text_logistic,text__january,-0.003961827802086705
+text_logistic,text__january suggests,0.009821830953994536
+text_logistic,text__job,-0.0030425345768235385
+text_logistic,text__job gains,-0.005925297236992864
+text_logistic,text__judges,-0.004779657114028499
+text_logistic,text__judges consistent,-0.00038765571584708207
+text_logistic,text__judges sufficient,-0.006843480621609811
+text_logistic,text__july,0.0010266857286435535
+text_logistic,text__june,-0.006767597615857867
+text_logistic,text__june indicates,-0.006039933733417683
+text_logistic,text__keeping,-0.01562680507162855
+text_logistic,text__keeping committee,-0.006433807022548412
+text_logistic,text__keeping target,-0.015625998180402983
+text_logistic,text__labor,-0.008481197757551354
+text_logistic,text__labor market,-0.008190878741446595
+text_logistic,text__labor resources,-0.008097854177727326
+text_logistic,text__largely,-0.0044871526805691266
+text_logistic,text__late,0.016450696236209632
+text_logistic,text__late 2014,0.0063385413380390955
+text_logistic,text__lending,-0.007874392487150664
+text_logistic,text__lending housing,-0.003548762008849991
+text_logistic,text__level,-0.0074303697903346805
+text_logistic,text__level federal,5.011742095203038e-05
+text_logistic,text__level near,-0.0043955112764145765
+text_logistic,text__levels,-0.004278660004529204
+text_logistic,text__levels committee,-0.0060843257287355
+text_logistic,text__levels consistent,0.01359003371632725
+text_logistic,text__levels economic,-0.015625998180402983
+text_logistic,text__levels expected,0.0037444023330896613
+text_logistic,text__levels federal,0.004538225526192555
+text_logistic,text__levels help,-0.006433807022548412
+text_logistic,text__levels resource,-0.0007501171211109762
+text_logistic,text__light,-0.015088930574242912
+text_logistic,text__light cumulative,-0.005875625754378147
+text_logistic,text__light current,0.002757041332001008
+text_logistic,text__light evolving,-0.00021319917501773668
+text_logistic,text__light incoming,-0.0016824581908413054
+text_logistic,text__likely,-0.0035924046183344843
+text_logistic,text__likely appropriate,-0.010775176830130148
+text_logistic,text__likely efficacy,0.0017303163262298454
+text_logistic,text__likely occur,-0.01769148389563178
+text_logistic,text__likely outcomes,-0.010584353705206226
+text_logistic,text__likely reduce,-0.0036707035728628713
+text_logistic,text__likely remain,0.008019835547584401
+text_logistic,text__likely run,0.004876931725139043
+text_logistic,text__likely subdued,-0.009379471547110184
+text_logistic,text__likely warrant,0.004331266006762286
+text_logistic,text__liquidity,-0.01945362807081703
+text_logistic,text__little,-0.012210289425600818
+text_logistic,text__little changed,-0.01068656432534413
+text_logistic,text__loans,-0.023680767987271787
+text_logistic,text__loans backed,-0.023680767987271787
+text_logistic,text__long,-0.0017231833132605582
+text_logistic,text__long maintain,-0.005473544495068716
+text_logistic,text__long unemployment,0.007265022525712759
+text_logistic,text__longer,-0.0034891634697322683
+text_logistic,text__longer run,-0.004056887050850895
+text_logistic,text__longer term,-0.0029874971595139593
+text_logistic,text__low,-0.004751837290776146
+text_logistic,text__low household,-0.01362962003571202
+text_logistic,text__low level,-0.0043955112764145765
+text_logistic,text__low levels,0.004538225526192555
+text_logistic,text__low near,0.0020411366206844546
+text_logistic,text__low range,0.0073266982339108555
+text_logistic,text__low rates,-0.0012875763617365308
+text_logistic,text__low recent,-0.010282988201225977
+text_logistic,text__low relative,0.005411695032357505
+text_logistic,text__low survey,-0.002374924682040442
+text_logistic,text__lower,-0.01822621175659353
+text_logistic,text__lower housing,0.0024203473841618015
+text_logistic,text__mainly,-0.0022887559209860556
+text_logistic,text__mainly reflecting,-0.0022887559209860556
+text_logistic,text__maintain,-0.0060941632965049244
+text_logistic,text__maintain accommodative,-0.006433807022548412
+text_logistic,text__maintain current,-0.010246578433254
+text_logistic,text__maintain downward,0.0013635777955282157
+text_logistic,text__maintain existing,0.009811898087130502
+text_logistic,text__maintain highly,0.011015496625236054
+text_logistic,text__maintain target,-0.008061058053386637
+text_logistic,text__maintaining,0.002024987458700545
+text_logistic,text__maintaining existing,0.002024987458700545
+text_logistic,text__make,0.0021943562472980147
+text_logistic,text__make broader,0.001817192360580013
+text_logistic,text__make measured,-0.0036561595907222584
+text_logistic,text__mandate,0.0017162188518038831
+text_logistic,text__mandate committee,0.0010185374321613717
+text_logistic,text__mandate consistent,-0.015625998180402983
+text_logistic,text__mandate strains,-0.0017745007084124702
+text_logistic,text__mandate support,0.0063385413380390955
+text_logistic,text__manner,0.0037444023330896613
+text_logistic,text__manner warrant,0.0037444023330896613
+text_logistic,text__march,-0.02399723281889051
+text_logistic,text__march indicates,-0.003113122423177865
+text_logistic,text__market,-0.011932574090393588
+text_logistic,text__market based,-0.009961423808078242
+text_logistic,text__market committee,-0.003039149648201661
+text_logistic,text__market conditions,-0.006668864323528217
+text_logistic,text__market continued,0.004617294892869747
+text_logistic,text__market having,0.007440176808797701
+text_logistic,text__market improved,0.0011418275959705342
+text_logistic,text__market improves,-0.009749136486149366
+text_logistic,text__market indicators,-0.004979216313273461
+text_logistic,text__market inflation,-0.005390113619705694
+text_logistic,text__market nearly,-0.015625998180402983
+text_logistic,text__market reasonably,-0.0043955112764145765
+text_logistic,text__market remains,-0.006504336183293487
+text_logistic,text__market strengthens,0.006103661002708782
+text_logistic,text__markets,-0.009152334833268598
+text_logistic,text__markets committee,-0.008311772556172905
+text_logistic,text__markets continue,0.0017268624652980145
+text_logistic,text__markets federal,-0.011046620416541508
+text_logistic,text__markets help,0.0017303163262298454
+text_logistic,text__markets improve,-0.003548762008849991
+text_logistic,text__maturing,0.001144082718706073
+text_logistic,text__maturing treasury,0.001144082718706073
+text_logistic,text__maturities,-0.003955723537864631
+text_logistic,text__maturity,0.0002819087975662822
+text_logistic,text__maturity holdings,0.005675621319850941
+text_logistic,text__maximum,-0.003763810411438512
+text_logistic,text__maximum employment,-0.0026957448585065826
+text_logistic,text__measured,-0.0024398278550133183
+text_logistic,text__measured reduction,-0.0036561595907222584
+text_logistic,text__measured steps,-0.0036707035728628713
+text_logistic,text__measures,-0.010422853230164356
+text_logistic,text__measures inflation,-0.009961423808078242
+text_logistic,text__measures labor,-0.00397128123141709
+text_logistic,text__measures longer,-0.009961423808078242
+text_logistic,text__measures underlying,0.009158792251090942
+text_logistic,text__medium,0.004430375213930656
+text_logistic,text__medium run,0.002927005494727286
+text_logistic,text__medium term,0.0035412949607846298
+text_logistic,text__meetings,0.002569377146516592
+text_logistic,text__meetings asset,-0.0036707035728628713
+text_logistic,text__met,-0.0014221784453246772
+text_logistic,text__met april,-0.003361749117667494
+text_logistic,text__met august,0.004769652920433904
+text_logistic,text__met december,-0.004868884295080692
+text_logistic,text__met january,0.004090040362799562
+text_logistic,text__met july,0.0034261649768974555
+text_logistic,text__met june,-0.00038211528823537484
+text_logistic,text__met march,-0.016815657457643986
+text_logistic,text__met november,0.011585523816736375
+text_logistic,text__met september,-0.006278388308416301
+text_logistic,text__mid,-0.0022861740634494807
+text_logistic,text__moderate,-0.005216316238928993
+text_logistic,text__moderate pace,-0.0018304343800829845
+text_logistic,text__moderate rate,-0.009086511160937281
+text_logistic,text__moderated,-0.010730160250183394
+text_logistic,text__moderately,-0.012106542517957153
+text_logistic,text__moderately business,-0.017590030586535733
+text_logistic,text__modest,-0.0024509386966490012
+text_logistic,text__modest income,-0.0021380928126592045
+text_logistic,text__monetary,0.004699614022940233
+text_logistic,text__monetary policy,0.0037483688652719008
+text_logistic,text__monitor,0.0013809845037913604
+text_logistic,text__monitor actual,0.0037444023330896613
+text_logistic,text__monitor economic,0.006862631085022773
+text_logistic,text__monitor incoming,0.004962762104512138
+text_logistic,text__monitor inflation,-0.007539326791579929
+text_logistic,text__monitoring,0.0104435335235218
+text_logistic,text__monitoring inflation,0.0034310588398183237
+text_logistic,text__month,-0.003904460194595204
+text_logistic,text__month add,-0.005875625754378147
+text_logistic,text__month basis,0.0022402564941644528
+text_logistic,text__month committee,-0.0006779530359530242
+text_logistic,text__month longer,0.004246057400032015
+text_logistic,text__months,0.0035875541013477836
+text_logistic,text__months committee,-0.0015910586906398739
+text_logistic,text__months consistent,0.002581447487230248
+text_logistic,text__months continue,0.00029665746422374113
+text_logistic,text__months household,-0.0010184000571461435
+text_logistic,text__months unemployment,-0.004073522836949957
+text_logistic,text__mortgage,-0.006928100432006446
+text_logistic,text__mortgage backed,-0.008230310439260832
+text_logistic,text__mortgage lending,-0.003548762008849991
+text_logistic,text__mortgage markets,0.004507856459235458
+text_logistic,text__moved,-0.0025595089811142322
+text_logistic,text__moving,-0.011310707986636036
+text_logistic,text__moving longer,0.00029665746422374113
+text_logistic,text__muted,-0.010584353705206226
+text_logistic,text__muted inflation,-0.010584353705206226
+text_logistic,text__national,-0.005323278268659919
+text_logistic,text__near,-0.013123482238581242
+text_logistic,text__near committee,-0.006072844890502335
+text_logistic,text__near mandate,-0.015625998180402983
+text_logistic,text__near percent,-0.0071048338308496006
+text_logistic,text__near recent,-0.007719716358431788
+text_logistic,text__near term,0.00499768112431762
+text_logistic,text__nearly,-0.014579625202994419
+text_logistic,text__nearly balanced,-0.014579625202994419
+text_logistic,text__necessary,-0.012897277845374675
+text_logistic,text__necessary support,-0.00047214547871512834
+text_logistic,text__needed,0.013207270164780257
+text_logistic,text__needed best,0.00952879564847716
+text_logistic,text__net,0.011465210927237297
+text_logistic,text__net exports,0.006385370847480736
+text_logistic,text__new,-0.02002775987596012
+text_logistic,text__no,0.007265022525712759
+text_logistic,text__no half,0.007265022525712759
+text_logistic,text__non,-0.0006905945680241224
+text_logistic,text__non energy,0.004320154578791543
+text_logistic,text__nonetheless,0.0024077740996174706
+text_logistic,text__nonresidential,0.0037923428279337925
+text_logistic,text__nonresidential structures,0.0037923428279337925
+text_logistic,text__normal,-0.015625998180402983
+text_logistic,text__normal longer,-0.015625998180402983
+text_logistic,text__normalization,0.00904039001750653
+text_logistic,text__normalization level,0.0031753996467409245
+text_logistic,text__not,0.0007227713269837922
+text_logistic,text__not preset,0.00029665746422374113
+text_logistic,text__november,0.017223666187556323
+text_logistic,text__objective,-0.004316897401283762
+text_logistic,text__objective assessment,-0.0030478399403136083
+text_logistic,text__objective committee,-0.005875625754378147
+text_logistic,text__objective likely,-0.010584353705206226
+text_logistic,text__objective longer,0.0007488050433621963
+text_logistic,text__objective medium,0.003999172936577054
+text_logistic,text__objective partly,0.001940159995568544
+text_logistic,text__objective pose,0.0019580434586892142
+text_logistic,text__objective support,0.004876931725139043
+text_logistic,text__objective symmetric,-0.0030478399403136083
+text_logistic,text__objectives,-0.009612828650897158
+text_logistic,text__objectives maximum,-0.007854328738762531
+text_logistic,text__occur,-0.01769148389563178
+text_logistic,text__october,0.0005116019610516782
+text_logistic,text__oil,0.0029838145186403178
+text_logistic,text__oil gasoline,0.0022625193286179633
+text_logistic,text__ongoing,0.00019943540274980275
+text_logistic,text__ongoing improvement,-0.003785294580465829
+text_logistic,text__open,-0.005515685735667849
+text_logistic,text__open market,-0.005515685735667849
+text_logistic,text__outcomes,-0.008501537470320054
+text_logistic,text__outlook,0.0010586045808598915
+text_logistic,text__outlook appear,-0.0015770130384454941
+text_logistic,text__outlook committee,0.00606322375905747
+text_logistic,text__outlook conditions,-0.00021319917501773668
+text_logistic,text__outlook economic,-0.011698264485873671
+text_logistic,text__outlook economy,0.005116974732497674
+text_logistic,text__outlook financial,0.006862631085022773
+text_logistic,text__outlook inflation,0.002927005494727286
+text_logistic,text__outlook informed,0.0037444023330896613
+text_logistic,text__outlook labor,-0.006446155273246652
+text_logistic,text__overall,0.0008268669756743734
+text_logistic,text__overall conditions,-0.0027905032786239917
+text_logistic,text__overall inflation,-0.004376669783205231
+text_logistic,text__overall labor,-0.002669316450029461
+text_logistic,text__pace,-0.0024496913409653167
+text_logistic,text__pace 40,0.005098415900270611
+text_logistic,text__pace 45,0.0073266982339108555
+text_logistic,text__pace asset,-0.001989017745394573
+text_logistic,text__pace composition,0.0018915169634159668
+text_logistic,text__pace earlier,0.008015863903089507
+text_logistic,text__pace economic,-0.0051874922956397255
+text_logistic,text__pace job,-0.017367677442273976
+text_logistic,text__pace labor,-0.008010470771560536
+text_logistic,text__pace purchases,-0.000741865719757155
+text_logistic,text__pace recent,0.004621851005600883
+text_logistic,text__pace recovery,0.00473164925707586
+text_logistic,text__pace remain,-0.002158431909817185
+text_logistic,text__pace unemployment,0.0024262941964742772
+text_logistic,text__particular,0.013782884488752891
+text_logistic,text__particular committee,0.013782884488752891
+text_logistic,text__partly,0.0007027641475509133
+text_logistic,text__partly reflecting,0.0007027641475509133
+text_logistic,text__past,0.0026186681583486803
+text_logistic,text__past declines,-0.0020514539298599663
+text_logistic,text__path,-0.0008413601109117226
+text_logistic,text__path federal,0.0037444023330896613
+text_logistic,text__patient,-0.0096395162689107
+text_logistic,text__pay,-0.0020864181072181216
+text_logistic,text__pay close,-0.0020864181072181216
+text_logistic,text__payments,0.0017043087029412942
+text_logistic,text__payments holdings,0.001728545247318325
+text_logistic,text__payments securities,0.013239148462771017
+text_logistic,text__payrolls,0.0013574009611988416
+text_logistic,text__payrolls housing,0.006315153393764902
+text_logistic,text__percent,-0.005746635564083836
+text_logistic,text__percent committee,-0.015150398556940938
+text_logistic,text__percent continues,0.002720563765524545
+text_logistic,text__percent currently,0.007955078600444879
+text_logistic,text__percent indicators,0.007623151832942158
+text_logistic,text__percent inflation,-0.0022112249447875745
+text_logistic,text__percent longer,3.7007962201475174e-05
+text_logistic,text__percent market,-0.0077104648214067996
+text_logistic,text__percent medium,-0.00256820382943182
+text_logistic,text__percent near,0.013917661830675632
+text_logistic,text__percent objective,0.0011571927896333936
+text_logistic,text__percent stance,0.008916386642797033
+text_logistic,text__percent target,-0.018819845367765778
+text_logistic,text__percentage,0.007265022525712759
+text_logistic,text__percentage point,0.007265022525712759
+text_logistic,text__performance,0.0019580434586892142
+text_logistic,text__performance monitoring,-0.001353754705616352
+text_logistic,text__period,0.004272185817419411
+text_logistic,text__period committee,0.013839905360962104
+text_logistic,text__period provide,-0.008420660732218609
+text_logistic,text__persistently,-0.004746312894538167
+text_logistic,text__persistently percent,-0.004746312894538167
+text_logistic,text__pick,-0.0033542392988546994
+text_logistic,text__picked,-0.00044091584717996784
+text_logistic,text__picked recent,0.015499461079618188
+text_logistic,text__plans,-0.008821762092385497
+text_logistic,text__point,0.0067680672118399805
+text_logistic,text__point committee,0.007265022525712759
+text_logistic,text__policies,-0.0022452712803758355
+text_logistic,text__policies reinvesting,-0.0022452712803758355
+text_logistic,text__policy,0.0004933203250821782
+text_logistic,text__policy accommodation,-0.013906485884365499
+text_logistic,text__policy actions,0.006969789423006045
+text_logistic,text__policy committee,0.0012890967367936946
+text_logistic,text__policy economic,0.0037444023330896613
+text_logistic,text__policy keeping,-0.006433807022548412
+text_logistic,text__policy particular,0.0063385413380390955
+text_logistic,text__policy reinvesting,0.0055093070499093715
+text_logistic,text__policy remain,0.00734871882685819
+text_logistic,text__policy remains,-0.00014699591874629117
+text_logistic,text__policy restraining,-0.0018218761540588723
+text_logistic,text__policy tools,0.001034027893428552
+text_logistic,text__pose,0.008916171518695424
+text_logistic,text__pose risks,0.00550060975679374
+text_logistic,text__pose significant,0.005695676656973273
+text_logistic,text__prepared,-0.009887936683903545
+text_logistic,text__prepared adjust,-0.0010023712252877953
+text_logistic,text__preset,0.00029665746422374113
+text_logistic,text__preset course,0.00029665746422374113
+text_logistic,text__pressure,0.007265429312091721
+text_logistic,text__pressure longer,0.001817192360580013
+text_logistic,text__pressures,-0.00939443471019775
+text_logistic,text__pressures committee,-0.00602106715677189
+text_logistic,text__pressures inflation,-0.00397128123141709
+text_logistic,text__pressures longer,-0.005517784183745572
+text_logistic,text__prevail,0.0037444023330896613
+text_logistic,text__prevail longer,0.0037444023330896613
+text_logistic,text__previously,-0.00864099859671538
+text_logistic,text__price,-0.0005361973942480441
+text_logistic,text__price stability,-0.0002950275679005317
+text_logistic,text__prices,0.00831965248376317
+text_logistic,text__prices dissipate,0.004320154578791543
+text_logistic,text__prices energy,0.006464179926144529
+text_logistic,text__prices longer,0.005278508114548726
+text_logistic,text__prices non,0.004320154578791543
+text_logistic,text__prices prices,0.009604048488425136
+text_logistic,text__prices rise,0.0020411366206844546
+text_logistic,text__principal,0.0017043087029412942
+text_logistic,text__principal payments,0.0017043087029412942
+text_logistic,text__private,-0.003548762008849991
+text_logistic,text__private credit,-0.003548762008849991
+text_logistic,text__program,0.009130195684524904
+text_logistic,text__program committee,-0.008368071313232053
+text_logistic,text__program ends,0.0013635777955282157
+text_logistic,text__program extend,0.0024151351222325822
+text_logistic,text__progress,-0.010974046136663562
+text_logistic,text__progress inflation,0.002757041332001008
+text_logistic,text__progress maximum,-0.010635649774268802
+text_logistic,text__progress objectives,-0.0021169544699802707
+text_logistic,text__progress realized,-0.015625998180402983
+text_logistic,text__projected,-0.0027715503343194356
+text_logistic,text__projected inflation,-0.010775176830130148
+text_logistic,text__projected no,0.007265022525712759
+text_logistic,text__promote,0.004614650603223525
+text_logistic,text__promote economic,-0.0006226389700882311
+text_logistic,text__promote smooth,-0.00021319917501773668
+text_logistic,text__promote stronger,0.0029385298060425717
+text_logistic,text__provide,0.00145920394440465
+text_logistic,text__provide support,-0.003548762008849991
+text_logistic,text__provided,-0.005949283454192608
+text_logistic,text__provided longer,-0.011968381203227196
+text_logistic,text__purchase,0.007345747622611141
+text_logistic,text__purchase program,0.0011669801387400825
+text_logistic,text__purchases,0.00043738174674136376
+text_logistic,text__purchases beginning,-0.005875625754378147
+text_logistic,text__purchases committee,0.007383873275419625
+text_logistic,text__purchases measured,-0.0036707035728628713
+text_logistic,text__purchases not,0.00029665746422374113
+text_logistic,text__purchases securities,-0.00021319917501773668
+text_logistic,text__purchases support,0.0010230772258542394
+text_logistic,text__purchases treasury,0.004707744612625245
+text_logistic,text__purchasing,-0.004438125871257233
+text_logistic,text__purchasing additional,0.007383873275419625
+text_logistic,text__quarter,-0.014378244565619973
+text_logistic,text__quarters,-0.0039290067127246255
+text_logistic,text__raise,0.006694054027530763
+text_logistic,text__raise target,0.006694054027530763
+text_logistic,text__range,-0.008299236444412213
+text_logistic,text__range committee,-0.011495988318432555
+text_logistic,text__range federal,-0.0036542138683030574
+text_logistic,text__range information,-0.008327194319616609
+text_logistic,text__range labor,-0.017128642173115948
+text_logistic,text__rate,-0.004098929650535954
+text_logistic,text__rate appropriate,0.0040321627021711205
+text_logistic,text__rate committee,-0.0024880746112575175
+text_logistic,text__rate considerable,-0.011968381203227196
+text_logistic,text__rate consistent,0.006916433702914699
+text_logistic,text__rate decline,-0.0008848802780543408
+text_logistic,text__rate declined,0.02956370120054853
+text_logistic,text__rate depend,0.0037444023330896613
+text_logistic,text__rate extended,0.005905088387609213
+text_logistic,text__rate federal,0.0037444023330896613
+text_logistic,text__rate gradually,0.004367188158156504
+text_logistic,text__rate job,-0.002292958122880238
+text_logistic,text__rate late,0.0063385413380390955
+text_logistic,text__rate levels,-0.015625998180402983
+text_logistic,text__rate likely,-0.0018631243653080825
+text_logistic,text__rate percent,0.006046658876819049
+text_logistic,text__rate remained,-0.010104129922032648
+text_logistic,text__rate remains,-0.002756994659214148
+text_logistic,text__rate seen,-0.0043955112764145765
+text_logistic,text__rate stayed,-0.02740046263031779
+text_logistic,text__rate way,0.0031753996467409245
+text_logistic,text__rates,-0.003998686133838809
+text_logistic,text__rates resource,-0.0012875763617365308
+text_logistic,text__rates support,0.0017303163262298454
+text_logistic,text__readings,-0.005039094351092191
+text_logistic,text__readings financial,-0.00397128123141709
+text_logistic,text__reaffirmed,-0.011071583834016099
+text_logistic,text__reaffirmed view,-0.011288879932400834
+text_logistic,text__realized,-0.0051401824598444265
+text_logistic,text__realized expected,-0.0051401824598444265
+text_logistic,text__reasonably,-0.00036721688979749227
+text_logistic,text__reasonably confident,-0.00036721688979749227
+text_logistic,text__received,-0.001777140607513029
+text_logistic,text__received federal,-0.0006913069467882144
+text_logistic,text__recent,0.005749807781095175
+text_logistic,text__recent indicators,-0.0035619145517866704
+text_logistic,text__recent low,-0.007719716358431788
+text_logistic,text__recent months,0.005984510446953633
+text_logistic,text__recent quarters,-0.006572472024069375
+text_logistic,text__recently,0.003402747700627925
+text_logistic,text__recognizes,0.0019580434586892142
+text_logistic,text__recognizes inflation,0.0019580434586892142
+text_logistic,text__recovery,0.0057098175280184665
+text_logistic,text__recovery context,-0.0053841922127359455
+text_logistic,text__recovery help,0.008094164210502696
+text_logistic,text__recovery housing,-0.014510662248334286
+text_logistic,text__recovery likely,-0.004287404088528775
+text_logistic,text__recovery strengthens,0.00734871882685819
+text_logistic,text__reduce,-0.0032863227302523113
+text_logistic,text__reduce pace,-0.0071082722314911905
+text_logistic,text__reduction,-0.007666328766445464
+text_logistic,text__reduction pace,-0.0036561595907222584
+text_logistic,text__reflecting,-0.00014230920922125818
+text_logistic,text__reflecting declines,0.003493787244897293
+text_logistic,text__reflecting earlier,-0.008625327836286202
+text_logistic,text__reflecting higher,0.0012092318860524665
+text_logistic,text__regularly,0.00616466650377195
+text_logistic,text__regularly review,0.00616466650377195
+text_logistic,text__reinvesting,0.0011116888607954078
+text_logistic,text__reinvesting principal,0.0011116888607954078
+text_logistic,text__related,0.007082965257532034
+text_logistic,text__related disruptions,0.008512493768439044
+text_logistic,text__relative,0.004411644992172788
+text_logistic,text__relative levels,0.005411695032357505
+text_logistic,text__relative maximum,-0.0030478399403136083
+text_logistic,text__relative objectives,0.0037444023330896613
+text_logistic,text__relative symmetric,0.0019920947087745332
+text_logistic,text__reluctant,-0.0021380928126592045
+text_logistic,text__reluctant add,-0.0021380928126592045
+text_logistic,text__remain,-0.006293942208336862
+text_logistic,text__remain anchored,-0.011968381203227196
+text_logistic,text__remain appropriate,0.00734871882685819
+text_logistic,text__remain contingent,0.00029665746422374113
+text_logistic,text__remain low,-0.003858886397609291
+text_logistic,text__remain near,-0.0060007402522599534
+text_logistic,text__remain reluctant,-0.0021380928126592045
+text_logistic,text__remain somewhat,0.013917661830675632
+text_logistic,text__remain strong,-0.008083172176166784
+text_logistic,text__remain subdued,0.007683362185592314
+text_logistic,text__remain time,0.0037444023330896613
+text_logistic,text__remain weak,-0.0019861137093923915
+text_logistic,text__remained,-0.008413663399737812
+text_logistic,text__remained low,-0.004142050181897352
+text_logistic,text__remained slow,-0.005280777194434051
+text_logistic,text__remained soft,-0.002133957887580965
+text_logistic,text__remained solid,-0.007173593525065185
+text_logistic,text__remained stable,-0.0012210640385782088
+text_logistic,text__remaining,-0.009889540980067984
+text_logistic,text__remains,-0.0063246392779875505
+text_logistic,text__remains accommodative,0.004172114411279843
+text_logistic,text__remains appropriate,-0.015625998180402983
+text_logistic,text__remains constrained,0.0024203473841618015
+text_logistic,text__remains depressed,-0.0008848802780543408
+text_logistic,text__remains elevated,0.009050662597573523
+text_logistic,text__remains percent,0.007265022525712759
+text_logistic,text__remains slow,-0.012514309777407764
+text_logistic,text__remains strong,-0.006504336183293487
+text_logistic,text__remove,-0.0074058850024963565
+text_logistic,text__remove policy,-0.0074058850024963565
+text_logistic,text__reserve,-0.02825788712158338
+text_logistic,text__resource,0.0012431915421197925
+text_logistic,text__resource slack,-0.001415413673294137
+text_logistic,text__resource utilization,-0.0008301570271249772
+text_logistic,text__resources,-0.008097854177727326
+text_logistic,text__resources diminished,0.006068361630016188
+text_logistic,text__restrain,-0.00024235589914761667
+text_logistic,text__restrain cost,-0.004287404088528775
+text_logistic,text__restraining,-0.0018218761540588723
+text_logistic,text__restraining economic,-0.0018218761540588723
+text_logistic,text__restraint,-0.005875625754378147
+text_logistic,text__restraint diminishing,-0.005875625754378147
+text_logistic,text__return,0.006340901430860511
+text_logistic,text__return higher,-0.0007501171211109762
+text_logistic,text__return percent,0.004172114411279843
+text_logistic,text__review,0.00616466650377195
+text_logistic,text__review size,-0.0010023712252877953
+text_logistic,text__rise,-0.007501204713860383
+text_logistic,text__rise gradually,-0.009749136486149366
+text_logistic,text__rise percent,0.002757041332001008
+text_logistic,text__risen,0.0033673794214521984
+text_logistic,text__risen significantly,-0.0016928120642946455
+text_logistic,text__rising,-0.007580986500623692
+text_logistic,text__rising moderate,-0.015572087183847337
+text_logistic,text__rising moderately,-0.011322916514096278
+text_logistic,text__rising solid,0.005718924279157235
+text_logistic,text__rising strong,0.0027790026315666575
+text_logistic,text__risks,0.0035409751175322192
+text_logistic,text__risks economic,0.0047851690554310405
+text_logistic,text__risks outlook,-0.002905187903012345
+text_logistic,text__rolling,-0.0006288612931652069
+text_logistic,text__rolling maturing,0.001144082718706073
+text_logistic,text__roughly,-0.0025862592318685496
+text_logistic,text__roughly balanced,0.002373438817338995
+text_logistic,text__run,-0.002351164946652253
+text_logistic,text__run actual,0.0037444023330896613
+text_logistic,text__run committee,-0.007608506466613573
+text_logistic,text__run dual,0.005411695032357505
+text_logistic,text__run goal,-0.0027715503343194356
+text_logistic,text__run goals,-0.0074058850024963565
+text_logistic,text__run likely,0.002927005494727286
+text_logistic,text__run objective,-0.003960923390662326
+text_logistic,text__run percent,-0.002514519811295147
+text_logistic,text__running,0.007713007642782246
+text_logistic,text__running committee,0.0028388441074097925
+text_logistic,text__running percent,0.006376000145065074
+text_logistic,text__running somewhat,0.005261006889746065
+text_logistic,text__sales,0.0037293198229243407
+text_logistic,text__second,0.0026310815553952926
+text_logistic,text__second quarter,0.0026310815553952926
+text_logistic,text__sector,0.0020628078254703304
+text_logistic,text__sector continues,0.013782158579055724
+text_logistic,text__sector improved,0.009608216988844906
+text_logistic,text__sector remains,-0.013703711347145365
+text_logistic,text__sector shown,-0.0008778949598212178
+text_logistic,text__securities,-0.0041613254605493795
+text_logistic,text__securities agency,0.001728545247318325
+text_logistic,text__securities announced,0.006519181141805194
+text_logistic,text__securities auction,0.001144082718706073
+text_logistic,text__securities committee,-0.002956143281363314
+text_logistic,text__securities employ,0.0013635777955282157
+text_logistic,text__securities end,0.00952879564847716
+text_logistic,text__securities holdings,0.007618508510097503
+text_logistic,text__securities light,-0.00021319917501773668
+text_logistic,text__securities maintain,-0.005875625754378147
+text_logistic,text__securities pace,0.0008721918860962167
+text_logistic,text__securities rolling,-0.0024010899268068256
+text_logistic,text__securities sizable,-0.006433807022548412
+text_logistic,text__seeks,-0.00024423216126408037
+text_logistic,text__seeks foster,-0.00024423216126408037
+text_logistic,text__seen,-0.010271792478143742
+text_logistic,text__seen improvement,-0.0043955112764145765
+text_logistic,text__sees,-0.00022777041908636237
+text_logistic,text__sees risks,-0.006952652879509282
+text_logistic,text__september,-0.005752040767501985
+text_logistic,text__september committee,-0.0022452712803758355
+text_logistic,text__september indicates,-0.0016780343015156077
+text_logistic,text__sheet,0.009886008299279051
+text_logistic,text__sheet normalization,0.005405786947727121
+text_logistic,text__shortfall,0.002757041332001008
+text_logistic,text__shortfall inflation,0.002757041332001008
+text_logistic,text__shown,0.003261396529274877
+text_logistic,text__shown improvement,-0.004442245627433147
+text_logistic,text__shown signs,0.005103858145492242
+text_logistic,text__significant,0.004751562756975204
+text_logistic,text__significant downside,0.005675621319850941
+text_logistic,text__significantly,-0.0016928120642946455
+text_logistic,text__signs,0.005837719118951148
+text_logistic,text__signs improvement,0.0018389724176236415
+text_logistic,text__sizable,-0.009315245088684738
+text_logistic,text__sizable increasing,-0.005875625754378147
+text_logistic,text__sizable levels,-0.006433807022548412
+text_logistic,text__size,0.006814671912938734
+text_logistic,text__size composition,0.0035863617293049243
+text_logistic,text__size future,0.0009769056183795842
+text_logistic,text__size pace,0.0018915169634159668
+text_logistic,text__slack,-0.001415413673294137
+text_logistic,text__slack continuing,-0.004287404088528775
+text_logistic,text__slow,-0.0012813223634863095
+text_logistic,text__slow fiscal,-0.006843480621609811
+text_logistic,text__slowed,0.0050317967827125405
+text_logistic,text__slower,-0.01372401165080071
+text_logistic,text__slower pace,-0.0002671648179844044
+text_logistic,text__slowing,-0.0006716716286419286
+text_logistic,text__smooth,-0.00021319917501773668
+text_logistic,text__smooth transition,-0.00021319917501773668
+text_logistic,text__soft,0.0001988270826405497
+text_logistic,text__soft inflation,-0.005077071675707997
+text_logistic,text__software,0.0015118328813440078
+text_logistic,text__software rising,0.005621596910152017
+text_logistic,text__solid,-0.000607326287793983
+text_logistic,text__solid average,0.0025518603029803417
+text_logistic,text__solid rate,0.0032194772985799577
+text_logistic,text__somewhat,0.0037932497683247366
+text_logistic,text__somewhat committee,0.001062030823678525
+text_logistic,text__somewhat inflation,0.004086311907518491
+text_logistic,text__somewhat low,0.005411695032357505
+text_logistic,text__somewhat percent,0.016249821110575737
+text_logistic,text__spending,-0.0004750724043345517
+text_logistic,text__spending appears,-0.02229195037004426
+text_logistic,text__spending business,0.006568856556305948
+text_logistic,text__spending continued,0.0040791008349141174
+text_logistic,text__spending equipment,0.0003176308010139198
+text_logistic,text__spending expanding,-0.001357387588702554
+text_logistic,text__spending increasing,0.013543969881364073
+text_logistic,text__spending picked,0.006010516802911595
+text_logistic,text__spending rising,-0.005253568756901422
+text_logistic,text__stability,-0.0014425458725519113
+text_logistic,text__stability committee,-0.0010813088609151293
+text_logistic,text__stability determining,0.004781124315199415
+text_logistic,text__stability incoming,-0.005875625754378147
+text_logistic,text__stability light,-0.010884481865975001
+text_logistic,text__stability substantial,-0.00684126748398655
+text_logistic,text__stabilize,0.007074715758202257
+text_logistic,text__stabilize committee,0.005255004886797919
+text_logistic,text__stable,-0.005356018120052211
+text_logistic,text__stable consistent,-0.004035000284722718
+text_logistic,text__stable inflation,-0.006673190314722058
+text_logistic,text__stable measures,0.005411695032357505
+text_logistic,text__stance,0.006503192445844721
+text_logistic,text__stance monetary,0.006503192445844721
+text_logistic,text__starts,-0.005093798222563648
+text_logistic,text__statement,-0.016304492469392886
+text_logistic,text__statutory,-0.00024423216126408037
+text_logistic,text__statutory mandate,-0.00024423216126408037
+text_logistic,text__stayed,-0.024734933828382676
+text_logistic,text__stayed low,-0.02485494520617469
+text_logistic,text__steps,-0.007179881235115542
+text_logistic,text__steps future,-0.0036707035728628713
+text_logistic,text__stocks,-0.00021319917501773668
+text_logistic,text__stocks better,-0.00021319917501773668
+text_logistic,text__strains,-0.0026819721448750333
+text_logistic,text__strains global,0.0029556062278184698
+text_logistic,text__strength,-0.002243623768474763
+text_logistic,text__strength broader,-0.002243623768474763
+text_logistic,text__strengthen,-0.0003874290016362134
+text_logistic,text__strengthen economic,0.0009004428267771954
+text_logistic,text__strengthen somewhat,0.0030145917034208928
+text_logistic,text__strengthened,-0.005548961230900353
+text_logistic,text__strengthening,0.006942134368680389
+text_logistic,text__strengthening labor,0.009375565634282775
+text_logistic,text__strengthens,0.0105874305779031
+text_logistic,text__strengthens committee,0.005537064175672718
+text_logistic,text__strengthens particular,0.007383873275419625
+text_logistic,text__strong,-0.010918321844982206
+text_logistic,text__strong average,-0.0010232080695567294
+text_logistic,text__strong economic,-0.0021859549083326916
+text_logistic,text__strong job,-0.0015653466855337955
+text_logistic,text__strong labor,-0.009543482582036144
+text_logistic,text__stronger,0.004760819566406241
+text_logistic,text__stronger economic,0.001978235317638568
+text_logistic,text__stronger pace,0.005411695032357505
+text_logistic,text__strongly,-0.002955104178826836
+text_logistic,text__structures,0.0015118328813440078
+text_logistic,text__structures continues,0.006401767894579203
+text_logistic,text__structures weak,0.005579235283067891
+text_logistic,text__subdued,0.001629616803913096
+text_logistic,text__subdued inflation,-0.004288514699983147
+text_logistic,text__subdued outlook,0.002927005494727286
+text_logistic,text__subdued time,-0.001415413673294137
+text_logistic,text__substantial,-0.0038343681760355077
+text_logistic,text__substantial resource,-0.001415413673294137
+text_logistic,text__substantially,-0.0005417875264480086
+text_logistic,text__substantially context,0.0011418275959705342
+text_logistic,text__sufficient,-0.0016951788604621448
+text_logistic,text__sufficient underlying,-0.009461090698575127
+text_logistic,text__suggest,-0.0027111770416344736
+text_logistic,text__suggests,-0.0036064511587266565
+text_logistic,text__suggests economic,0.0014258518645239142
+text_logistic,text__suggests economy,-0.002391583709911666
+text_logistic,text__suggests underutilization,-0.01371314021670799
+text_logistic,text__supply,-0.004281039357191227
+text_logistic,text__supply chain,0.005966150702616303
+text_logistic,text__support,-0.01234723950030097
+text_logistic,text__support continued,-0.006791760549789783
+text_logistic,text__support economic,0.005702325548423797
+text_logistic,text__support mortgage,-0.0007662843361430002
+text_logistic,text__support ongoing,-0.009461090698575127
+text_logistic,text__support stronger,0.003497564381256947
+text_logistic,text__supporting,0.004172114411279843
+text_logistic,text__supporting improvement,0.0025047527755401185
+text_logistic,text__supporting strengthening,0.009403652101797751
+text_logistic,text__supporting strong,-0.006514807049037125
+text_logistic,text__supportive,-0.008183702465417298
+text_logistic,text__supportive economic,-0.008183702465417298
+text_logistic,text__supports,-0.008229909241909864
+text_logistic,text__supports committee,-0.008229909241909864
+text_logistic,text__survey,-0.009961423808078242
+text_logistic,text__survey based,-0.009961423808078242
+text_logistic,text__sustained,0.007471411609989565
+text_logistic,text__sustained expansion,-0.0030478399403136083
+text_logistic,text__sustained improvement,0.005139360384811116
+text_logistic,text__sustained return,0.002592295172629184
+text_logistic,text__swap,-0.019790884602296447
+text_logistic,text__symmetric,-0.005288796744341735
+text_logistic,text__symmetric inflation,0.0019920947087745332
+text_logistic,text__symmetric percent,-0.00920819245251204
+text_logistic,text__taken,0.000863203071029002
+text_logistic,text__taken actions,0.0073266982339108555
+text_logistic,text__taking,0.011378337638478984
+text_logistic,text__taking account,0.011378337638478984
+text_logistic,text__target,-0.009930510573149696
+text_logistic,text__target federal,-0.015625998180402983
+text_logistic,text__target range,-0.008383647105467176
+text_logistic,text__temporary,-0.012683296164551498
+text_logistic,text__term,-0.006370357320977968
+text_logistic,text__term committee,-0.0038572183640103765
+text_logistic,text__term earlier,-0.0021628411763155784
+text_logistic,text__term inflation,-0.0028720257681791803
+text_logistic,text__term labor,-0.013670406180603945
+text_logistic,text__term likely,0.002009225654405373
+text_logistic,text__term near,0.002199051027035672
+text_logistic,text__term rates,-0.0008243265731176007
+text_logistic,text__term risks,0.001298991262672636
+text_logistic,text__term securities,-0.011579483479131137
+text_logistic,text__term stabilize,0.013917661830675632
+text_logistic,text__term transitory,0.006103661002708782
+text_logistic,text__term treasury,0.004864107122179102
+text_logistic,text__tight,0.0024203473841618015
+text_logistic,text__tight credit,0.0024203473841618015
+text_logistic,text__time,-0.0011808073336167912
+text_logistic,text__time asset,0.0013635777955282157
+text_logistic,text__time committee,-0.009485193943932657
+text_logistic,text__time levels,0.011559072434632027
+text_logistic,text__time rate,0.0026537682825497205
+text_logistic,text__time warrant,-0.015625998180402983
+text_logistic,text__timing,0.0006696046921705482
+text_logistic,text__timing size,0.0009769056183795842
+text_logistic,text__today,-0.0049697686732688845
+text_logistic,text__today continue,0.0014960098269003225
+text_logistic,text__today reaffirmed,-0.011288879932400834
+text_logistic,text__today target,0.00662191822384189
+text_logistic,text__tools,3.2191061417080586e-05
+text_logistic,text__tools appropriate,0.0018725520382771653
+text_logistic,text__tools necessary,-0.0008389349692866101
+text_logistic,text__tools promote,-0.0019737620283223596
+text_logistic,text__transactions,-0.015895432336596738
+text_logistic,text__transition,-0.00021319917501773668
+text_logistic,text__transition markets,-0.00021319917501773668
+text_logistic,text__transitory,-0.00229211392966456
+text_logistic,text__transitory effects,-0.002709064938168743
+text_logistic,text__treasury,0.004158935952469313
+text_logistic,text__treasury agency,0.0013635777955282157
+text_logistic,text__treasury securities,0.005270131100035396
+text_logistic,text__trends,-0.004288514699983147
+text_logistic,text__trends stable,-0.004288514699983147
+text_logistic,text__trillion,-0.003548762008849991
+text_logistic,text__trillion agency,-0.003548762008849991
+text_logistic,text__turn,0.00029665746422374113
+text_logistic,text__turn promote,0.00029665746422374113
+text_logistic,text__uncertainties,-0.012076341805373684
+text_logistic,text__underlying,0.008490834721359922
+text_logistic,text__underlying inflation,0.013409534333773405
+text_logistic,text__underlying strength,-0.002243623768474763
+text_logistic,text__underutilization,-0.008097854177727326
+text_logistic,text__underutilization labor,-0.008097854177727326
+text_logistic,text__unemployment,0.0020071640716336566
+text_logistic,text__unemployment modest,0.002989794744914756
+text_logistic,text__unemployment rate,-0.0033452365799444975
+text_logistic,text__utilization,0.0017247181553392418
+text_logistic,text__utilization context,-0.0007501171211109762
+text_logistic,text__utilization subdued,-0.0012875763617365308
+text_logistic,text__view,-0.008119633877574629
+text_logistic,text__view current,-0.012044018849789702
+text_logistic,text__view highly,-0.0023540804499695314
+text_logistic,text__view realized,0.007348753274770491
+text_logistic,text__view sustained,-0.010584353705206226
+text_logistic,text__views,-0.009084441417357855
+text_logistic,text__views normal,-0.015625998180402983
+text_logistic,text__warrant,-0.0029429338474705833
+text_logistic,text__warrant exceptionally,0.004331266006762286
+text_logistic,text__warrant gradual,0.0037444023330896613
+text_logistic,text__warrant keeping,-0.015625998180402983
+text_logistic,text__warranted,0.006320315831554718
+text_logistic,text__way,0.0031753996467409245
+text_logistic,text__way policy,0.0031753996467409245
+text_logistic,text__weak,0.006499447201949086
+text_logistic,text__weak employers,0.010308019705096679
+text_logistic,text__weak housing,0.0016242942296907502
+text_logistic,text__wealth,0.0024203473841618015
+text_logistic,text__wealth tight,0.0024203473841618015
+text_logistic,text__weather,0.0010692584951880143
+text_logistic,text__wide,-0.007686429280105572
+text_logistic,text__wide range,-0.007686429280105572
+text_logistic,text__year,0.009572374567116647
+text_logistic,text__year committee,-0.0014328597385384488
+text_logistic,text__years,0.0072575710749331725
+text_logistic,text__years ahead,0.007265022525712759
+fusion_logistic,price__return_1,-0.29892251133750297
+fusion_logistic,price__return_5,0.35097626510247976
+fusion_logistic,price__return_20,0.012801326745711852
+fusion_logistic,price__return_60,0.04610346557675853
+fusion_logistic,price__volatility_20,0.22802052010368434
+fusion_logistic,price__quote_age_days,0.0006735704564382417
+fusion_logistic,text__12,0.007034368484970076
+fusion_logistic,text__12 month,0.007034368484970076
+fusion_logistic,text__15,-0.011253638793052839
+fusion_logistic,text__20,-0.013791479203570059
+fusion_logistic,text__20 billion,-0.013791479203570059
+fusion_logistic,text__2010,-0.007940930827420494
+fusion_logistic,text__2011,0.009098946423701041
+fusion_logistic,text__2013,-0.010340793119185728
+fusion_logistic,text__2013 committee,-0.010340793119185728
+fusion_logistic,text__2014,0.003928569614174298
+fusion_logistic,text__2014 committee,0.003928569614174298
+fusion_logistic,text__25,-0.008427447303197246
+fusion_logistic,text__25 billion,-0.00394860747167484
+fusion_logistic,text__25 trillion,-0.004269382243188597
+fusion_logistic,text__30,-0.009629453406891305
+fusion_logistic,text__30 billion,0.0007947924139315278
+fusion_logistic,text__31,-0.011851565135538644
+fusion_logistic,text__35,0.0063597906835712
+fusion_logistic,text__35 billion,0.0063597906835712
+fusion_logistic,text__40,0.005554154948182536
+fusion_logistic,text__40 billion,0.005554154948182536
+fusion_logistic,text__45,0.005293221804395478
+fusion_logistic,text__45 billion,0.005293221804395478
+fusion_logistic,text__600,0.010956456219108401
+fusion_logistic,text__600 billion,0.010956456219108401
+fusion_logistic,text__accommodation,-0.0092378207380834
+fusion_logistic,text__accommodation balanced,-0.006991656317580652
+fusion_logistic,text__accommodation economic,-0.006949843064567146
+fusion_logistic,text__accommodative,0.001912849877353947
+fusion_logistic,text__accommodative committee,0.0007433194679208038
+fusion_logistic,text__accommodative financial,-0.009187591736327065
+fusion_logistic,text__accommodative stance,0.009192325858254897
+fusion_logistic,text__accommodative supporting,0.000980808318719465
+fusion_logistic,text__accommodative turn,0.001693913841879282
+fusion_logistic,text__account,-0.00536036045027311
+fusion_logistic,text__account extent,0.0068749033456863085
+fusion_logistic,text__account likely,0.0020215217129811464
+fusion_logistic,text__account wide,-0.00592358940495661
+fusion_logistic,text__achieved,0.0006094571538312585
+fusion_logistic,text__actions,0.0035650487415746905
+fusion_logistic,text__actions maintain,0.007755998392299251
+fusion_logistic,text__activity,-0.0075420995720239525
+fusion_logistic,text__activity continued,-0.01602810282794411
+fusion_logistic,text__activity expand,-0.008684919804323777
+fusion_logistic,text__activity expanding,0.002854824180430937
+fusion_logistic,text__activity labor,-0.007220317303016207
+fusion_logistic,text__activity picked,-0.001586581047035871
+fusion_logistic,text__activity rising,0.0013418520276947698
+fusion_logistic,text__activity strong,0.0022526713216993784
+fusion_logistic,text__actual,0.004717740424053039
+fusion_logistic,text__actual expected,0.002786373493232185
+fusion_logistic,text__actual path,0.002786373493232185
+fusion_logistic,text__add,-0.007745450873634354
+fusion_logistic,text__add holdings,-0.006462795930842262
+fusion_logistic,text__add payrolls,-0.0033801899628166164
+fusion_logistic,text__addition,0.0021474127141050143
+fusion_logistic,text__additional,0.020009415267286182
+fusion_logistic,text__additional agency,0.0069965245554297695
+fusion_logistic,text__additional measures,0.0076437039147464044
+fusion_logistic,text__adjust,0.0013868234751205739
+fusion_logistic,text__adjust holdings,-0.004686346101971364
+fusion_logistic,text__adjustments,0.007094183660868567
+fusion_logistic,text__adjustments stance,0.002786373493232185
+fusion_logistic,text__adjustments target,0.003704128342796038
+fusion_logistic,text__advance,0.0020677038759123107
+fusion_logistic,text__advanced,0.007012975422211761
+fusion_logistic,text__advanced housing,0.001648833002891198
+fusion_logistic,text__advancing,-0.01444316330910431
+fusion_logistic,text__advancing recovery,-0.01444316330910431
+fusion_logistic,text__affect,-0.0024778521822546103
+fusion_logistic,text__agency,-0.013299863756351686
+fusion_logistic,text__agency debt,-0.00891274941371093
+fusion_logistic,text__agency mortgage,-0.009018458456643903
+fusion_logistic,text__ahead,0.0076437039147464044
+fusion_logistic,text__ahead projected,0.0076437039147464044
+fusion_logistic,text__alignment,-0.0007559891351179452
+fusion_logistic,text__alignment sales,-0.0007559891351179452
+fusion_logistic,text__amounts,-0.0073760102701040855
+fusion_logistic,text__anchored,-0.0007967451672714952
+fusion_logistic,text__anchored committee,-0.0006546326631917985
+fusion_logistic,text__anchored determining,0.004528535662312186
+fusion_logistic,text__announced,0.005206015467421196
+fusion_logistic,text__announced september,-0.005174049851463429
+fusion_logistic,text__anticipate,0.0029790033836406067
+fusion_logistic,text__anticipate based,-0.0015058559134922716
+fusion_logistic,text__anticipate economic,0.0041249054910929665
+fusion_logistic,text__anticipated,-0.013605045072687052
+fusion_logistic,text__anticipated remain,-0.007046926755956947
+fusion_logistic,text__anticipates,-0.008796515703417824
+fusion_logistic,text__anticipates appropriate,-0.007046926755956947
+fusion_logistic,text__anticipates doing,0.0014164789043795679
+fusion_logistic,text__anticipates economic,-0.00509594293870281
+fusion_logistic,text__anticipates employment,-0.015457368976571654
+fusion_logistic,text__anticipates exceptionally,0.0069965245554297695
+fusion_logistic,text__anticipates gradual,-0.0008681535748044139
+fusion_logistic,text__anticipates inflation,0.002627415550297361
+fusion_logistic,text__anticipates unemployment,-0.00509594293870281
+fusion_logistic,text__apart,0.007881858885198966
+fusion_logistic,text__appear,-0.0028675881166760255
+fusion_logistic,text__appear roughly,-0.001016143868412312
+fusion_logistic,text__appears,-0.033527692130601354
+fusion_logistic,text__appears rising,-0.011988241861026854
+fusion_logistic,text__approach,-0.006991656317580652
+fusion_logistic,text__approach consistent,-0.006991656317580652
+fusion_logistic,text__appropriate,-0.015904710248277304
+fusion_logistic,text__appropriate account,0.0020215217129811464
+fusion_logistic,text__appropriate considerable,0.0069596924722401315
+fusion_logistic,text__appropriate determining,-0.015457368976571654
+fusion_logistic,text__appropriate long,0.0076437039147464044
+fusion_logistic,text__appropriate maintain,-0.008484507003628043
+fusion_logistic,text__appropriate outlook,0.002814124666368946
+fusion_logistic,text__appropriate policy,-0.010661166491767817
+fusion_logistic,text__appropriate raise,-0.009155174686148326
+fusion_logistic,text__april,-0.0048567651458346905
+fusion_logistic,text__arrangements,-0.010779907839350358
+fusion_logistic,text__assess,-0.005293224708556423
+fusion_logistic,text__assess progress,-0.015457368976571654
+fusion_logistic,text__assess realized,0.003790160534650175
+fusion_logistic,text__assessment,-0.007365623874463563
+fusion_logistic,text__assessment account,-0.00592358940495661
+fusion_logistic,text__assessment factors,-0.003817031386902189
+fusion_logistic,text__assessment likely,-0.0004167177615199306
+fusion_logistic,text__asset,-0.002562519440588028
+fusion_logistic,text__asset backed,-0.015329526022348803
+fusion_logistic,text__asset purchase,0.005485795372991361
+fusion_logistic,text__asset purchases,0.002584941924859205
+fusion_logistic,text__attention,-0.0037409007211365933
+fusion_logistic,text__attention evolution,-0.0037409007211365933
+fusion_logistic,text__auction,-0.00576120452673449
+fusion_logistic,text__auction anticipates,0.0014164789043795679
+fusion_logistic,text__auction committee,0.0013650669613552292
+fusion_logistic,text__auction policy,-0.01379789976946816
+fusion_logistic,text__auction taken,0.007755998392299251
+fusion_logistic,text__august,-0.004175106359534039
+fusion_logistic,text__available,-0.0012175694169290958
+fusion_logistic,text__average,0.0057286771523043685
+fusion_logistic,text__average maturity,0.000959559381890454
+fusion_logistic,text__average recent,0.0030037410409316876
+fusion_logistic,text__backdrop,-0.006174775159574254
+fusion_logistic,text__backdrop committee,-0.006174775159574254
+fusion_logistic,text__backed,-0.016984512228400125
+fusion_logistic,text__backed securities,-0.014263154893302533
+fusion_logistic,text__balance,0.006838672005114897
+fusion_logistic,text__balance consistent,0.004891797840302968
+fusion_logistic,text__balance range,-0.009952081628292983
+fusion_logistic,text__balance recent,0.0018802101134464816
+fusion_logistic,text__balance sheet,0.009060135131661847
+fusion_logistic,text__balanced,-0.007865575293340463
+fusion_logistic,text__balanced approach,-0.006991656317580652
+fusion_logistic,text__balanced committee,-0.002792617362203364
+fusion_logistic,text__balanced inflation,-0.00848573648354004
+fusion_logistic,text__balanced view,-0.000731425959076413
+fusion_logistic,text__bank,-0.019949898852698638
+fusion_logistic,text__bank lending,-0.006375910067087868
+fusion_logistic,text__banks,-0.007423992200706843
+fusion_logistic,text__based,-0.014670901613572523
+fusion_logistic,text__based assessment,-0.003817031386902189
+fusion_logistic,text__based measures,-0.014519410484650096
+fusion_logistic,text__basis,0.007034368484970076
+fusion_logistic,text__basis expected,0.0021693165774716644
+fusion_logistic,text__basis overall,-0.00253444607443971
+fusion_logistic,text__begin,-0.0018252446411613026
+fusion_logistic,text__begin remove,-0.006991656317580652
+fusion_logistic,text__beginning,-0.009184891133551863
+fusion_logistic,text__best,0.010956456219108401
+fusion_logistic,text__best foster,0.010956456219108401
+fusion_logistic,text__better,-0.0007559891351179452
+fusion_logistic,text__better alignment,-0.0007559891351179452
+fusion_logistic,text__billion,0.003462298768830474
+fusion_logistic,text__billion agency,-0.004269382243188597
+fusion_logistic,text__billion longer,0.010956456219108401
+fusion_logistic,text__billion month,-0.0002153059765674938
+fusion_logistic,text__broader,0.0011552417625323441
+fusion_logistic,text__broader economy,-0.0004167177615199306
+fusion_logistic,text__broader financial,0.0019193094552030089
+fusion_logistic,text__broadly,0.0036276481702095962
+fusion_logistic,text__broadly supports,-0.003817031386902189
+fusion_logistic,text__business,-0.002603815976133147
+fusion_logistic,text__business fixed,-0.0014337352959242749
+fusion_logistic,text__business investment,-0.000700056999039352
+fusion_logistic,text__business spending,-0.0008681535748044139
+fusion_logistic,text__carefully,0.0024438806238109463
+fusion_logistic,text__carefully evidence,-0.00015933876584185206
+fusion_logistic,text__carefully monitor,0.002786373493232185
+fusion_logistic,text__central,-0.011485370914026802
+fusion_logistic,text__central banks,-0.007423992200706843
+fusion_logistic,text__chain,0.006329490498181955
+fusion_logistic,text__chain disruptions,0.006329490498181955
+fusion_logistic,text__changed,-0.009081956406722092
+fusion_logistic,text__changed balance,0.005462490181812596
+fusion_logistic,text__changed consistent,-0.004827097859219462
+fusion_logistic,text__changes,0.003511392637681646
+fusion_logistic,text__close,-0.008227036716636878
+fusion_logistic,text__close attention,-0.0037409007211365933
+fusion_logistic,text__closely,-0.0017367619112131944
+fusion_logistic,text__closely monitor,-0.002828754676722359
+fusion_logistic,text__closely support,-0.01206453378413107
+fusion_logistic,text__closely view,0.004796087761904991
+fusion_logistic,text__coming,-0.00010776134389158706
+fusion_logistic,text__coming months,0.00019030227104192016
+fusion_logistic,text__coming quarters,-0.0039242937224920815
+fusion_logistic,text__commercial,-0.017364002720107644
+fusion_logistic,text__committee,-0.009288996339892658
+fusion_logistic,text__committee add,-0.003817031386902189
+fusion_logistic,text__committee anticipates,-0.006510330110782861
+fusion_logistic,text__committee assess,-0.00592358940495661
+fusion_logistic,text__committee carefully,0.002786373493232185
+fusion_logistic,text__committee closely,0.005829557977477416
+fusion_logistic,text__committee consider,0.0076437039147464044
+fusion_logistic,text__committee continue,-0.008588037464389877
+fusion_logistic,text__committee continues,-0.006442840242174419
+fusion_logistic,text__committee currently,-0.009434659967477521
+fusion_logistic,text__committee decided,0.007228152647043494
+fusion_logistic,text__committee decides,-0.006991656317580652
+fusion_logistic,text__committee decisions,0.001693913841879282
+fusion_logistic,text__committee dual,0.0010294294513104483
+fusion_logistic,text__committee expectation,0.001693913841879282
+fusion_logistic,text__committee expects,-0.006495661915322955
+fusion_logistic,text__committee holdings,-0.009059068762520994
+fusion_logistic,text__committee judges,-0.002275559363464885
+fusion_logistic,text__committee likely,-0.001953328773684941
+fusion_logistic,text__committee longer,-0.006991656317580652
+fusion_logistic,text__committee maintain,0.0020012339533307453
+fusion_logistic,text__committee maintaining,-0.0026364789788133635
+fusion_logistic,text__committee met,-0.002286670622710892
+fusion_logistic,text__committee monitoring,0.004796087761904991
+fusion_logistic,text__committee outlook,-0.003817031386902189
+fusion_logistic,text__committee percent,0.003103395339112054
+fusion_logistic,text__committee recognizes,0.002185832976546842
+fusion_logistic,text__committee regularly,0.004258943131591428
+fusion_logistic,text__committee seeks,0.0002555715233816016
+fusion_logistic,text__committee sees,-8.462580989536342e-05
+fusion_logistic,text__committee sizable,-0.003817031386902189
+fusion_logistic,text__committee symmetric,6.912410828967879e-05
+fusion_logistic,text__committee today,-0.011787197253753826
+fusion_logistic,text__committee views,-0.009161480599420804
+fusion_logistic,text__commodities,-0.00042256339366728083
+fusion_logistic,text__commodity,0.0030447405357107624
+fusion_logistic,text__compensation,-0.00857539772759055
+fusion_logistic,text__compensation declined,-0.011464525264179433
+fusion_logistic,text__compensation moved,-0.0025296138027039623
+fusion_logistic,text__compensation remain,0.0025476891869175783
+fusion_logistic,text__composition,-0.0018326532684990622
+fusion_logistic,text__composition asset,0.0020215217129811464
+fusion_logistic,text__composition securities,-0.004686346101971364
+fusion_logistic,text__conditions,-0.004130421239814505
+fusion_logistic,text__conditions accommodative,0.0019193094552030089
+fusion_logistic,text__conditions committee,-0.010955689139975798
+fusion_logistic,text__conditions evolve,0.002786373493232185
+fusion_logistic,text__conditions financial,0.0020330387689275796
+fusion_logistic,text__conditions improved,-0.012067982687299817
+fusion_logistic,text__conditions inception,-0.004580445712707596
+fusion_logistic,text__conditions including,-0.004506239796181867
+fusion_logistic,text__conditions indicators,-0.001681854221730518
+fusion_logistic,text__conditions inflation,0.007007237486561931
+fusion_logistic,text__conditions light,-0.004580445712707596
+fusion_logistic,text__conditions private,-0.004269382243188597
+fusion_logistic,text__conditions relative,0.003790160534650175
+fusion_logistic,text__conditions remain,-0.014433667575288568
+fusion_logistic,text__conditions return,0.0009108494097177553
+fusion_logistic,text__conditions shown,0.0048220517385195475
+fusion_logistic,text__conditions strengthen,0.0032538845105667797
+fusion_logistic,text__conditions sustained,0.0030039201809735645
+fusion_logistic,text__conditions time,-0.015457368976571654
+fusion_logistic,text__confident,-0.003664935960942632
+fusion_logistic,text__confident inflation,-0.003664935960942632
+fusion_logistic,text__consequently,0.0012294160357118231
+fusion_logistic,text__consequently anticipates,-0.0015859216032630744
+fusion_logistic,text__consequently committee,0.0028583567363586262
+fusion_logistic,text__consider,0.0076437039147464044
+fusion_logistic,text__consider information,0.0076437039147464044
+fusion_logistic,text__considerable,0.0012524829960547136
+fusion_logistic,text__considerable time,-0.0009905470649108265
+fusion_logistic,text__consistent,-0.0027991394069785346
+fusion_logistic,text__consistent committee,0.0010294294513104483
+fusion_logistic,text__consistent dual,-0.00757753383730721
+fusion_logistic,text__consistent growing,0.0068749033456863085
+fusion_logistic,text__consistent levels,-0.015457368976571654
+fusion_logistic,text__consistent longer,-0.0013546304289792737
+fusion_logistic,text__consistent mandate,0.015060923143999306
+fusion_logistic,text__consistent statutory,0.0002555715233816016
+fusion_logistic,text__consistent sustained,0.008094043015713736
+fusion_logistic,text__constrained,-2.060831642387819e-05
+fusion_logistic,text__constrained high,0.0006484551101356832
+fusion_logistic,text__consumer,-0.005722324501967277
+fusion_logistic,text__context,-0.0030085494924272657
+fusion_logistic,text__context price,-0.0030085494924272657
+fusion_logistic,text__contingent,0.001693913841879282
+fusion_logistic,text__contingent committee,0.001693913841879282
+fusion_logistic,text__continue,0.007696837697523141
+fusion_logistic,text__continue anchored,0.0076437039147464044
+fusion_logistic,text__continue evaluate,-0.0007559891351179452
+fusion_logistic,text__continue monitor,0.0019214900958310823
+fusion_logistic,text__continue pay,-0.004606069950752162
+fusion_logistic,text__continue pose,0.006301289926020604
+fusion_logistic,text__continue program,-0.005174049851463429
+fusion_logistic,text__continue purchases,0.0029693304027064355
+fusion_logistic,text__continue purchasing,0.010208236767235358
+fusion_logistic,text__continued,-0.006888799706348012
+fusion_logistic,text__continued advance,0.0036318748424346457
+fusion_logistic,text__continued expand,-0.0011437867147569148
+fusion_logistic,text__continued grow,0.010907613798596902
+fusion_logistic,text__continued progress,-0.010363399469688521
+fusion_logistic,text__continued run,-0.010635713735817972
+fusion_logistic,text__continued strengthen,-0.005748813228829688
+fusion_logistic,text__continues,-0.005832606044553659
+fusion_logistic,text__continues anticipate,0.004313822079806895
+fusion_logistic,text__continues closely,-0.008088855325673303
+fusion_logistic,text__continues depressed,0.01454106664961429
+fusion_logistic,text__continues expect,0.007654788887736736
+fusion_logistic,text__continues monitor,-0.0056708382364830286
+fusion_logistic,text__continues risks,-0.009506610316175142
+fusion_logistic,text__continues run,-0.008484507003628043
+fusion_logistic,text__continues weak,0.003203954683467001
+fusion_logistic,text__continuing,-0.00408008410638127
+fusion_logistic,text__continuing levels,-0.009506610316175142
+fusion_logistic,text__continuing restrain,-0.006375910067087868
+fusion_logistic,text__contract,-0.006375910067087868
+fusion_logistic,text__cost,-0.004734987283581585
+fusion_logistic,text__cost pressures,-0.004734987283581585
+fusion_logistic,text__costs,0.0029693304027064355
+fusion_logistic,text__costs purchases,0.0029693304027064355
+fusion_logistic,text__course,0.0028099951640903516
+fusion_logistic,text__course committee,0.001693913841879282
+fusion_logistic,text__credit,-0.003313320171831027
+fusion_logistic,text__credit business,-0.0008681535748044139
+fusion_logistic,text__credit markets,-0.004269382243188597
+fusion_logistic,text__crude,0.0004131587150718775
+fusion_logistic,text__crude oil,0.0004131587150718775
+fusion_logistic,text__cumulative,-0.003817031386902189
+fusion_logistic,text__cumulative progress,-0.003817031386902189
+fusion_logistic,text__current,-0.024894590817707153
+fusion_logistic,text__current asset,-0.005878435422312107
+fusion_logistic,text__current percent,-0.015457368976571654
+fusion_logistic,text__current shortfall,0.0009108494097177553
+fusion_logistic,text__current target,-0.003817031386902189
+fusion_logistic,text__currently,-0.00041445517441836114
+fusion_logistic,text__currently anticipated,-0.016319092562876395
+fusion_logistic,text__currently anticipates,-0.009555478924996688
+fusion_logistic,text__currently expects,0.011456941321487859
+fusion_logistic,text__currently judges,-0.004580445712707596
+fusion_logistic,text__data,0.00466888546485684
+fusion_logistic,text__data committee,0.0049788130763097765
+fusion_logistic,text__debt,-0.00891274941371093
+fusion_logistic,text__debt agency,-0.008049892917249502
+fusion_logistic,text__december,-0.005005436590271536
+fusion_logistic,text__december suggests,0.0007905096728001856
+fusion_logistic,text__decided,0.005733852643059589
+fusion_logistic,text__decided continue,0.009511745534393181
+fusion_logistic,text__decided maintain,-0.0050889556687139835
+fusion_logistic,text__decided make,-0.0015058559134922716
+fusion_logistic,text__decided raise,0.013634889682665685
+fusion_logistic,text__decided target,0.00195951172420535
+fusion_logistic,text__decided today,0.0036251809526658203
+fusion_logistic,text__decides,-0.006991656317580652
+fusion_logistic,text__decides begin,-0.006991656317580652
+fusion_logistic,text__decisions,0.001693913841879282
+fusion_logistic,text__decisions pace,0.001693913841879282
+fusion_logistic,text__decline,0.0039031625323585513
+fusion_logistic,text__decline gradually,-0.0054339282139800535
+fusion_logistic,text__decline levels,0.008768053458442192
+fusion_logistic,text__declined,0.015681478160624037
+fusion_logistic,text__declined household,0.029834171436305526
+fusion_logistic,text__declines,-0.00873232058833406
+fusion_logistic,text__declines energy,-0.008727124130660008
+fusion_logistic,text__declining,0.0013877102161728946
+fusion_logistic,text__depend,0.002786373493232185
+fusion_logistic,text__depend economic,0.002786373493232185
+fusion_logistic,text__depressed,0.0001649200597026588
+fusion_logistic,text__depressed inflation,4.0529007271469076e-05
+fusion_logistic,text__depressed level,-0.004842690902913361
+fusion_logistic,text__despite,0.0065501513525235665
+fusion_logistic,text__determining,-0.0010873820924001446
+fusion_logistic,text__determining long,-0.005145950881289762
+fusion_logistic,text__determining size,0.0020215217129811464
+fusion_logistic,text__determining timing,0.003790160534650175
+fusion_logistic,text__developments,0.003605430493981676
+fusion_logistic,text__developments backdrop,-0.009837822367981584
+fusion_logistic,text__developments carefully,-0.00015933876584185206
+fusion_logistic,text__developments closely,-0.0011134413151153901
+fusion_logistic,text__developments coming,0.0029693304027064355
+fusion_logistic,text__developments committee,7.807963081056074e-05
+fusion_logistic,text__developments employ,-0.0013169791440115022
+fusion_logistic,text__developments light,0.0009108494097177553
+fusion_logistic,text__developments relative,0.0026231903655570413
+fusion_logistic,text__diminished,0.0014226825907637409
+fusion_logistic,text__diminishing,-0.005878435422312107
+fusion_logistic,text__diminishing inflation,-0.003817031386902189
+fusion_logistic,text__disruptions,0.014475237571554828
+fusion_logistic,text__dissipate,-0.006033153417453803
+fusion_logistic,text__dissipate committee,-0.011709965879077203
+fusion_logistic,text__dissipate labor,0.004727295202718614
+fusion_logistic,text__does,0.001308610131397523
+fusion_logistic,text__does not,0.001308610131397523
+fusion_logistic,text__doing,0.0014164789043795679
+fusion_logistic,text__doing normalization,0.0014164789043795679
+fusion_logistic,text__dollar,-0.009746784917209357
+fusion_logistic,text__downside,0.0016527914797258997
+fusion_logistic,text__downside risks,0.0016527914797258997
+fusion_logistic,text__downward,0.009236116663143135
+fusion_logistic,text__downward pressure,0.003841073761918932
+fusion_logistic,text__dual,-0.003391952092556595
+fusion_logistic,text__dual mandate,-0.003391952092556595
+fusion_logistic,text__earlier,-0.014211321924965341
+fusion_logistic,text__earlier declines,-0.012642484743643375
+fusion_logistic,text__earlier year,-0.005296811482988275
+fusion_logistic,text__early,-0.004127003358682667
+fusion_logistic,text__early year,0.0020040538742051115
+fusion_logistic,text__economic,-0.0016845082117330195
+fusion_logistic,text__economic activity,-0.007651056257583148
+fusion_logistic,text__economic conditions,-0.003455600012132629
+fusion_logistic,text__economic financial,0.0075702838652835685
+fusion_logistic,text__economic growth,-0.0061534378724253345
+fusion_logistic,text__economic outlook,0.005834628459938584
+fusion_logistic,text__economic performance,0.002185832976546842
+fusion_logistic,text__economic recovery,0.00793612642822372
+fusion_logistic,text__economy,0.010351221217970706
+fusion_logistic,text__economy expanding,-0.003580862850451216
+fusion_logistic,text__economy labor,0.006962761594753346
+fusion_logistic,text__economy support,-0.006751614589549581
+fusion_logistic,text__effects,-0.005471508761010806
+fusion_logistic,text__effects declines,0.003513143821662172
+fusion_logistic,text__effects past,-0.0028064735897098255
+fusion_logistic,text__efficacy,0.0029693304027064355
+fusion_logistic,text__efficacy costs,0.0029693304027064355
+fusion_logistic,text__elevated,0.009690364883711939
+fusion_logistic,text__elevated household,0.0018226952066836965
+fusion_logistic,text__elevated measures,0.0061934778844382945
+fusion_logistic,text__employ,-0.0016400143064325013
+fusion_logistic,text__employ policy,0.0015978187232731549
+fusion_logistic,text__employers,-0.0008681535748044139
+fusion_logistic,text__employers remain,-0.0008681535748044139
+fusion_logistic,text__employment,-0.0038524900394119018
+fusion_logistic,text__employment improvement,-0.003817031386902189
+fusion_logistic,text__employment inflation,-0.011655097630100702
+fusion_logistic,text__employment objective,0.0022526713216993784
+fusion_logistic,text__employment percent,-0.008492675132271945
+fusion_logistic,text__employment price,0.0010472129795382522
+fusion_logistic,text__end,0.0065817797469781385
+fusion_logistic,text__end year,0.006261899276651562
+fusion_logistic,text__ends,0.0033528376928198466
+fusion_logistic,text__ends economic,0.0076437039147464044
+fusion_logistic,text__ends especially,-0.004580445712707596
+fusion_logistic,text__energy,-0.0008645757568094118
+fusion_logistic,text__energy commodities,0.00018529473527703584
+fusion_logistic,text__energy import,0.0004153716935251729
+fusion_logistic,text__energy imports,0.0004153716935251729
+fusion_logistic,text__energy prices,-0.004345280154751271
+fusion_logistic,text__energy remain,-0.00017576361709436105
+fusion_logistic,text__ensure,0.004106374362437151
+fusion_logistic,text__ensure inflation,0.007510760481000566
+fusion_logistic,text__equipment,-0.0012737964303256193
+fusion_logistic,text__equipment software,-0.0012737964303256193
+fusion_logistic,text__especially,-0.008484507003628043
+fusion_logistic,text__especially projected,-0.008484507003628043
+fusion_logistic,text__evaluate,-0.0007559891351179452
+fusion_logistic,text__evidence,-0.0003809855489671623
+fusion_logistic,text__evidence inflation,-0.00015933876584185206
+fusion_logistic,text__evolution,-0.0037409007211365933
+fusion_logistic,text__evolution inflation,-0.0037409007211365933
+fusion_logistic,text__evolve,0.002786373493232185
+fusion_logistic,text__evolve manner,0.002786373493232185
+fusion_logistic,text__evolving,-0.0007559891351179452
+fusion_logistic,text__evolving economic,-0.0007559891351179452
+fusion_logistic,text__exceptionally,0.004297648448710126
+fusion_logistic,text__exceptionally low,0.004297648448710126
+fusion_logistic,text__excluding,0.006248002976523829
+fusion_logistic,text__executed,-0.007693096603952401
+fusion_logistic,text__executed end,-0.007693096603952401
+fusion_logistic,text__existing,0.002575074878999377
+fusion_logistic,text__existing policies,-0.005174049851463429
+fusion_logistic,text__existing policy,0.00486598682518167
+fusion_logistic,text__expand,-0.0056217735234607045
+fusion_logistic,text__expand moderate,-0.007112741463375114
+fusion_logistic,text__expanding,0.0025805115469770988
+fusion_logistic,text__expanding moderate,0.004306457718986369
+fusion_logistic,text__expanding moderately,-0.004473918570157024
+fusion_logistic,text__expansion,0.001542337098258732
+fusion_logistic,text__expansion economic,0.0022526713216993784
+fusion_logistic,text__expect,0.007654788887736736
+fusion_logistic,text__expect gradual,0.018148629892637696
+fusion_logistic,text__expectation,0.001955195775409451
+fusion_logistic,text__expectation ongoing,0.001693913841879282
+fusion_logistic,text__expectations,-0.005403041275467579
+fusion_logistic,text__expectations continue,0.0076437039147464044
+fusion_logistic,text__expectations likely,-0.005052490030525725
+fusion_logistic,text__expectations little,0.0020149815188716304
+fusion_logistic,text__expectations readings,-0.001681854221730518
+fusion_logistic,text__expectations remain,-0.009488844910320026
+fusion_logistic,text__expectations remained,-0.002941883377946311
+fusion_logistic,text__expectations stable,-0.007667422603179191
+fusion_logistic,text__expected,-0.005090939822463308
+fusion_logistic,text__expected economic,0.003790160534650175
+fusion_logistic,text__expected inflation,0.0026231903655570413
+fusion_logistic,text__expected labor,0.0076804466477201514
+fusion_logistic,text__expected objectives,-0.015457368976571654
+fusion_logistic,text__expected prevail,0.002786373493232185
+fusion_logistic,text__expected progress,0.0009108494097177553
+fusion_logistic,text__expected remain,0.012897787453059964
+fusion_logistic,text__expects,-0.00419307813903929
+fusion_logistic,text__expects appropriate,-0.00752370240660707
+fusion_logistic,text__expects economic,0.002801736517297842
+fusion_logistic,text__expects gradual,-0.008687342539887668
+fusion_logistic,text__expects highly,0.0053137973182162
+fusion_logistic,text__expects inflation,-0.009927729639771734
+fusion_logistic,text__expects maintain,0.003928569614174298
+fusion_logistic,text__exports,0.001053757378005489
+fusion_logistic,text__exports soft,0.006974755631319031
+fusion_logistic,text__extend,0.000959559381890454
+fusion_logistic,text__extend average,0.000959559381890454
+fusion_logistic,text__extended,0.0041249054910929665
+fusion_logistic,text__extended period,0.0041249054910929665
+fusion_logistic,text__extent,0.0030475129610729695
+fusion_logistic,text__extent restraint,-0.003817031386902189
+fusion_logistic,text__facilities,-0.015595487991281805
+fusion_logistic,text__facility,-0.0208419636069178
+fusion_logistic,text__factors,-0.018452757916873792
+fusion_logistic,text__factors likely,0.0009799793379671898
+fusion_logistic,text__faqs,-0.01272016704405396
+fusion_logistic,text__february,-0.013242344879374198
+fusion_logistic,text__federal,-0.009146934522554493
+fusion_logistic,text__federal funds,-0.005298319562585968
+fusion_logistic,text__federal open,-0.0035487610745201423
+fusion_logistic,text__federal reserve,-0.022732946705108316
+fusion_logistic,text__financial,-0.0025284075796149002
+fusion_logistic,text__financial conditions,-0.00297843589256179
+fusion_logistic,text__financial developments,0.008019234216689385
+fusion_logistic,text__financial international,-0.001555311883446344
+fusion_logistic,text__financial markets,-0.006167134098226256
+fusion_logistic,text__fiscal,0.006428143938714697
+fusion_logistic,text__fiscal policy,0.002814124666368946
+fusion_logistic,text__fixed,-0.0016488863630744202
+fusion_logistic,text__fixed investment,-0.001039658097240598
+fusion_logistic,text__fluctuations,0.0127539263346862
+fusion_logistic,text__following,-0.0015696360354663377
+fusion_logistic,text__food,0.004698134413221581
+fusion_logistic,text__food energy,0.0044276313509172
+fusion_logistic,text__foster,0.00156771945995109
+fusion_logistic,text__foster maximum,0.002745496539699923
+fusion_logistic,text__funding,-0.00970888748181888
+fusion_logistic,text__funds,-0.005298319562585968
+fusion_logistic,text__funds rate,-0.005298319562585968
+fusion_logistic,text__furthermore,0.003534821873864676
+fusion_logistic,text__furthermore strains,0.003534821873864676
+fusion_logistic,text__future,0.004447070682549303
+fusion_logistic,text__future adjustments,0.003704128342796038
+fusion_logistic,text__future meetings,-0.001953328773684941
+fusion_logistic,text__gains,-0.006300078936212789
+fusion_logistic,text__gains solid,0.006972932062090538
+fusion_logistic,text__gains strong,0.0015475047361076574
+fusion_logistic,text__gasoline,0.0012643939606852169
+fusion_logistic,text__global,0.002397849394333694
+fusion_logistic,text__global economic,0.004479250675399807
+fusion_logistic,text__global financial,-0.0014164358663006373
+fusion_logistic,text__goal,0.0016866989549465079
+fusion_logistic,text__goal committee,0.0029585212448381267
+fusion_logistic,text__goal longer,0.0076437039147464044
+fusion_logistic,text__goal provided,-0.009488844910320026
+fusion_logistic,text__goals,-0.008931360183781331
+fusion_logistic,text__goals maximum,-0.006991656317580652
+fusion_logistic,text__gradual,0.009856040230201209
+fusion_logistic,text__gradual adjustments,0.002786373493232185
+fusion_logistic,text__gradual increases,0.007392975867880804
+fusion_logistic,text__gradual return,-0.002037011039379547
+fusion_logistic,text__gradually,-0.007798468940286653
+fusion_logistic,text__gradually decline,0.004528535662312186
+fusion_logistic,text__gradually levels,-0.0054339282139800535
+fusion_logistic,text__gradually percent,-0.01206453378413107
+fusion_logistic,text__grow,0.010907613798596902
+fusion_logistic,text__grow strongly,0.010907613798596902
+fusion_logistic,text__growing,0.0067603934104919225
+fusion_logistic,text__growth,-0.005953637631779326
+fusion_logistic,text__growth business,0.015972875181322573
+fusion_logistic,text__growth economic,-0.01510828141344581
+fusion_logistic,text__growth extent,-0.003817031386902189
+fusion_logistic,text__growth household,-0.010164397016220177
+fusion_logistic,text__growth lower,-2.060831642387819e-05
+fusion_logistic,text__guidance,0.0038348772881975184
+fusion_logistic,text__half,0.003477579336565491
+fusion_logistic,text__half percentage,0.0076437039147464044
+fusion_logistic,text__having,-0.0001851593552858069
+fusion_logistic,text__help,-0.001210890921746404
+fusion_logistic,text__help ensure,0.007510760481000566
+fusion_logistic,text__help maintain,-0.009187591736327065
+fusion_logistic,text__help make,0.0019193094552030089
+fusion_logistic,text__high,-0.005388488120530253
+fusion_logistic,text__high unemployment,0.0006484551101356832
+fusion_logistic,text__higher,-0.0021326040746144975
+fusion_logistic,text__higher levels,-0.002037011039379547
+fusion_logistic,text__highly,0.009192325858254897
+fusion_logistic,text__highly accommodative,0.009192325858254897
+fusion_logistic,text__holdings,-0.007657857371515574
+fusion_logistic,text__holdings agency,-0.004454239072895211
+fusion_logistic,text__holdings appropriate,-0.0005804883528664056
+fusion_logistic,text__holdings longer,-0.01190941968298377
+fusion_logistic,text__holdings prepared,-0.0005804883528664056
+fusion_logistic,text__holdings securities,-0.0027936864057466005
+fusion_logistic,text__household,-0.002399853567275121
+fusion_logistic,text__household spending,-0.0013582209825626899
+fusion_logistic,text__housing,-0.004097813254593036
+fusion_logistic,text__housing markets,-0.004269382243188597
+fusion_logistic,text__housing sector,-0.0007160090918407384
+fusion_logistic,text__housing starts,-0.007683628697943144
+fusion_logistic,text__housing wealth,-2.060831642387819e-05
+fusion_logistic,text__implications,0.004570213631100689
+fusion_logistic,text__import,0.0004153716935251729
+fusion_logistic,text__import prices,0.0004153716935251729
+fusion_logistic,text__imports,0.0004153716935251729
+fusion_logistic,text__imports market,0.004080702538156573
+fusion_logistic,text__improve,-0.004413067117010886
+fusion_logistic,text__improve overall,-0.004269382243188597
+fusion_logistic,text__improved,-0.004382130821057265
+fusion_logistic,text__improved substantially,0.002814124666368946
+fusion_logistic,text__improvement,-0.0005543736217097908
+fusion_logistic,text__improvement labor,6.856041310786036e-05
+fusion_logistic,text__improvement outlook,-0.005878435422312107
+fusion_logistic,text__improvement recent,0.001588817185413863
+fusion_logistic,text__improvement unemployment,0.002819941760468699
+fusion_logistic,text__improves,-0.01206453378413107
+fusion_logistic,text__improves transitory,-0.01206453378413107
+fusion_logistic,text__inception,-0.005878435422312107
+fusion_logistic,text__inception current,-0.005878435422312107
+fusion_logistic,text__including,-0.002142367803772476
+fusion_logistic,text__including additional,0.0076437039147464044
+fusion_logistic,text__including low,-0.004506239796181867
+fusion_logistic,text__including measures,-0.00592358940495661
+fusion_logistic,text__income,-0.0028077096877426387
+fusion_logistic,text__income growth,-2.060831642387819e-05
+fusion_logistic,text__incoming,-0.001311502241165259
+fusion_logistic,text__incoming data,0.002786373493232185
+fusion_logistic,text__incoming information,-0.00391688777489498
+fusion_logistic,text__increase,-0.010251116883867657
+fusion_logistic,text__increased,-0.02202366442860686
+fusion_logistic,text__increased recent,-0.02050793404870742
+fusion_logistic,text__increases,-0.00477295317354456
+fusion_logistic,text__increases federal,0.00035082028347508196
+fusion_logistic,text__increases target,-0.00586803073219082
+fusion_logistic,text__increasing,0.006413558202712683
+fusion_logistic,text__increasing holdings,-0.003817031386902189
+fusion_logistic,text__indicates,-0.00821676936535612
+fusion_logistic,text__indicates economic,-0.004754851760000505
+fusion_logistic,text__indicates growth,0.0005312295621765711
+fusion_logistic,text__indicates labor,-0.0002145115830969367
+fusion_logistic,text__indicators,-0.0059552201369006364
+fusion_logistic,text__indicators continuing,-0.009506610316175142
+fusion_logistic,text__indicators global,-0.008088855325673303
+fusion_logistic,text__indicators inflation,-0.003404810816821818
+fusion_logistic,text__indicators longer,0.008094043015713736
+fusion_logistic,text__indicators point,-0.0023945049981448936
+fusion_logistic,text__indicators suggests,-0.017056343501175915
+fusion_logistic,text__inflation,-0.006929619935685036
+fusion_logistic,text__inflation 12,0.0021693165774716644
+fusion_logistic,text__inflation anticipated,-0.009506610316175142
+fusion_logistic,text__inflation assessment,-0.009621663879142482
+fusion_logistic,text__inflation committee,0.011177506151528975
+fusion_logistic,text__inflation compensation,-0.00857539772759055
+fusion_logistic,text__inflation continued,-0.0008490206899897753
+fusion_logistic,text__inflation continues,-0.008484507003628043
+fusion_logistic,text__inflation declined,-0.004752989680860367
+fusion_logistic,text__inflation determining,0.003101800068146894
+fusion_logistic,text__inflation developments,-0.0001220908124965198
+fusion_logistic,text__inflation expectations,-0.005403041275467579
+fusion_logistic,text__inflation expected,0.004727295202718614
+fusion_logistic,text__inflation goal,0.002786373493232185
+fusion_logistic,text__inflation indicators,-0.008088855325673303
+fusion_logistic,text__inflation inflation,-0.0027724639507512214
+fusion_logistic,text__inflation items,-0.00017439685728838904
+fusion_logistic,text__inflation likely,-0.006375910067087868
+fusion_logistic,text__inflation medium,0.0035506958361152803
+fusion_logistic,text__inflation moving,-0.0027206626147343606
+fusion_logistic,text__inflation near,-0.008108260149166744
+fusion_logistic,text__inflation objective,0.0034959972265529863
+fusion_logistic,text__inflation percent,-0.008017234958111647
+fusion_logistic,text__inflation persistently,0.002185832976546842
+fusion_logistic,text__inflation picked,-0.0033662013861934805
+fusion_logistic,text__inflation pressures,-0.003081016326883829
+fusion_logistic,text__inflation rise,-0.012174761536032095
+fusion_logistic,text__inflation running,0.0004676290759008713
+fusion_logistic,text__inflation subdued,0.004684220423817044
+fusion_logistic,text__inflation time,0.008873262091580113
+fusion_logistic,text__inflation trends,-0.005052490030525725
+fusion_logistic,text__inflation years,0.0076437039147464044
+fusion_logistic,text__information,-0.004851610277178886
+fusion_logistic,text__information broadly,-0.003817031386902189
+fusion_logistic,text__information economic,0.002162557019407321
+fusion_logistic,text__information including,-0.001681854221730518
+fusion_logistic,text__information prepared,-0.014643584000583533
+fusion_logistic,text__information received,-0.0013582209825626899
+fusion_logistic,text__informed,0.002786373493232185
+fusion_logistic,text__informed incoming,0.002786373493232185
+fusion_logistic,text__intends,0.009199956148008424
+fusion_logistic,text__intends purchase,0.009199956148008424
+fusion_logistic,text__international,-0.00042626458747693606
+fusion_logistic,text__international developments,-0.00042626458747693606
+fusion_logistic,text__inventory,0.003514048958042678
+fusion_logistic,text__inventory stocks,-0.0007559891351179452
+fusion_logistic,text__investment,-0.0006427526841398359
+fusion_logistic,text__investment advanced,0.004528535662312186
+fusion_logistic,text__investment advancing,-0.01444316330910431
+fusion_logistic,text__investment continued,0.011514676754099621
+fusion_logistic,text__investment equipment,-0.000700056999039352
+fusion_logistic,text__investment nonresidential,-1.2274763200513761e-06
+fusion_logistic,text__investment slowed,0.023084366430948508
+fusion_logistic,text__items,-0.002099132853183518
+fusion_logistic,text__items food,-0.00017439685728838904
+fusion_logistic,text__january,-0.0010262348710631077
+fusion_logistic,text__january suggests,0.010037338477432503
+fusion_logistic,text__job,-0.001558097977122684
+fusion_logistic,text__job gains,-0.0035641920627461805
+fusion_logistic,text__judges,-0.006085596305188117
+fusion_logistic,text__judges consistent,-0.003427202607627305
+fusion_logistic,text__judges sufficient,-0.004580445712707596
+fusion_logistic,text__july,0.0019033860028998609
+fusion_logistic,text__june,-0.007351398927306228
+fusion_logistic,text__june indicates,-0.0053384431665692185
+fusion_logistic,text__keeping,-0.0176408409819608
+fusion_logistic,text__keeping committee,-0.009187591736327065
+fusion_logistic,text__keeping target,-0.015457368976571654
+fusion_logistic,text__labor,-0.006491422704003708
+fusion_logistic,text__labor market,-0.00610464247604644
+fusion_logistic,text__labor resources,-0.009388146031757819
+fusion_logistic,text__largely,-0.0036665467624543814
+fusion_logistic,text__late,0.012946791315804207
+fusion_logistic,text__late 2014,0.003928569614174298
+fusion_logistic,text__lending,-0.010228604605968611
+fusion_logistic,text__lending housing,-0.004269382243188597
+fusion_logistic,text__level,-0.01263684960819969
+fusion_logistic,text__level federal,-0.001457130963919812
+fusion_logistic,text__level near,-0.007046926755956947
+fusion_logistic,text__levels,-0.010373446374028164
+fusion_logistic,text__levels committee,-0.00866560329241697
+fusion_logistic,text__levels consistent,0.009734914161515267
+fusion_logistic,text__levels economic,-0.015457368976571654
+fusion_logistic,text__levels expected,0.002786373493232185
+fusion_logistic,text__levels federal,-0.0002870984875066583
+fusion_logistic,text__levels help,-0.009187591736327065
+fusion_logistic,text__levels resource,-0.002037011039379547
+fusion_logistic,text__light,-0.012287857750171069
+fusion_logistic,text__light cumulative,-0.003817031386902189
+fusion_logistic,text__light current,0.0009108494097177553
+fusion_logistic,text__light evolving,-0.0007559891351179452
+fusion_logistic,text__light incoming,-0.0031469242073580736
+fusion_logistic,text__likely,-0.004187817247379254
+fusion_logistic,text__likely appropriate,-0.008484507003628043
+fusion_logistic,text__likely efficacy,0.0029693304027064355
+fusion_logistic,text__likely occur,-0.016319092562876395
+fusion_logistic,text__likely outcomes,-0.004827097859219462
+fusion_logistic,text__likely reduce,-0.001953328773684941
+fusion_logistic,text__likely remain,0.004810849382438045
+fusion_logistic,text__likely run,0.0053137973182162
+fusion_logistic,text__likely subdued,-0.00946194707853934
+fusion_logistic,text__likely warrant,-9.475690771206079e-05
+fusion_logistic,text__liquidity,-0.01402746236728595
+fusion_logistic,text__little,-0.009081956406722092
+fusion_logistic,text__little changed,-0.006717617604414219
+fusion_logistic,text__loans,-0.0200664440944598
+fusion_logistic,text__loans backed,-0.0200664440944598
+fusion_logistic,text__long,-0.0012001062062538097
+fusion_logistic,text__long maintain,-0.005145950881289762
+fusion_logistic,text__long unemployment,0.0076437039147464044
+fusion_logistic,text__longer,-0.004303459152326536
+fusion_logistic,text__longer run,-0.004807022192863395
+fusion_logistic,text__longer term,-0.0031497647018004673
+fusion_logistic,text__low,-0.006990494214843409
+fusion_logistic,text__low household,-0.01009081340819314
+fusion_logistic,text__low level,-0.007046926755956947
+fusion_logistic,text__low levels,-0.0002870984875066583
+fusion_logistic,text__low near,0.0008414756143849209
+fusion_logistic,text__low range,0.007755998392299251
+fusion_logistic,text__low rates,-0.004506239796181867
+fusion_logistic,text__low recent,-0.0066478521148314144
+fusion_logistic,text__low relative,0.0061934778844382945
+fusion_logistic,text__low survey,-0.002782921875236317
+fusion_logistic,text__lower,-0.017917189228734923
+fusion_logistic,text__lower housing,-2.060831642387819e-05
+fusion_logistic,text__mainly,-0.0019895557515453785
+fusion_logistic,text__mainly reflecting,-0.0019895557515453785
+fusion_logistic,text__maintain,-0.006956138275389868
+fusion_logistic,text__maintain accommodative,-0.009187591736327065
+fusion_logistic,text__maintain current,-0.006742576524735151
+fusion_logistic,text__maintain downward,0.0033528376928198466
+fusion_logistic,text__maintain existing,0.008563055054596695
+fusion_logistic,text__maintain highly,0.009583166052703066
+fusion_logistic,text__maintain target,-0.009153848806561553
+fusion_logistic,text__maintaining,-0.0009380049770130811
+fusion_logistic,text__maintaining existing,-0.0009380049770130811
+fusion_logistic,text__make,0.0020493979371174983
+fusion_logistic,text__make broader,0.0019193094552030089
+fusion_logistic,text__make measured,-0.0015058559134922716
+fusion_logistic,text__mandate,-0.0004244533309859409
+fusion_logistic,text__mandate committee,0.0005256408082940561
+fusion_logistic,text__mandate consistent,-0.015457368976571654
+fusion_logistic,text__mandate strains,-0.002354660182425449
+fusion_logistic,text__mandate support,0.003928569614174298
+fusion_logistic,text__manner,0.002786373493232185
+fusion_logistic,text__manner warrant,0.002786373493232185
+fusion_logistic,text__march,-0.020504127248995304
+fusion_logistic,text__march indicates,-0.0017620609449685192
+fusion_logistic,text__market,-0.010310826428060636
+fusion_logistic,text__market based,-0.00857539772759055
+fusion_logistic,text__market committee,-0.0029795561696560314
+fusion_logistic,text__market conditions,-0.003532113151761262
+fusion_logistic,text__market continued,0.004727710894093593
+fusion_logistic,text__market having,0.006325936567916264
+fusion_logistic,text__market improved,0.002814124666368946
+fusion_logistic,text__market improves,-0.01206453378413107
+fusion_logistic,text__market indicators,-0.006522027673839154
+fusion_logistic,text__market inflation,-0.0028213758410826732
+fusion_logistic,text__market nearly,-0.015457368976571654
+fusion_logistic,text__market reasonably,-0.007046926755956947
+fusion_logistic,text__market remains,-0.0015993623509445497
+fusion_logistic,text__market strengthens,0.004727295202718614
+fusion_logistic,text__markets,-0.008465723852364876
+fusion_logistic,text__markets committee,-0.010975923942167908
+fusion_logistic,text__markets continue,0.0005211918021107167
+fusion_logistic,text__markets federal,-0.009012602758042249
+fusion_logistic,text__markets help,0.0029693304027064355
+fusion_logistic,text__markets improve,-0.004269382243188597
+fusion_logistic,text__maturing,-0.0016433047333263059
+fusion_logistic,text__maturing treasury,-0.0016433047333263059
+fusion_logistic,text__maturities,-0.006699629974770844
+fusion_logistic,text__maturity,-0.004277771117282863
+fusion_logistic,text__maturity holdings,0.000959559381890454
+fusion_logistic,text__maximum,-0.002086816045527529
+fusion_logistic,text__maximum employment,-0.0011588469558295178
+fusion_logistic,text__measured,0.00012611840707480983
+fusion_logistic,text__measured reduction,-0.0015058559134922716
+fusion_logistic,text__measured steps,-0.001953328773684941
+fusion_logistic,text__measures,-0.006750444886129695
+fusion_logistic,text__measures inflation,-0.00857539772759055
+fusion_logistic,text__measures labor,-0.001681854221730518
+fusion_logistic,text__measures longer,-0.00857539772759055
+fusion_logistic,text__measures underlying,0.008420412488124883
+fusion_logistic,text__medium,0.0012020825085541286
+fusion_logistic,text__medium run,-0.0005653781895263608
+fusion_logistic,text__medium term,0.0016121766652432029
+fusion_logistic,text__meetings,0.0036209491385630834
+fusion_logistic,text__meetings asset,-0.001953328773684941
+fusion_logistic,text__met,-0.002286670622710892
+fusion_logistic,text__met april,-0.005983992690688506
+fusion_logistic,text__met august,0.0008948740072897999
+fusion_logistic,text__met december,-0.005005436590271536
+fusion_logistic,text__met january,0.00471195219336677
+fusion_logistic,text__met july,0.0036481040192566636
+fusion_logistic,text__met june,-0.0016863480376738875
+fusion_logistic,text__met march,-0.014818405743472119
+fusion_logistic,text__met november,0.01313782947612948
+fusion_logistic,text__met september,-0.0058241834659474925
+fusion_logistic,text__mid,-0.005576649457975773
+fusion_logistic,text__moderate,-0.005829477713510643
+fusion_logistic,text__moderate pace,-0.003537087884081099
+fusion_logistic,text__moderate rate,-0.004611478761480096
+fusion_logistic,text__moderated,-0.009630721429236553
+fusion_logistic,text__moderately,-0.012365612810869526
+fusion_logistic,text__moderately business,-0.015335650894266516
+fusion_logistic,text__modest,-0.005862460380888427
+fusion_logistic,text__modest income,-0.0033801899628166164
+fusion_logistic,text__monetary,0.0030754975190383084
+fusion_logistic,text__monetary policy,0.002814783627312526
+fusion_logistic,text__monitor,0.0004069538667573714
+fusion_logistic,text__monitor actual,0.002786373493232185
+fusion_logistic,text__monitor economic,0.0052859570113081055
+fusion_logistic,text__monitor incoming,0.005771517487301413
+fusion_logistic,text__monitor inflation,-0.010871555979229546
+fusion_logistic,text__monitoring,0.009112358840725974
+fusion_logistic,text__monitoring inflation,0.0039804296954698394
+fusion_logistic,text__month,0.002898423223847698
+fusion_logistic,text__month add,-0.003817031386902189
+fusion_logistic,text__month basis,0.007034368484970076
+fusion_logistic,text__month committee,0.0015396827827200655
+fusion_logistic,text__month longer,0.004445516169451748
+fusion_logistic,text__months,0.0021870296604955984
+fusion_logistic,text__months committee,-0.003924064792201073
+fusion_logistic,text__months consistent,0.0018802101134464816
+fusion_logistic,text__months continue,0.001693913841879282
+fusion_logistic,text__months household,-0.003019002409116021
+fusion_logistic,text__months unemployment,0.0008885535236104669
+fusion_logistic,text__mortgage,-0.011362647901208696
+fusion_logistic,text__mortgage backed,-0.012213509192937531
+fusion_logistic,text__mortgage lending,-0.004269382243188597
+fusion_logistic,text__mortgage markets,0.00484111392747997
+fusion_logistic,text__moved,-0.0006472241683200315
+fusion_logistic,text__moving,-0.007995980297365417
+fusion_logistic,text__moving longer,0.001693913841879282
+fusion_logistic,text__muted,-0.004827097859219462
+fusion_logistic,text__muted inflation,-0.004827097859219462
+fusion_logistic,text__national,0.002275380645269089
+fusion_logistic,text__near,-0.01075221922077585
+fusion_logistic,text__near committee,6.912410828967879e-05
+fusion_logistic,text__near mandate,-0.015457368976571654
+fusion_logistic,text__near percent,-0.004231208533165025
+fusion_logistic,text__near recent,-0.010834954651674689
+fusion_logistic,text__near term,0.001669888142557891
+fusion_logistic,text__nearly,-0.014439408597374682
+fusion_logistic,text__nearly balanced,-0.014439408597374682
+fusion_logistic,text__necessary,-0.011926845172496047
+fusion_logistic,text__necessary support,0.0013027257126026661
+fusion_logistic,text__needed,0.014230172447744629
+fusion_logistic,text__needed best,0.010956456219108401
+fusion_logistic,text__net,0.006801431922307579
+fusion_logistic,text__net exports,0.001960466020731742
+fusion_logistic,text__new,-0.01753931385398718
+fusion_logistic,text__no,0.0076437039147464044
+fusion_logistic,text__no half,0.0076437039147464044
+fusion_logistic,text__non,-0.004170467473861786
+fusion_logistic,text__non energy,0.0004153716935251729
+fusion_logistic,text__nonetheless,-0.0017908298976392048
+fusion_logistic,text__nonresidential,-1.2274763200513761e-06
+fusion_logistic,text__nonresidential structures,-1.2274763200513761e-06
+fusion_logistic,text__normal,-0.015457368976571654
+fusion_logistic,text__normal longer,-0.015457368976571654
+fusion_logistic,text__normalization,0.008262335109435219
+fusion_logistic,text__normalization level,0.0014164789043795679
+fusion_logistic,text__not,0.0026793760444743307
+fusion_logistic,text__not preset,0.001693913841879282
+fusion_logistic,text__november,0.018557178242546886
+fusion_logistic,text__objective,0.0004462085104911017
+fusion_logistic,text__objective assessment,0.0022526713216993784
+fusion_logistic,text__objective committee,-0.003817031386902189
+fusion_logistic,text__objective likely,-0.004827097859219462
+fusion_logistic,text__objective longer,0.0016404980868878244
+fusion_logistic,text__objective medium,0.0032648624313169256
+fusion_logistic,text__objective partly,-0.001973630664781949
+fusion_logistic,text__objective pose,0.002185832976546842
+fusion_logistic,text__objective support,0.0053137973182162
+fusion_logistic,text__objective symmetric,0.0022526713216993784
+fusion_logistic,text__objectives,-0.009133687934189188
+fusion_logistic,text__objectives maximum,-0.008492675132271945
+fusion_logistic,text__occur,-0.016319092562876395
+fusion_logistic,text__october,-0.00046633955692845737
+fusion_logistic,text__oil,0.0007159715405461963
+fusion_logistic,text__oil gasoline,-0.00018635550871450737
+fusion_logistic,text__ongoing,0.0016699575553876498
+fusion_logistic,text__ongoing improvement,-0.0010381987739635824
+fusion_logistic,text__open,-0.005143302820075429
+fusion_logistic,text__open market,-0.005143302820075429
+fusion_logistic,text__outcomes,-0.0017966454132283744
+fusion_logistic,text__outlook,0.00011799981853494912
+fusion_logistic,text__outlook appear,-0.001016143868412312
+fusion_logistic,text__outlook committee,0.0059447890345767675
+fusion_logistic,text__outlook conditions,-0.0007559891351179452
+fusion_logistic,text__outlook economic,-0.013125689630291967
+fusion_logistic,text__outlook economy,0.005168763089692757
+fusion_logistic,text__outlook financial,0.0052859570113081055
+fusion_logistic,text__outlook inflation,-0.0005653781895263608
+fusion_logistic,text__outlook informed,0.002786373493232185
+fusion_logistic,text__outlook labor,-0.003137835008444382
+fusion_logistic,text__overall,0.0021660849900517116
+fusion_logistic,text__overall conditions,-0.0034777477192581836
+fusion_logistic,text__overall inflation,0.00041156905107144436
+fusion_logistic,text__overall labor,-0.0058068965106227175
+fusion_logistic,text__pace,-0.003600231826671808
+fusion_logistic,text__pace 40,0.004713411301487167
+fusion_logistic,text__pace 45,0.007755998392299251
+fusion_logistic,text__pace asset,0.0004776142781518596
+fusion_logistic,text__pace composition,0.0020215217129811464
+fusion_logistic,text__pace earlier,0.008947539027053773
+fusion_logistic,text__pace economic,-0.0073714172052889776
+fusion_logistic,text__pace job,-0.01901263093530262
+fusion_logistic,text__pace labor,-0.008857912713498802
+fusion_logistic,text__pace purchases,-0.00041367892445155877
+fusion_logistic,text__pace recent,0.0005839419526672216
+fusion_logistic,text__pace recovery,0.0035489859853535173
+fusion_logistic,text__pace remain,-0.0008956001889266481
+fusion_logistic,text__pace unemployment,0.0027516339485022393
+fusion_logistic,text__particular,0.011577155536820169
+fusion_logistic,text__particular committee,0.011577155536820169
+fusion_logistic,text__partly,-0.0035315433977509735
+fusion_logistic,text__partly reflecting,-0.0035315433977509735
+fusion_logistic,text__past,0.001332704498591052
+fusion_logistic,text__past declines,-0.0019842314579404125
+fusion_logistic,text__path,8.91657380224975e-05
+fusion_logistic,text__path federal,0.002786373493232185
+fusion_logistic,text__patient,-0.006442038399700192
+fusion_logistic,text__pay,-0.0037409007211365933
+fusion_logistic,text__pay close,-0.0037409007211365933
+fusion_logistic,text__payments,-0.0011407109958544552
+fusion_logistic,text__payments holdings,-0.0017129066054356692
+fusion_logistic,text__payments securities,0.013234613474261346
+fusion_logistic,text__payrolls,-3.878654754683603e-05
+fusion_logistic,text__payrolls housing,0.0040821844383252225
+fusion_logistic,text__percent,-0.004201207539181279
+fusion_logistic,text__percent committee,-0.013379885773471994
+fusion_logistic,text__percent continues,0.0003803638539008225
+fusion_logistic,text__percent currently,0.004117182285356522
+fusion_logistic,text__percent indicators,0.008094043015713736
+fusion_logistic,text__percent inflation,-0.0003733228221481389
+fusion_logistic,text__percent longer,0.0005387208651002236
+fusion_logistic,text__percent market,-0.00397725765808694
+fusion_logistic,text__percent medium,-0.00572026005534672
+fusion_logistic,text__percent near,0.015030029725578656
+fusion_logistic,text__percent objective,0.003994934383592229
+fusion_logistic,text__percent stance,0.00743063090320567
+fusion_logistic,text__percent target,-0.018428840407263575
+fusion_logistic,text__percentage,0.0076437039147464044
+fusion_logistic,text__percentage point,0.0076437039147464044
+fusion_logistic,text__performance,0.002185832976546842
+fusion_logistic,text__performance monitoring,-0.00015933876584185206
+fusion_logistic,text__period,0.002792337163259811
+fusion_logistic,text__period committee,0.0123701054472628
+fusion_logistic,text__period provide,-0.007693096603952401
+fusion_logistic,text__persistently,-0.0032372732680382467
+fusion_logistic,text__persistently percent,-0.0032372732680382467
+fusion_logistic,text__pick,-0.003761405354112117
+fusion_logistic,text__picked,-0.00034610918109002274
+fusion_logistic,text__picked recent,0.016189765563154074
+fusion_logistic,text__plans,-0.006688267188936747
+fusion_logistic,text__point,0.004766120736701504
+fusion_logistic,text__point committee,0.0076437039147464044
+fusion_logistic,text__policies,-0.005174049851463429
+fusion_logistic,text__policies reinvesting,-0.005174049851463429
+fusion_logistic,text__policy,-0.0030315287777486024
+fusion_logistic,text__policy accommodation,-0.013671462390005112
+fusion_logistic,text__policy actions,0.004361257834843955
+fusion_logistic,text__policy committee,0.0017505040205998343
+fusion_logistic,text__policy economic,0.002786373493232185
+fusion_logistic,text__policy keeping,-0.009187591736327065
+fusion_logistic,text__policy particular,0.003928569614174298
+fusion_logistic,text__policy reinvesting,0.003755433995566824
+fusion_logistic,text__policy remain,0.0069596924722401315
+fusion_logistic,text__policy remains,0.00018471219127498423
+fusion_logistic,text__policy restraining,-0.0004977993998135289
+fusion_logistic,text__policy tools,0.0011328924169882904
+fusion_logistic,text__pose,0.006858898487977094
+fusion_logistic,text__pose risks,0.0050338206416244615
+fusion_logistic,text__pose significant,0.0035790903811528632
+fusion_logistic,text__prepared,-0.015066015765055204
+fusion_logistic,text__prepared adjust,-0.004686346101971364
+fusion_logistic,text__preset,0.001693913841879282
+fusion_logistic,text__preset course,0.001693913841879282
+fusion_logistic,text__pressure,0.007212220644320549
+fusion_logistic,text__pressure longer,0.0019193094552030089
+fusion_logistic,text__pressures,-0.006412966631796468
+fusion_logistic,text__pressures committee,-0.0017807581741853388
+fusion_logistic,text__pressures inflation,-0.001681854221730518
+fusion_logistic,text__pressures longer,-0.007667422603179191
+fusion_logistic,text__prevail,0.002786373493232185
+fusion_logistic,text__prevail longer,0.002786373493232185
+fusion_logistic,text__previously,-0.0042689234596958595
+fusion_logistic,text__price,-0.002733770804357955
+fusion_logistic,text__price stability,-0.0023151903344604584
+fusion_logistic,text__prices,0.001364029957755157
+fusion_logistic,text__prices dissipate,0.0004153716935251729
+fusion_logistic,text__prices energy,0.00018529473527703584
+fusion_logistic,text__prices longer,0.005696913627468301
+fusion_logistic,text__prices non,0.0004153716935251729
+fusion_logistic,text__prices prices,0.007522784750333972
+fusion_logistic,text__prices rise,0.0008414756143849209
+fusion_logistic,text__principal,-0.0011407109958544552
+fusion_logistic,text__principal payments,-0.0011407109958544552
+fusion_logistic,text__private,-0.004269382243188597
+fusion_logistic,text__private credit,-0.004269382243188597
+fusion_logistic,text__program,0.01065284017486806
+fusion_logistic,text__program committee,-0.005878435422312107
+fusion_logistic,text__program ends,0.0033528376928198466
+fusion_logistic,text__program extend,-0.001367945809262681
+fusion_logistic,text__progress,-0.011629586496581568
+fusion_logistic,text__progress inflation,0.0009108494097177553
+fusion_logistic,text__progress maximum,-0.009650113381443053
+fusion_logistic,text__progress objectives,-0.0007470646473809906
+fusion_logistic,text__progress realized,-0.015457368976571654
+fusion_logistic,text__projected,-0.0005841909062002621
+fusion_logistic,text__projected inflation,-0.008484507003628043
+fusion_logistic,text__projected no,0.0076437039147464044
+fusion_logistic,text__promote,0.0011104240663744082
+fusion_logistic,text__promote economic,-0.0034095555931229855
+fusion_logistic,text__promote smooth,-0.0007559891351179452
+fusion_logistic,text__promote stronger,0.0013921948456738988
+fusion_logistic,text__provide,0.0005522240721481585
+fusion_logistic,text__provide support,-0.004269382243188597
+fusion_logistic,text__provided,-0.004156967725433228
+fusion_logistic,text__provided longer,-0.009488844910320026
+fusion_logistic,text__purchase,0.010295198248182948
+fusion_logistic,text__purchase program,0.005485795372991361
+fusion_logistic,text__purchases,0.0033909477418534633
+fusion_logistic,text__purchases beginning,-0.003817031386902189
+fusion_logistic,text__purchases committee,0.0069965245554297695
+fusion_logistic,text__purchases measured,-0.001953328773684941
+fusion_logistic,text__purchases not,0.001693913841879282
+fusion_logistic,text__purchases securities,-0.0007559891351179452
+fusion_logistic,text__purchases support,0.0019593289469004996
+fusion_logistic,text__purchases treasury,0.005592981473336334
+fusion_logistic,text__purchasing,-0.002643073924144485
+fusion_logistic,text__purchasing additional,0.0069965245554297695
+fusion_logistic,text__quarter,-0.01329678009859906
+fusion_logistic,text__quarters,-0.006779802220590934
+fusion_logistic,text__raise,0.004603620706115205
+fusion_logistic,text__raise target,0.004603620706115205
+fusion_logistic,text__range,-0.007034234210360361
+fusion_logistic,text__range committee,-0.012925351193839217
+fusion_logistic,text__range federal,-0.00235012383711151
+fusion_logistic,text__range information,-0.00592358940495661
+fusion_logistic,text__range labor,-0.017056343501175915
+fusion_logistic,text__rate,-0.004487496849666267
+fusion_logistic,text__rate appropriate,0.006882708516872791
+fusion_logistic,text__rate committee,0.0012449999065173153
+fusion_logistic,text__rate considerable,-0.009488844910320026
+fusion_logistic,text__rate consistent,0.007202147285372527
+fusion_logistic,text__rate decline,-0.00509594293870281
+fusion_logistic,text__rate declined,0.028189226296856593
+fusion_logistic,text__rate depend,0.002786373493232185
+fusion_logistic,text__rate extended,0.0041249054910929665
+fusion_logistic,text__rate federal,0.002786373493232185
+fusion_logistic,text__rate gradually,0.004528535662312186
+fusion_logistic,text__rate job,0.003276759448605892
+fusion_logistic,text__rate late,0.003928569614174298
+fusion_logistic,text__rate levels,-0.015457368976571654
+fusion_logistic,text__rate likely,-0.002866452936222125
+fusion_logistic,text__rate percent,0.005186905201230756
+fusion_logistic,text__rate remained,-0.006177120366243781
+fusion_logistic,text__rate remains,-0.0047881213846913805
+fusion_logistic,text__rate seen,-0.007046926755956947
+fusion_logistic,text__rate stayed,-0.02668046770636987
+fusion_logistic,text__rate way,0.0014164789043795679
+fusion_logistic,text__rates,-0.005158240097175807
+fusion_logistic,text__rates resource,-0.004506239796181867
+fusion_logistic,text__rates support,0.0029693304027064355
+fusion_logistic,text__readings,-0.0027405752443374295
+fusion_logistic,text__readings financial,-0.001681854221730518
+fusion_logistic,text__reaffirmed,-0.011583377407741041
+fusion_logistic,text__reaffirmed view,-0.011787197253753826
+fusion_logistic,text__realized,-0.002592728558305578
+fusion_logistic,text__realized expected,-0.002592728558305578
+fusion_logistic,text__reasonably,-0.003664935960942632
+fusion_logistic,text__reasonably confident,-0.003664935960942632
+fusion_logistic,text__received,-0.002362114914270681
+fusion_logistic,text__received federal,-0.0013582209825626899
+fusion_logistic,text__recent,0.0023936648085828667
+fusion_logistic,text__recent indicators,-0.007542916073534508
+fusion_logistic,text__recent low,-0.010834954651674689
+fusion_logistic,text__recent months,0.003659540663385155
+fusion_logistic,text__recent quarters,-0.004616246661569122
+fusion_logistic,text__recently,0.004528893057077346
+fusion_logistic,text__recognizes,0.002185832976546842
+fusion_logistic,text__recognizes inflation,0.002185832976546842
+fusion_logistic,text__recovery,0.0015189629870347953
+fusion_logistic,text__recovery context,-0.008938584943165885
+fusion_logistic,text__recovery help,0.007510760481000566
+fusion_logistic,text__recovery housing,-0.011993047147797357
+fusion_logistic,text__recovery likely,-0.006375910067087868
+fusion_logistic,text__recovery strengthens,0.0069596924722401315
+fusion_logistic,text__reduce,-0.001450823850822789
+fusion_logistic,text__reduce pace,-0.005524827673341485
+fusion_logistic,text__reduction,-0.00471607279886825
+fusion_logistic,text__reduction pace,-0.0015058559134922716
+fusion_logistic,text__reflecting,-0.005887808681935365
+fusion_logistic,text__reflecting declines,0.002109417130761114
+fusion_logistic,text__reflecting earlier,-0.011057085339044497
+fusion_logistic,text__reflecting higher,0.0012349958284886455
+fusion_logistic,text__regularly,0.004258943131591428
+fusion_logistic,text__regularly review,0.004258943131591428
+fusion_logistic,text__reinvesting,-0.0015167353771597077
+fusion_logistic,text__reinvesting principal,-0.0015167353771597077
+fusion_logistic,text__related,0.011760889681722519
+fusion_logistic,text__related disruptions,0.010578570592477157
+fusion_logistic,text__relative,0.007669987434788369
+fusion_logistic,text__relative levels,0.0061934778844382945
+fusion_logistic,text__relative maximum,0.0022526713216993784
+fusion_logistic,text__relative objectives,0.002786373493232185
+fusion_logistic,text__relative symmetric,0.0026231903655570413
+fusion_logistic,text__reluctant,-0.0033801899628166164
+fusion_logistic,text__reluctant add,-0.0033801899628166164
+fusion_logistic,text__remain,-0.006776012605269719
+fusion_logistic,text__remain anchored,-0.009488844910320026
+fusion_logistic,text__remain appropriate,0.0069596924722401315
+fusion_logistic,text__remain contingent,0.001693913841879282
+fusion_logistic,text__remain low,-0.004687873966423598
+fusion_logistic,text__remain near,-0.0061068170708056995
+fusion_logistic,text__remain reluctant,-0.0033801899628166164
+fusion_logistic,text__remain somewhat,0.015030029725578656
+fusion_logistic,text__remain strong,-0.007785275182752722
+fusion_logistic,text__remain subdued,0.0037879477312956094
+fusion_logistic,text__remain time,0.002786373493232185
+fusion_logistic,text__remain weak,-0.0027252991034041212
+fusion_logistic,text__remained,-0.006916267291636465
+fusion_logistic,text__remained low,0.0027872359958134307
+fusion_logistic,text__remained slow,-0.004268382677596622
+fusion_logistic,text__remained soft,-0.0023488291280574043
+fusion_logistic,text__remained solid,-0.0068361590322123175
+fusion_logistic,text__remained stable,-0.002941883377946311
+fusion_logistic,text__remaining,-0.011984146789727538
+fusion_logistic,text__remains,-0.007740464388457684
+fusion_logistic,text__remains accommodative,0.003101800068146894
+fusion_logistic,text__remains appropriate,-0.015457368976571654
+fusion_logistic,text__remains constrained,-2.060831642387819e-05
+fusion_logistic,text__remains depressed,-0.00509594293870281
+fusion_logistic,text__remains elevated,0.00685952511749085
+fusion_logistic,text__remains percent,0.0076437039147464044
+fusion_logistic,text__remains slow,-0.011292399072545046
+fusion_logistic,text__remains strong,-0.0015993623509445497
+fusion_logistic,text__remove,-0.006991656317580652
+fusion_logistic,text__remove policy,-0.006991656317580652
+fusion_logistic,text__reserve,-0.024345966174452796
+fusion_logistic,text__resource,-0.00432791269312679
+fusion_logistic,text__resource slack,-0.004734987283581585
+fusion_logistic,text__resource utilization,-0.004852476610794621
+fusion_logistic,text__resources,-0.009388146031757819
+fusion_logistic,text__resources diminished,0.0019082863207742925
+fusion_logistic,text__restrain,-0.0033885133332387193
+fusion_logistic,text__restrain cost,-0.006375910067087868
+fusion_logistic,text__restraining,-0.0004977993998135289
+fusion_logistic,text__restraining economic,-0.0004977993998135289
+fusion_logistic,text__restraint,-0.003817031386902189
+fusion_logistic,text__restraint diminishing,-0.003817031386902189
+fusion_logistic,text__return,0.0041763758682858716
+fusion_logistic,text__return higher,-0.002037011039379547
+fusion_logistic,text__return percent,0.003101800068146894
+fusion_logistic,text__review,0.004258943131591428
+fusion_logistic,text__review size,-0.004686346101971364
+fusion_logistic,text__rise,-0.01100615058668402
+fusion_logistic,text__rise gradually,-0.01206453378413107
+fusion_logistic,text__rise percent,0.0009108494097177553
+fusion_logistic,text__risen,3.689166448261004e-05
+fusion_logistic,text__risen significantly,-0.003023432589679579
+fusion_logistic,text__rising,-0.003940148104973105
+fusion_logistic,text__rising moderate,-0.011241916201480039
+fusion_logistic,text__rising moderately,-0.00792108108159984
+fusion_logistic,text__rising solid,0.004756820092651104
+fusion_logistic,text__rising strong,0.005670163011612629
+fusion_logistic,text__risks,0.0014150986987705749
+fusion_logistic,text__risks economic,0.0033443652136771838
+fusion_logistic,text__risks outlook,-0.003929852527454323
+fusion_logistic,text__rolling,-0.0032597882422213975
+fusion_logistic,text__rolling maturing,-0.0016433047333263059
+fusion_logistic,text__roughly,-0.001408559358680079
+fusion_logistic,text__roughly balanced,0.0030725145665323225
+fusion_logistic,text__run,-0.005587836378095223
+fusion_logistic,text__run actual,0.002786373493232185
+fusion_logistic,text__run committee,-0.009359041685822894
+fusion_logistic,text__run dual,0.0061934778844382945
+fusion_logistic,text__run goal,-0.0005841909062002621
+fusion_logistic,text__run goals,-0.006991656317580652
+fusion_logistic,text__run likely,-0.0005653781895263608
+fusion_logistic,text__run objective,-0.004175059835261353
+fusion_logistic,text__run percent,-0.0034923379079604493
+fusion_logistic,text__running,0.012846219593461286
+fusion_logistic,text__running committee,0.0032572844732282075
+fusion_logistic,text__running percent,0.01111804826092209
+fusion_logistic,text__running somewhat,0.007237402612618903
+fusion_logistic,text__sales,0.0019797984749283185
+fusion_logistic,text__second,0.005187677305908675
+fusion_logistic,text__second quarter,0.005187677305908675
+fusion_logistic,text__sector,-0.0007160090918407384
+fusion_logistic,text__sector continues,0.01454106664961429
+fusion_logistic,text__sector improved,0.006974755631319031
+fusion_logistic,text__sector remains,-0.015375995466507798
+fusion_logistic,text__sector shown,-0.003442117450185438
+fusion_logistic,text__securities,-0.009378157799840416
+fusion_logistic,text__securities agency,-0.0017129066054356692
+fusion_logistic,text__securities announced,0.003911372199123125
+fusion_logistic,text__securities auction,-0.0016433047333263059
+fusion_logistic,text__securities committee,-0.00445937655514411
+fusion_logistic,text__securities employ,0.0033528376928198466
+fusion_logistic,text__securities end,0.010956456219108401
+fusion_logistic,text__securities holdings,0.0052509235858329345
+fusion_logistic,text__securities light,-0.0007559891351179452
+fusion_logistic,text__securities maintain,-0.003817031386902189
+fusion_logistic,text__securities pace,0.0033002880766938164
+fusion_logistic,text__securities rolling,-0.004795097947940893
+fusion_logistic,text__securities sizable,-0.009187591736327065
+fusion_logistic,text__seeks,0.0002555715233816016
+fusion_logistic,text__seeks foster,0.0002555715233816016
+fusion_logistic,text__seen,-0.01222852564974133
+fusion_logistic,text__seen improvement,-0.007046926755956947
+fusion_logistic,text__sees,-8.462580989536342e-05
+fusion_logistic,text__sees risks,-0.005407963389217203
+fusion_logistic,text__september,-0.0068223124062283
+fusion_logistic,text__september committee,-0.005174049851463429
+fusion_logistic,text__september indicates,-0.0016130340712238883
+fusion_logistic,text__sheet,0.009060135131661847
+fusion_logistic,text__sheet normalization,0.006164275409353568
+fusion_logistic,text__shortfall,0.0009108494097177553
+fusion_logistic,text__shortfall inflation,0.0009108494097177553
+fusion_logistic,text__shown,0.0011229082537833352
+fusion_logistic,text__shown improvement,-0.0060408838273096
+fusion_logistic,text__shown signs,0.004809984690415638
+fusion_logistic,text__significant,0.0009264666815260521
+fusion_logistic,text__significant downside,0.000959559381890454
+fusion_logistic,text__significantly,-0.003023432589679579
+fusion_logistic,text__signs,0.0037502137647017837
+fusion_logistic,text__signs improvement,0.0009977043158047741
+fusion_logistic,text__sizable,-0.010474091428460414
+fusion_logistic,text__sizable increasing,-0.003817031386902189
+fusion_logistic,text__sizable levels,-0.009187591736327065
+fusion_logistic,text__size,0.0072934722225361116
+fusion_logistic,text__size composition,-0.0011219466440557332
+fusion_logistic,text__size future,0.003790160534650175
+fusion_logistic,text__size pace,0.0020215217129811464
+fusion_logistic,text__slack,-0.004734987283581585
+fusion_logistic,text__slack continuing,-0.006375910067087868
+fusion_logistic,text__slow,-0.0012584899638130736
+fusion_logistic,text__slow fiscal,-0.004580445712707596
+fusion_logistic,text__slowed,0.003280491779830967
+fusion_logistic,text__slower,-0.012937219854587048
+fusion_logistic,text__slower pace,-0.0005347240670943613
+fusion_logistic,text__slowing,-0.00014912505436560176
+fusion_logistic,text__smooth,-0.0007559891351179452
+fusion_logistic,text__smooth transition,-0.0007559891351179452
+fusion_logistic,text__soft,-0.0025204628095441355
+fusion_logistic,text__soft inflation,-0.0064554800507969174
+fusion_logistic,text__software,-0.0012737964303256193
+fusion_logistic,text__software rising,0.00429890026199209
+fusion_logistic,text__solid,0.0008513051684848446
+fusion_logistic,text__solid average,0.005933510375773231
+fusion_logistic,text__solid rate,0.0038914519316907616
+fusion_logistic,text__somewhat,0.0023109096740504403
+fusion_logistic,text__somewhat committee,0.0013572298806293675
+fusion_logistic,text__somewhat inflation,0.003861066572175353
+fusion_logistic,text__somewhat low,0.0061934778844382945
+fusion_logistic,text__somewhat percent,0.017488453741089045
+fusion_logistic,text__spending,-0.0012246304014618319
+fusion_logistic,text__spending appears,-0.019640279656338928
+fusion_logistic,text__spending business,0.0057829057765145025
+fusion_logistic,text__spending continued,0.004779531982686056
+fusion_logistic,text__spending equipment,-0.0008681535748044139
+fusion_logistic,text__spending expanding,0.0012330086096792512
+fusion_logistic,text__spending increasing,0.008678689608780241
+fusion_logistic,text__spending picked,0.007062744524834196
+fusion_logistic,text__spending rising,-0.002712627096868038
+fusion_logistic,text__stability,-0.003241037651286901
+fusion_logistic,text__stability committee,-0.003770341873750343
+fusion_logistic,text__stability determining,0.0048726374310232344
+fusion_logistic,text__stability incoming,-0.003817031386902189
+fusion_logistic,text__stability light,-0.007529805477480535
+fusion_logistic,text__stability substantial,-0.007091593640505588
+fusion_logistic,text__stabilize,0.005296847853533226
+fusion_logistic,text__stabilize committee,0.004796087761904991
+fusion_logistic,text__stable,-0.008207020405864667
+fusion_logistic,text__stable consistent,-0.0062763588849160945
+fusion_logistic,text__stable inflation,-0.008598803124603633
+fusion_logistic,text__stable measures,0.0061934778844382945
+fusion_logistic,text__stance,0.005382661047669846
+fusion_logistic,text__stance monetary,0.005382661047669846
+fusion_logistic,text__starts,-0.007683628697943144
+fusion_logistic,text__statement,-0.014897708722265243
+fusion_logistic,text__statutory,0.0002555715233816016
+fusion_logistic,text__statutory mandate,0.0002555715233816016
+fusion_logistic,text__stayed,-0.026013070907102667
+fusion_logistic,text__stayed low,-0.023519382777037513
+fusion_logistic,text__steps,-0.00528025144841005
+fusion_logistic,text__steps future,-0.001953328773684941
+fusion_logistic,text__stocks,-0.0007559891351179452
+fusion_logistic,text__stocks better,-0.0007559891351179452
+fusion_logistic,text__strains,-0.0038368303950120862
+fusion_logistic,text__strains global,-0.0014164358663006373
+fusion_logistic,text__strength,-0.0004167177615199306
+fusion_logistic,text__strength broader,-0.0004167177615199306
+fusion_logistic,text__strengthen,0.0011429557767910089
+fusion_logistic,text__strengthen economic,0.002440658820710906
+fusion_logistic,text__strengthen somewhat,0.0032538845105667797
+fusion_logistic,text__strengthened,-0.006933117246145669
+fusion_logistic,text__strengthening,0.0052920050090301644
+fusion_logistic,text__strengthening labor,0.008317933788673137
+fusion_logistic,text__strengthens,0.009237188339387735
+fusion_logistic,text__strengthens committee,0.003858290717269179
+fusion_logistic,text__strengthens particular,0.0069965245554297695
+fusion_logistic,text__strong,-0.0025299372984472724
+fusion_logistic,text__strong average,0.001621354907715269
+fusion_logistic,text__strong economic,0.002571718348572898
+fusion_logistic,text__strong job,-0.0012789489042678733
+fusion_logistic,text__strong labor,-0.0035786497483932637
+fusion_logistic,text__stronger,0.0015562637928477458
+fusion_logistic,text__stronger economic,-0.0019608410399092934
+fusion_logistic,text__stronger pace,0.0061934778844382945
+fusion_logistic,text__strongly,-0.00100183478121244
+fusion_logistic,text__structures,-0.0012737964303256193
+fusion_logistic,text__structures continues,0.003203954683467001
+fusion_logistic,text__structures weak,0.0030447405357107624
+fusion_logistic,text__subdued,-0.0040238627469865165
+fusion_logistic,text__subdued inflation,-0.005052490030525725
+fusion_logistic,text__subdued outlook,-0.0005653781895263608
+fusion_logistic,text__subdued time,-0.004734987283581585
+fusion_logistic,text__substantial,-0.006600970963710057
+fusion_logistic,text__substantial resource,-0.004734987283581585
+fusion_logistic,text__substantially,0.0008779908065754489
+fusion_logistic,text__substantially context,0.002814124666368946
+fusion_logistic,text__sufficient,-8.86712608301449e-06
+fusion_logistic,text__sufficient underlying,-0.006751614589549581
+fusion_logistic,text__suggest,-0.0024712731989295004
+fusion_logistic,text__suggests,-0.005706621386479105
+fusion_logistic,text__suggests economic,-0.001447300520183994
+fusion_logistic,text__suggests economy,-0.003580862850451216
+fusion_logistic,text__suggests underutilization,-0.014593717995140696
+fusion_logistic,text__supply,-0.0032644494163482363
+fusion_logistic,text__supply chain,0.006329490498181955
+fusion_logistic,text__support,-0.010727138883421007
+fusion_logistic,text__support continued,-0.006949843064567146
+fusion_logistic,text__support economic,0.004464618609632709
+fusion_logistic,text__support mortgage,-0.00013383198217391539
+fusion_logistic,text__support ongoing,-0.006751614589549581
+fusion_logistic,text__support stronger,-7.360673829411223e-05
+fusion_logistic,text__supporting,0.003101800068146894
+fusion_logistic,text__supporting improvement,0.0012072773955262063
+fusion_logistic,text__supporting strengthening,0.009153898044841954
+fusion_logistic,text__supporting strong,-0.006467587181760648
+fusion_logistic,text__supportive,-0.008349427643361098
+fusion_logistic,text__supportive economic,-0.008349427643361098
+fusion_logistic,text__supports,-0.0043080009686285595
+fusion_logistic,text__supports committee,-0.0043080009686285595
+fusion_logistic,text__survey,-0.00857539772759055
+fusion_logistic,text__survey based,-0.00857539772759055
+fusion_logistic,text__sustained,0.010196730222832942
+fusion_logistic,text__sustained expansion,0.0022526713216993784
+fusion_logistic,text__sustained improvement,0.003534821873864676
+fusion_logistic,text__sustained return,0.0030039201809735645
+fusion_logistic,text__swap,-0.01305127037557548
+fusion_logistic,text__symmetric,0.0035039983061288817
+fusion_logistic,text__symmetric inflation,0.0026231903655570413
+fusion_logistic,text__symmetric percent,0.001185647325304845
+fusion_logistic,text__taken,0.004754768044372818
+fusion_logistic,text__taken actions,0.007755998392299251
+fusion_logistic,text__taking,0.009928110551556716
+fusion_logistic,text__taking account,0.009928110551556716
+fusion_logistic,text__target,-0.008777862172493925
+fusion_logistic,text__target federal,-0.015457368976571654
+fusion_logistic,text__target range,-0.007280208503328199
+fusion_logistic,text__temporary,-0.007944512947688788
+fusion_logistic,text__term,-0.006260340753479985
+fusion_logistic,text__term committee,-0.006711580966439182
+fusion_logistic,text__term earlier,-0.0035459876970504686
+fusion_logistic,text__term inflation,-0.002512090144490049
+fusion_logistic,text__term labor,-0.014668957702443083
+fusion_logistic,text__term likely,0.0029337305404497525
+fusion_logistic,text__term near,0.0012575662063955726
+fusion_logistic,text__term rates,-0.0005474259764659009
+fusion_logistic,text__term risks,0.0016915385346438002
+fusion_logistic,text__term securities,-0.012561024436932995
+fusion_logistic,text__term stabilize,0.015030029725578656
+fusion_logistic,text__term transitory,0.004727295202718614
+fusion_logistic,text__term treasury,0.007510544473181339
+fusion_logistic,text__tight,-2.060831642387819e-05
+fusion_logistic,text__tight credit,-2.060831642387819e-05
+fusion_logistic,text__time,-0.004089559359652275
+fusion_logistic,text__time asset,0.0033528376928198466
+fusion_logistic,text__time committee,-0.01053894425439808
+fusion_logistic,text__time levels,0.009068513414859607
+fusion_logistic,text__time rate,0.002662744587190003
+fusion_logistic,text__time warrant,-0.015457368976571654
+fusion_logistic,text__timing,0.0028052518148661185
+fusion_logistic,text__timing size,0.003790160534650175
+fusion_logistic,text__today,-0.007445061927807779
+fusion_logistic,text__today continue,0.00016219754606807495
+fusion_logistic,text__today reaffirmed,-0.011787197253753826
+fusion_logistic,text__today target,0.004551866203804192
+fusion_logistic,text__tools,-0.0019038445533453852
+fusion_logistic,text__tools appropriate,0.0023619286217542246
+fusion_logistic,text__tools necessary,-0.0013169791440115022
+fusion_logistic,text__tools promote,-0.005103652241004543
+fusion_logistic,text__transactions,-0.015383882183249263
+fusion_logistic,text__transition,-0.0007559891351179452
+fusion_logistic,text__transition markets,-0.0007559891351179452
+fusion_logistic,text__transitory,-0.005555523625988639
+fusion_logistic,text__transitory effects,-0.005651404318893789
+fusion_logistic,text__treasury,0.0013715983292736432
+fusion_logistic,text__treasury agency,0.0033528376928198466
+fusion_logistic,text__treasury securities,0.0019864423617191426
+fusion_logistic,text__trends,-0.005052490030525725
+fusion_logistic,text__trends stable,-0.005052490030525725
+fusion_logistic,text__trillion,-0.004269382243188597
+fusion_logistic,text__trillion agency,-0.004269382243188597
+fusion_logistic,text__turn,0.001693913841879282
+fusion_logistic,text__turn promote,0.001693913841879282
+fusion_logistic,text__uncertainties,-0.008156329976957975
+fusion_logistic,text__underlying,0.007934869549070684
+fusion_logistic,text__underlying inflation,0.010741203949378952
+fusion_logistic,text__underlying strength,-0.0004167177615199306
+fusion_logistic,text__underutilization,-0.009388146031757819
+fusion_logistic,text__underutilization labor,-0.009388146031757819
+fusion_logistic,text__unemployment,0.001235301748252236
+fusion_logistic,text__unemployment modest,0.0006484551101356832
+fusion_logistic,text__unemployment rate,-0.0023088100601249043
+fusion_logistic,text__utilization,-0.0023671519100107244
+fusion_logistic,text__utilization context,-0.002037011039379547
+fusion_logistic,text__utilization subdued,-0.004506239796181867
+fusion_logistic,text__view,-0.005392957996841376
+fusion_logistic,text__view current,-0.01379789976946816
+fusion_logistic,text__view highly,-0.00127272558104012
+fusion_logistic,text__view realized,0.0076804466477201514
+fusion_logistic,text__view sustained,-0.004827097859219462
+fusion_logistic,text__views,-0.009161480599420804
+fusion_logistic,text__views normal,-0.015457368976571654
+fusion_logistic,text__warrant,-0.006140860395319026
+fusion_logistic,text__warrant exceptionally,-9.475690771206079e-05
+fusion_logistic,text__warrant gradual,0.002786373493232185
+fusion_logistic,text__warrant keeping,-0.015457368976571654
+fusion_logistic,text__warranted,0.003686237736155339
+fusion_logistic,text__way,0.0014164789043795679
+fusion_logistic,text__way policy,0.0014164789043795679
+fusion_logistic,text__weak,0.0026443387154988385
+fusion_logistic,text__weak employers,0.006934372538628632
+fusion_logistic,text__weak housing,-0.000700056999039352
+fusion_logistic,text__wealth,-2.060831642387819e-05
+fusion_logistic,text__wealth tight,-2.060831642387819e-05
+fusion_logistic,text__weather,0.0021661259337127526
+fusion_logistic,text__wide,-0.00543371190243018
+fusion_logistic,text__wide range,-0.00543371190243018
+fusion_logistic,text__year,0.006016985647353833
+fusion_logistic,text__year committee,-0.00023206157693445395
+fusion_logistic,text__years,0.004937176880316471
+fusion_logistic,text__years ahead,0.0076437039147464044

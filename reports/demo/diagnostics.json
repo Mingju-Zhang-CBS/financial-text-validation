@@ -1,0 +1,82 @@
+{
+  "training_label_permutation": {
+    "events": 42,
+    "accuracy": 0.42857142857142855,
+    "balanced_accuracy": 0.41363636363636364,
+    "log_loss": 0.6941026823417333,
+    "brier": 0.2507814552039062,
+    "auc": 0.5159090909090909,
+    "ece_5_bins": 0.026193162149866965
+  },
+  "extra_14_day_publication_delay": {
+    "price_logistic": {
+      "events": 42,
+      "accuracy": 0.5476190476190477,
+      "balanced_accuracy": 0.5295454545454545,
+      "log_loss": 0.6931282241911516,
+      "brier": 0.25001023004434164,
+      "auc": 0.55,
+      "ece_5_bins": 0.040799555515239005
+    },
+    "fusion_logistic": {
+      "events": 42,
+      "accuracy": 0.5476190476190477,
+      "balanced_accuracy": 0.5295454545454545,
+      "log_loss": 0.6933671989194301,
+      "brier": 0.2501518906646297,
+      "auc": 0.5477272727272727,
+      "ece_5_bins": 0.04280283501357425
+    }
+  },
+  "lower_similarity_confirmation": {
+    "events": 40,
+    "threshold": 0.9,
+    "metrics": {
+      "historical_up_frequency": {
+        "events": 40,
+        "accuracy": 0.525,
+        "balanced_accuracy": 0.5,
+        "log_loss": 0.6950847172576671,
+        "brier": 0.2509515570934256,
+        "auc": 0.5,
+        "ece_5_bins": 0.03970588235294109
+      },
+      "price_logistic": {
+        "events": 40,
+        "accuracy": 0.475,
+        "balanced_accuracy": 0.4598997493734336,
+        "log_loss": 0.7277935276097172,
+        "brier": 0.26547207257475086,
+        "auc": 0.4461152882205514,
+        "ece_5_bins": 0.07445028101646622
+      },
+      "price_hist_gradient": {
+        "events": 40,
+        "accuracy": 0.55,
+        "balanced_accuracy": 0.5363408521303258,
+        "log_loss": 0.7487112592334901,
+        "brier": 0.2724308719740098,
+        "auc": 0.46741854636591484,
+        "ece_5_bins": 0.17245704371432669
+      },
+      "text_logistic": {
+        "events": 40,
+        "accuracy": 0.525,
+        "balanced_accuracy": 0.5,
+        "log_loss": 0.6935637251140572,
+        "brier": 0.2502024134622184,
+        "auc": 0.431077694235589,
+        "ece_5_bins": 0.02212457477341445
+      },
+      "fusion_logistic": {
+        "events": 40,
+        "accuracy": 0.45,
+        "balanced_accuracy": 0.43358395989974935,
+        "log_loss": 0.7280308177727288,
+        "brier": 0.2656608450566478,
+        "auc": 0.44862155388471175,
+        "ece_5_bins": 0.07521269687675407
+      }
+    }
+  }
+}

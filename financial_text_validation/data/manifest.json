@@ -1,0 +1,4955 @@
+{
+  "data_kind": "public-real",
+  "retrieved_utc": "2026-10-24T00:30:30.366173+00:00",
+  "license": "Federal Reserve Board public-domain information; source attribution; no seals, logos or third-party material",
+  "policy_url": "https://www.federalreserve.gov/disclaimer.htm",
+  "sources": [
+    {
+      "url": "https://www.federalreserve.gov/disclaimer.htm",
+      "raw_sha256": "d34e58d665a9c2be94cedbcf09ba33dab0155f8ac5df3a6fc1956700611e7bdd",
+      "bytes": 85130
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomchistorical2009.htm",
+      "raw_sha256": "2155b27c1d8b06854c0439d3932c647b12dc419647e03be17afc76f9fdc50fdf",
+      "bytes": 98252
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm",
+      "raw_sha256": "d4339b2affd690d230db65a37d2d4032dbb632e8f365d3302404a41b0bebc811",
+      "bytes": 96220
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomchistorical2011.htm",
+      "raw_sha256": "6a0dffa7fa1920e417d3201d5104deb0bb79f640ada98669c1042cbd54219572",
+      "bytes": 98227
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomchistorical2012.htm",
+      "raw_sha256": "204c94e1828fca0246941df08dd642b5d7d781ff24fb2329b5b3c4e827b6c6f6",
+      "bytes": 98148
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomchistorical2013.htm",
+      "raw_sha256": "87c0a96afe88de4a8b9b730c0842c09e6c8f9c2b7304bf977da9d526bc3aa28d",
+      "bytes": 95809
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomchistorical2014.htm",
+      "raw_sha256": "63c4cf70538d46d5b50ddbb47aee3ff5899893f0a29a84dc1b226c1abd4c8f02",
+      "bytes": 96089
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomchistorical2015.htm",
+      "raw_sha256": "99e002667ce96ee5bccb601dd8fbe2f531f3120609a5e60132e41eb02e435da9",
+      "bytes": 95241
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomchistorical2016.htm",
+      "raw_sha256": "befbd22fd0383e04737def78f756e6974609af8ca3fc918865d91933e9ead3d2",
+      "bytes": 95829
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomchistorical2017.htm",
+      "raw_sha256": "ede640c8b4d69377389b6f2d9d9844d847828e1a57939797b84834a71218eea9",
+      "bytes": 95200
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomchistorical2018.htm",
+      "raw_sha256": "6a8ffd542bcfe3a2421d8e2d0d983d219e8cbf54ba3cdc977fcd739add048b0a",
+      "bytes": 95705
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomchistorical2019.htm",
+      "raw_sha256": "27b2405d5fb4d9b5c9f5079c539160cee8fc9d2b413cafc31a3d404f1a5d12f6",
+      "bytes": 97344
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomchistorical2020.htm",
+      "raw_sha256": "7603473d11eb9706cb02de8e7b92b40643a88ad6b5df5dca21c5d44a173ff44a",
+      "bytes": 98555
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "raw_sha256": "68e5ff17663c6c7cf57fc2d4e7bf4376dc1a2714d2ca055a43dd6f01fdd56c28",
+      "bytes": 165751
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/releaseDates.json",
+      "raw_sha256": "3e3d91f2e14f89cc09c510772714c8d8338c8de8c5cb801f7310c95292841d70",
+      "bytes": 73063
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20090812a.htm",
+      "raw_sha256": "9b7b71c35a59db0b7f508e98e2ab4ce6c4edfc426de43bbbcbfdc41557099992",
+      "bytes": 82041
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20090923a.htm",
+      "raw_sha256": "1dcd78c44bb0140beaf9b9431ea9c51c097b19d5443459edcf6d577bfc917bb1",
+      "bytes": 82166
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20091104a.htm",
+      "raw_sha256": "df03024d64a2f18e278a16ef936f1a966eed148e21848657ae70899bc107a8fd",
+      "bytes": 82376
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20091216a.htm",
+      "raw_sha256": "3310f9f617d7c1b3990f02865c2d4393f9467ffe18c1212c00be9d117ff45cee",
+      "bytes": 83177
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20100127a.htm",
+      "raw_sha256": "543f6774a8492917040b78055c8e68d29b8f12b6c0b284d950dfea4a02163efc",
+      "bytes": 82929
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20100316a.htm",
+      "raw_sha256": "3b6063e7287b8b8f8232a045678a08800f5aa408bb91a1d383ecddff1603984e",
+      "bytes": 82388
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20100428a.htm",
+      "raw_sha256": "9cfb6cc0e0a21aefdec7df32bf80a0d74aab2d407938fdaf4954005bd434edd7",
+      "bytes": 82130
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20100509a.htm",
+      "raw_sha256": "b4627c980599e0746844443769383bd4674e63f67c24ca78c3598597ced452dc",
+      "bytes": 83374
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20100623a.htm",
+      "raw_sha256": "ba8a4de3246e1e4b4a7fdb0229f5c7fb91da8929d456f4c2ceae4c306381afdc",
+      "bytes": 81850
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20100810a.htm",
+      "raw_sha256": "d58c3377b63ef49fef60b2c39f35114e59e9711aff6420b70d1ae8c34092ba80",
+      "bytes": 82844
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20100921a.htm",
+      "raw_sha256": "51728738ce237387c167bcfa8809b05238f3c0a205b757fb90ce3c8b105b8b24",
+      "bytes": 82302
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20101103a.htm",
+      "raw_sha256": "141bcbde0c47e80d028cbf2cd25c551ea689447dc1cc7054191da85c299a82a1",
+      "bytes": 82891
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/press/monetary/20101214a.htm",
+      "raw_sha256": "4d13480cfff98dc4009d71e266d04f519af40a7966aebb56f217773d4a744dfa",
+      "bytes": 82740
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110126a.htm",
+      "raw_sha256": "e3657ce4f3caf280383d1d77ddcab1b7444ad24078903186c44b609c47bb4cc4",
+      "bytes": 82373
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110315a.htm",
+      "raw_sha256": "8c843b273554adafc3488a95d8a241f3637d28faf01802ebe190a68754f4f933",
+      "bytes": 82515
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110427a.htm",
+      "raw_sha256": "ebbe87a3a01790145ea2939d8d24888aa22e2375df4d7ff3f60a9704f165cede",
+      "bytes": 82580
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110622a.htm",
+      "raw_sha256": "b7d09c321bf6220d0f083759a93733637ed2b77729df14604c40685927a1adbd",
+      "bytes": 82525
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110809a.htm",
+      "raw_sha256": "3532eccfd8cab90579ce1b27f607f271bc206aadb6cec387532d64b99d97268c",
+      "bytes": 82998
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110921a.htm",
+      "raw_sha256": "7e830c95c5fadc8f6314c4438d7e0cfcc9b1f2a10947f4d015b01e60d82cf00d",
+      "bytes": 84231
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20111102a.htm",
+      "raw_sha256": "4eb41abff6d1a518ed040c6f53a95b2a1ed4aa133ccb8ef6849a98d15beb363d",
+      "bytes": 82945
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20111213a.htm",
+      "raw_sha256": "076a3fd913da32773541d71541b522d5641e22c33ec450657a2e9f6451da24e5",
+      "bytes": 82588
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120125a.htm",
+      "raw_sha256": "e2590c1cbe7ea01f07b2dcb0e797e28441e666cd090ce6ca5daf0519a76f2fd4",
+      "bytes": 82474
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120313a.htm",
+      "raw_sha256": "f55495a3d54a7308b98abcca487e0497ee35477917857ccd39717f7b2a89a724",
+      "bytes": 82523
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120425a.htm",
+      "raw_sha256": "a0355c020fb4f9ebeba5160a15782147858d0c72928b33673f65b3c2d3ba9a1c",
+      "bytes": 82574
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120620a.htm",
+      "raw_sha256": "8725b893cf0d4ae3dfb803ac8a6c5a6098be9fec012136a171da6755e5d68831",
+      "bytes": 83684
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120801a.htm",
+      "raw_sha256": "42c0414181ef330dfe6f8f3d5dda5b71bef018009d3ba0ab75374894f95e1be1",
+      "bytes": 82652
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120913a.htm",
+      "raw_sha256": "ada3642049c475e870c301af35310b3321a7771eaf8a05d9a4d159828192294b",
+      "bytes": 83481
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20121024a.htm",
+      "raw_sha256": "dc5be6ff4da147a6c287a01e3866ef9f6e05e9a59989f6b8f0c1f7d07185c525",
+      "bytes": 83465
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20121212a.htm",
+      "raw_sha256": "48a27a4865da126c11737ab2a6938c5758f5545cecaa19f519c495d79de79146",
+      "bytes": 84517
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130130a.htm",
+      "raw_sha256": "a374bb3dd155743a19859df3edda8ab8d4cb39231b053e07a640e38e96328ffa",
+      "bytes": 84103
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130320a.htm",
+      "raw_sha256": "f0aa9883722a74949b9b11ccd191d2a273ce3351b6834384577058b956e8fa47",
+      "bytes": 84140
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130501a.htm",
+      "raw_sha256": "d8a357c1e035b967d53d55232b49f2b8e88e853cab3d9ecd7e05a6abd09adfa0",
+      "bytes": 84215
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130619a.htm",
+      "raw_sha256": "8c03da571cf65cd38e030066ed6810499d013c847fedbbe2ad3762d6fee58a99",
+      "bytes": 84427
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130731a.htm",
+      "raw_sha256": "49ef3563303c9d131790a6c01df5c80019c76b03bb8a9d7237eebe5589de454b",
+      "bytes": 84403
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130918a.htm",
+      "raw_sha256": "716b08d576d1c432507b6233eaee30bf7f0f3d28c8647e4db3a75ef804c866df",
+      "bytes": 85071
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20131030a.htm",
+      "raw_sha256": "27ee4c569026c6210b908338dcc3f31ddf704ae0af88302501b039d675b51894",
+      "bytes": 84940
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20131218a.htm",
+      "raw_sha256": "a9cf35571070dfa7d030721049393f1f7dc9f2ab2c5f7bc5f6bb4b49f38d11c2",
+      "bytes": 85728
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140129a.htm",
+      "raw_sha256": "c2c647084dfb1887c5a39367df8c2747a83da531e1337fd47aef4004248b9ad2",
+      "bytes": 85653
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140319a.htm",
+      "raw_sha256": "b6695b71077d5fd0cc88cd242f9747d5f0aeb155c6b212a584faa1cbe202f495",
+      "bytes": 85949
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140430a.htm",
+      "raw_sha256": "212fcb47cbf91f070472da17232d5d86a5adabfa796039451c6faa8703622cb6",
+      "bytes": 85437
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140618a.htm",
+      "raw_sha256": "e906c910d32809c9b4362992d636d6e17cede1f6eb1f22284219f0c335c0811b",
+      "bytes": 85367
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140730a.htm",
+      "raw_sha256": "71ff0214e5ec85e9fd4f56fd76498eca0046ad9a3fd2b010b0d4257a66d10574",
+      "bytes": 86286
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140917a.htm",
+      "raw_sha256": "5f6b56098d2084088850ad36aa4dc4d2a3e933c2c753069447afc58f4e5f2589",
+      "bytes": 86015
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20141029a.htm",
+      "raw_sha256": "f036d0311f8c973ea530ca535174fd8ae4bdb996d591e512a0f00c61d167d894",
+      "bytes": 85398
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20141217a.htm",
+      "raw_sha256": "d8fcd02bd6620570b87f06dc4b82133fb200fd87b980ca0ecef63fb01acbcfcf",
+      "bytes": 84752
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150128a.htm",
+      "raw_sha256": "e0ec879536cdcdb795d5e1e5c5cac0010311685abd9cae3e8903ba5dd2799b4c",
+      "bytes": 83753
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150318a.htm",
+      "raw_sha256": "48188f794ec8ee4fa9cdafed92cfe6099ee21a7909f8a4c893401374b27bcdcb",
+      "bytes": 83666
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150429a.htm",
+      "raw_sha256": "ff288a6e757600b43632149441f8c88ced6e819338fc1537b22b7ae7e2f438d5",
+      "bytes": 83557
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150617a.htm",
+      "raw_sha256": "4f91309c9e8cc115cf1587c02f20e10dcaa74de2396b99575326d8f6666805df",
+      "bytes": 83413
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150729a.htm",
+      "raw_sha256": "33a003befcff75a9f7b8674620e8480a4e0d7ea0f1e908c3b8c2a9042a8839fd",
+      "bytes": 83382
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150917a.htm",
+      "raw_sha256": "adb0026da650a8116a49dcb2c89c42cbb2e36357b77d7ff8056c79cdba852cf8",
+      "bytes": 83683
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20151028a.htm",
+      "raw_sha256": "5e9507f4c141a7292ba8e2af5020c4f08eb779d7daf781d22f4b0ffffc2280d8",
+      "bytes": 83593
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20151216a.htm",
+      "raw_sha256": "1930c7e031aa22f4e21723d08969477c1cc3f805a25dc3384db6f052387ec194",
+      "bytes": 83621
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160127a.htm",
+      "raw_sha256": "2c0ecab5f2966e27652c408c79949d428cfcf9e5adc6a90440c8d105fbe3bbe9",
+      "bytes": 83480
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160316a.htm",
+      "raw_sha256": "0b6bbe862785ace374e28d21a52d16040438d8c9ef6b240d4abaeacda4c9a83e",
+      "bytes": 83538
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160427a.htm",
+      "raw_sha256": "0e026458bcc0b50ed850b1236ca09e8b3b6aac47c19abbc68ace98445437de40",
+      "bytes": 83564
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160615a.htm",
+      "raw_sha256": "9a0cc8c6678d4c5055f20f594a46eac9b5ac84a356f3615ad517c308424683ce",
+      "bytes": 83334
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160727a.htm",
+      "raw_sha256": "94da34df280007f5294d93f598b739b817a6930f3a6d1093c0191dc46c2daefe",
+      "bytes": 83478
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160921a.htm",
+      "raw_sha256": "2b98380e125a09678477071e5367a0461d0403968ec8e850fd4e224549d5b2b2",
+      "bytes": 83694
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20161102a.htm",
+      "raw_sha256": "7f7530790f83a44092889d230c491514e0f25a3b5aa7934cb64af0945fe81342",
+      "bytes": 83666
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20161214a.htm",
+      "raw_sha256": "1a6c368bdedbdb9574465dea16ea822de6eb55fbb46924d1b0453d26a620b776",
+      "bytes": 83325
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170201a.htm",
+      "raw_sha256": "6cf94357d9b85813206f4adbdba1620cb5200927f3c8c73d627afd21a54b9e2c",
+      "bytes": 83773
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170315a.htm",
+      "raw_sha256": "44ada68259e1d2835c2ff6cd78210fffc08c1288726b5cab13c4746eebb05646",
+      "bytes": 83508
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170503a.htm",
+      "raw_sha256": "843e151e460c5808f5350cf49828c4da5bdc4ed83cf7c026602a1fb0d97a8f0a",
+      "bytes": 83489
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170614a.htm",
+      "raw_sha256": "c9628ac35cc3c37ed4d0137c4a30e0ef5787b89540c97d3cf9b525307a4df3c8",
+      "bytes": 83685
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170726a.htm",
+      "raw_sha256": "987c8066ef5c3a84cd28b4168fd5b5f05acbf3d21783a06571364aba825a1987",
+      "bytes": 83373
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170920a.htm",
+      "raw_sha256": "23ea15a7ff72bbc5eed7ff6af2f1c374ef03deda9d9be7eb59003d21064bef0b",
+      "bytes": 83549
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20171101a.htm",
+      "raw_sha256": "c2873134febf39fe95c2406c848c4fe70c2eb7183cf4f05a79e84d9faa9cd3d3",
+      "bytes": 83429
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20171213a.htm",
+      "raw_sha256": "351857d65c588edeb22976f6217cacc7cb8661dbed61f4fdeba91ce11ee5a0cf",
+      "bytes": 83208
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180131a.htm",
+      "raw_sha256": "c6d250e6fa12f43e7b8fab0e6f261885123333d83a2cf6570069c84f183c4383",
+      "bytes": 82749
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180321a.htm",
+      "raw_sha256": "1161e7de5a1784e663264d2c3295890b6c9e77ca3ea4c805321949c34011a72e",
+      "bytes": 82910
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180502a.htm",
+      "raw_sha256": "87195d96c26fd5937607e5f22f0a04f3470b3c31d37ec95c666c39a1ee0d8636",
+      "bytes": 82726
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180613a.htm",
+      "raw_sha256": "c97800ba11831c28a7ed3b87e422271211fa227c8e9bd215b63cdf371d34bba3",
+      "bytes": 82088
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180801a.htm",
+      "raw_sha256": "7e3025e8a90fdd45f21fd7683dd70c754107d8c78a107169fe99661677f934a4",
+      "bytes": 82029
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180926a.htm",
+      "raw_sha256": "7cd5d06420db10e6fcc050e47ac6401b8c433c1f31d36fbc6f4da32d4add620a",
+      "bytes": 81908
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20181108a.htm",
+      "raw_sha256": "aedddb45525e3e1a6d83faf2a14fc9f6cf3680f792b7978e7cf32fc787009294",
+      "bytes": 81982
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20181219a.htm",
+      "raw_sha256": "d9dfd5a0eaa5a2fb90798bc1f08d3e836ec6819dad9e54a232c8a0b15825a0e6",
+      "bytes": 82169
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190130a.htm",
+      "raw_sha256": "3ddecfc076ae06d10ad4f5a24f990f6fb0ed822c5f44672d2decc55df697d98d",
+      "bytes": 82155
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190320a.htm",
+      "raw_sha256": "20d242cd87a5fa7c43bb201141cac42c63f7b4666fdd752d3230dfb8ee106a36",
+      "bytes": 82248
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190501a.htm",
+      "raw_sha256": "3f3e4fbb2d1d1daa2c6cd98591c8ebfb395d1fa8fca916389c0a7fcd1e9f8dde",
+      "bytes": 82078
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190619a.htm",
+      "raw_sha256": "b01577fcac01715e6a9a661ee8d7fb71615f27ba54fb2202cdfedf19074ce1ae",
+      "bytes": 82320
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190731a.htm",
+      "raw_sha256": "c89e89c94895154c4d5439a747ca09ca1c37b372a95d0e59b9d7673cef7ebff3",
+      "bytes": 82608
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190918a.htm",
+      "raw_sha256": "42e0571705fe269b67f29b044e9469a6cfb601e2d0315046d249f72f735c3755",
+      "bytes": 82504
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20191011a.htm",
+      "raw_sha256": "3a2a9c5d21113f4d1b0667a3c2da8c6726de60c5feb0dfebc63f95a6117453b2",
+      "bytes": 85772
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20191030a.htm",
+      "raw_sha256": "b0e9d004c96e3b1f9774a3f3205392d2641db75ab752517eac60c61b7a6ada95",
+      "bytes": 82275
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20191211a.htm",
+      "raw_sha256": "7f218ae22c17a86c4d9b11d51fd5f668515c06fb73154504652eaccc49cce012",
+      "bytes": 82073
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200129a.htm",
+      "raw_sha256": "a376f6e4c1efaae130eea36fab3d79537b6630ab7351f52caf89506a77784612",
+      "bytes": 82079
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200303a.htm",
+      "raw_sha256": "421ec677f3c13079c2fc403fccd8080caff23d6446e07954fddcb11ec7ef4799",
+      "bytes": 80778
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm",
+      "raw_sha256": "5a245284672d4a87513e38ec268808bd17952b742847f5e439d90a6d612aa1f8",
+      "bytes": 85154
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200323a.htm",
+      "raw_sha256": "ae7d80aed40dbeb2e4ae4f39dfcb4ca4ee897336f7ce2b8bd51ff5ce0c30a294",
+      "bytes": 85027
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200429a.htm",
+      "raw_sha256": "affef1e9c057ef94ee411d9955c80354c7f580570050000942800066dc543341",
+      "bytes": 82800
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200610a.htm",
+      "raw_sha256": "3cd7fbdc89a7a2f10bff7f97add6d89ae6938396352c644ca12fa88083eac3ca",
+      "bytes": 82796
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200729a.htm",
+      "raw_sha256": "8627b85690922000e2a89630b445a761ba0cd0d2fab3f3da7c80b5671449cd56",
+      "bytes": 82936
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200916a.htm",
+      "raw_sha256": "5a181c51ea0f704d55e5c513d82d13905860e15c92688f4b8265a2366160dd58",
+      "bytes": 83554
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20201105a.htm",
+      "raw_sha256": "c8dba9bf5c5a77bc863823663387e8ac5c635b1108c3a721afec430e592e91ce",
+      "bytes": 83013
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20201216a.htm",
+      "raw_sha256": "b1a0155dc1c861d0e67cb963da25617123ec201339ddbb714dca749ed891ddbd",
+      "bytes": 83124
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210127a.htm",
+      "raw_sha256": "147c1cc54a16ec398128993d030b25a08ed38feaca11b9d6bc755275dddfc236",
+      "bytes": 83195
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210317a.htm",
+      "raw_sha256": "c1ec5a0bf228c605cdd3063bece623d784931c0dbb3f760b8e6b22fa7d2e141b",
+      "bytes": 83157
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210428a.htm",
+      "raw_sha256": "6e20a02718b72e095ec0b9b8821319d7e2898ca188f1f043a1282805257218c3",
+      "bytes": 83145
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210616a.htm",
+      "raw_sha256": "5be34206fc4b1a97d806189e0ad04c5147dae4e9d6fa7652e710bbc945547260",
+      "bytes": 83105
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210728a.htm",
+      "raw_sha256": "3f76c47098c017e5f35072731e770d32dde603ef1ddfc26900227ec725e5c310",
+      "bytes": 83188
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210922a.htm",
+      "raw_sha256": "036e668e09be8dc829339699b82eb8f7cf0047d3066f5985d2540645b63f4e97",
+      "bytes": 83307
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20211103a.htm",
+      "raw_sha256": "16f5d8b27e8fdda4a1b27444ec9dbd360d0df19784c52229328ff851a38adbf0",
+      "bytes": 83986
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20211215a.htm",
+      "raw_sha256": "dc9c26a85645796828e85bd337588acec34c41b887060f5c4916d2afe8a40a4b",
+      "bytes": 83382
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220126a.htm",
+      "raw_sha256": "38f32d3acec56fb36bf65c4584bef30cf4e5a14e48c6131029a6a6c4c1c0cf6c",
+      "bytes": 82747
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm",
+      "raw_sha256": "9b410be488725d99fd05c87fbeffd004203fdda5178fe6a0a581bea7be29a1ae",
+      "bytes": 82240
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220504a.htm",
+      "raw_sha256": "5cd112e7213cffad92f0aa47e575c3e1681d48c33e3e17210edadc515fa7b502",
+      "bytes": 82755
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220615a.htm",
+      "raw_sha256": "badf9166ec59a13cf064193f1328c320935f2b3783c9c114e62cfc67e2de85e0",
+      "bytes": 82385
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220727a.htm",
+      "raw_sha256": "1ba8f6f4b4ee83e4d5513b08064f52eee6cd90acc76495b456021252fbf7ae72",
+      "bytes": 82046
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm",
+      "raw_sha256": "228ac53141c87040e58430cf0374bd9111de35152c6bdd87d70c5f82b36c9b9d",
+      "bytes": 82053
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20221102a.htm",
+      "raw_sha256": "879c8d941cd75a9c2916a9a59efedd2a46dfa78f88429314e02c5b6c1e9f6cea",
+      "bytes": 82687
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a.htm",
+      "raw_sha256": "5260dae56ec0c394a7ba29e6651eb3141df2966b49e0adfd505844a3b2707a79",
+      "bytes": 82688
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230201a.htm",
+      "raw_sha256": "3f2dabbf84724bfd1846782ff8253b51998e324d792af6f7c1ce2285eb876bcf",
+      "bytes": 82434
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230322a.htm",
+      "raw_sha256": "b25013c1a5e35c3a1c1ceecefe4184fa7d5ddf636da19356d7b7f5f4bdd8d6a9",
+      "bytes": 82630
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230503a.htm",
+      "raw_sha256": "bd340a30be749d90029419fa43f89add12332eb0d420dbb85f151b40af2dd21a",
+      "bytes": 82413
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230614a.htm",
+      "raw_sha256": "30b182952d555dfcb7322e778fa9e4e0e430220a00fd6891f68ad432cf0de508",
+      "bytes": 82483
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230726a.htm",
+      "raw_sha256": "7a7d0221a999a8c3cfa03c3ac876fd48ecc48efc37f5db9fe13540025fb85773",
+      "bytes": 82440
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230920a.htm",
+      "raw_sha256": "c7d00e62eb781c8d46388a4e9ec5bc1883e2edc6cad5a654f719d2a95b016c47",
+      "bytes": 82487
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20231101a.htm",
+      "raw_sha256": "1eef2ff1af5748dcc1332ae07546647f2f4dc25e224b38a240dad95291ba4b3b",
+      "bytes": 82521
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20231213a.htm",
+      "raw_sha256": "ad79d29ccfc8ebcccf074eb27dd6125484839f148d8bc08bde3ab7c0fb3fdfc7",
+      "bytes": 82575
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240131a.htm",
+      "raw_sha256": "749581a88b524f5bc456849c8dd87caa5312acc86c05c903c2dd4a2c6a00a052",
+      "bytes": 82387
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240320a.htm",
+      "raw_sha256": "95b2d7f34ddd3d9e1f519f0a153a9eac32f64ca0c577ac2e3c615780faeb7974",
+      "bytes": 82347
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240501a.htm",
+      "raw_sha256": "d54145e2c15af9e236610b3c6e36c6feecdc52f198d77d483eb7ab98cec5785e",
+      "bytes": 82833
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240612a.htm",
+      "raw_sha256": "22df0f59f526db7d7be3159ddbae2f5e8b53becd4a20537390bd246ded46b19f",
+      "bytes": 82435
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240731a.htm",
+      "raw_sha256": "50a2976981089b3a71076901d08b26177e0412b2aca76928a68fc694c7ed16ba",
+      "bytes": 82515
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240918a.htm",
+      "raw_sha256": "90e0f18d7998451b10cd63b093670336b194e851c7ca2fe2b003f3921d1d559d",
+      "bytes": 82514
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20241107a.htm",
+      "raw_sha256": "abdbdd4ceaaf40122fbda82eb1ce89c5e8b0de5a11bfd84fba7598385dd26350",
+      "bytes": 82289
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20241218a.htm",
+      "raw_sha256": "fc15b4205ec55f04386a0d4e64d32f517a6da6d2f98ddffaf19ab6c57ef58ff3",
+      "bytes": 82442
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090105/",
+      "raw_sha256": "0b83e377354ab3121ce8316950d09a0809fd2aaba2bdd3f51470c43c4bf63384",
+      "bytes": 7995
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090112/",
+      "raw_sha256": "c8e67e40cd3866e7fcad8d93d5a6c49fe789f7645b8da432f1cb3d79f68bbbdf",
+      "bytes": 7809
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090121/",
+      "raw_sha256": "ae65fc23e752105be532feca4d45cf429d434f3c08f534be1d90d639a26378da",
+      "bytes": 9647
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090126/",
+      "raw_sha256": "a647d2c8e262c35010dea75d6844d236231915b1280557456355dbe8cd70ba4d",
+      "bytes": 9647
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090202/",
+      "raw_sha256": "fa0c8b878651cded8b5a8efd45bcdd5b9936caeb8e67abaaf3fcb013de68dea3",
+      "bytes": 9647
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090209/",
+      "raw_sha256": "e585b046bb4b9f08f9e5353d206dcbc23430f92046d46ade54b270ad61b7f2b2",
+      "bytes": 9646
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090217/",
+      "raw_sha256": "12fbd6d8ebb6556a948ab07dc6453ad80535c1508a5c9b55d2200feb264c6854",
+      "bytes": 9511
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090223/",
+      "raw_sha256": "286bce79ad9c9be8aae172577caa108c0a1b1bb71362073ea25c4a253f1c9831",
+      "bytes": 9511
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090302/",
+      "raw_sha256": "4dd1455d556ac66ad38b4a3ff4344d5e493bedfba0e2f146bcfec1d113d0904e",
+      "bytes": 9635
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090309/",
+      "raw_sha256": "f943b30f6042b89b3d9c4c9f95299c59d6ced34c00b069d3ec873371f64ff530",
+      "bytes": 9634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090316/",
+      "raw_sha256": "1e4d1c9c3fcd5191b90bcb1eb68b60d9b124bb153844f5c3d8539bb654420486",
+      "bytes": 9639
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090323/",
+      "raw_sha256": "d88ec865a9ab9ef89f6cf95ee3ba91db4eeb0d386cec819b20d4257cb81d4655",
+      "bytes": 9639
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090330/",
+      "raw_sha256": "8bc670c3ec525742a35823900b3080e4649451ab8342b946c9032e2f7be4a6cb",
+      "bytes": 9499
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090406/",
+      "raw_sha256": "edec168057f8284f8bb19aa72cfa294bf4e8052edbafd26a0e3eeaec55e3ae13",
+      "bytes": 9634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090413/",
+      "raw_sha256": "8c4943a7f15efc6fba6160cf2e9350ea97d31130930bcd0368f48255125ad668",
+      "bytes": 9499
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090420/",
+      "raw_sha256": "7a9968ded0049753dd13e894abbba8720749b21e6d87ae410fea29236487a8f2",
+      "bytes": 9639
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090427/",
+      "raw_sha256": "ea7157fa8306176aa6b29a979f01434726286beac7761e5f3c2db5f8df656109",
+      "bytes": 9499
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090504/",
+      "raw_sha256": "74709d1dd1979f2979e50e51d9ed10bf25716482caac87604eb1a0f6dd84f805",
+      "bytes": 9486
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090511/",
+      "raw_sha256": "1f837d9557ad710521a8284d3fb79c2eec73c3bbeb6d37f4478c1939d36b81e2",
+      "bytes": 9630
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090518/",
+      "raw_sha256": "bb4c827a2933e39d8087bf2e4b6e7ac0b7f14cbd40a4b93ba6f8e8c88e61aeb0",
+      "bytes": 9631
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090526/",
+      "raw_sha256": "4875fc8938c91b0d24125afd8688216f0a3ec3d07c545c043764d65299ba0520",
+      "bytes": 9491
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090601/",
+      "raw_sha256": "9d2a14adc6b10a7aa9de8a7545417de4dad2ffc193ebdc6c4eed56f03ea541b1",
+      "bytes": 9631
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090608/",
+      "raw_sha256": "dd159a54c74699b9ff4f482e63c26918db0fd33542f181c0b68b6b7d7202560e",
+      "bytes": 9490
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090615/",
+      "raw_sha256": "e46131db03a74fc617149c8c8e64ab1bb4298e59cce2638c4d6480cb74b6e0df",
+      "bytes": 9635
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090622/",
+      "raw_sha256": "577127a18e72ed2f769e16eda11284275e0fe4dfed512dc5603857aebd997195",
+      "bytes": 9495
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090629/",
+      "raw_sha256": "75b6ced2fe6c17de3955ff4bf9dab3bc47064692a5b4a9f81e1b090030bf2a08",
+      "bytes": 9635
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090706/",
+      "raw_sha256": "c83d202954271ceea6a5aec661cb4790d92310af92e1eda06913ec33fa74f253",
+      "bytes": 9152
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090713/",
+      "raw_sha256": "5076a2360a13b4a1c7a6f6bb277b7bed3750b6d084e923e228bfe99b9dd9c453",
+      "bytes": 9635
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090720/",
+      "raw_sha256": "262485bf1ef57ab9aa507ab2cefaec97976b94e3ece81f41796ce613aae09b27",
+      "bytes": 9635
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090727/",
+      "raw_sha256": "76610dd1ce31acc840c437f51b410ffcb9a6feb90a96e71685847c0d9bbde3e7",
+      "bytes": 9635
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090803/",
+      "raw_sha256": "7c9de51228ea8350b8608840af55e0b7dfe1c1ae17b0cccd9e07e4b1d4250a52",
+      "bytes": 9639
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090810/",
+      "raw_sha256": "548948c55431a59e45c3c12a8d747e8613e5f00769b423df119b575ecbc8e54c",
+      "bytes": 9642
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090817/",
+      "raw_sha256": "de92b72b08bd42d9e7bcfa455c57ac2080451eee63783ba8d3e5a1c0a013839d",
+      "bytes": 9643
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090824/",
+      "raw_sha256": "9ebc02db4b97c51ea365e9ecb9d3b764a504ece42be7227381bb3cd393dbabbb",
+      "bytes": 9643
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090831/",
+      "raw_sha256": "8e81ebbef8c9a3e03a120b738cd000b6da39dd718be289517fbbc4f8b47c89b4",
+      "bytes": 9643
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090908/",
+      "raw_sha256": "80aa9f810147de4456e1784e9fcfb7466004c5bb9869da90af1cdd29ced27af6",
+      "bytes": 9650
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090914/",
+      "raw_sha256": "c9652349e03353d7507fec0868fce7d094a5cfc633261bab45b949cab0ba425c",
+      "bytes": 9653
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090921/",
+      "raw_sha256": "d4cb82089cabb0b486da1efcf3aaefb2c268fed03842f2549b7d1c654c886310",
+      "bytes": 9655
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20090928/",
+      "raw_sha256": "272165169fe3ab084150594ccb1e6d4789594e142d565c2dc1eb9df1c4fa5afb",
+      "bytes": 9655
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091005/",
+      "raw_sha256": "1f66e41b001ea553eb08381c49338e40680bc22d6081a24b14583ebf8d522300",
+      "bytes": 9642
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091013/",
+      "raw_sha256": "882ed914ee60f6ac67b49c1ea233bb2b79b1dafdebdc72a79b66b64036d539dd",
+      "bytes": 9646
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091019/",
+      "raw_sha256": "0f83a7a342cc9e188fb4dcfa3891041ea9a1953ce5d0dc4cc892d8ce825d321f",
+      "bytes": 9647
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091026/",
+      "raw_sha256": "9ef4a012438359552e3a9aec5fc05683dc67a7b6632edda46377c3ed251c42ae",
+      "bytes": 9507
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091102/",
+      "raw_sha256": "13100ad5cc6fbf60858437c354bf1b409a7e95291116554a971bbd06d43d17bd",
+      "bytes": 9647
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091109/",
+      "raw_sha256": "498339b9e0b78a882bff6a8875242417e3ab7d803819e2d139d544ca89e93362",
+      "bytes": 9646
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091116/",
+      "raw_sha256": "749b668d292391d81dbed7d0fe516c134074607eb18344759fc8a18d424c7c95",
+      "bytes": 9511
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091123/",
+      "raw_sha256": "a9b6ab705b6159baaf5f2445be19767fbc3668f42b075712a5886b9916b24089",
+      "bytes": 9511
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091130/",
+      "raw_sha256": "248b72563fcf2faca9c55ea96cfb0b33a8663aee660285d2a9bfaf3877f5143a",
+      "bytes": 9511
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091207/",
+      "raw_sha256": "148a02a2c505b67448746ea9e4a3cfaee9124791223f4973d0b33e89978507a8",
+      "bytes": 9646
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091214/",
+      "raw_sha256": "cb68b5ed7abca0098afaa0f981ae2c716146a94c3aca8ab1e2365e2c3b9185bf",
+      "bytes": 9651
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091222/",
+      "raw_sha256": "bd91affba8d2c1fb944bb39048a7408c7dbce3b8839093cf016ab199eb0fb841",
+      "bytes": 9651
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20091228/",
+      "raw_sha256": "eb615b028913d35e57c226f905120f5d0cd70b2af5a397d0fefffd6b132ceca4",
+      "bytes": 9313
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100104/",
+      "raw_sha256": "ab81478f452d77cf7ac77eae84a3e740c60403204a235f586ac75e54602a77fc",
+      "bytes": 9304
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100111/",
+      "raw_sha256": "f60f43181c5319964f13a36af8b66d01b2dd7161f2b856e1d9010e00d4e92b4f",
+      "bytes": 9646
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100119/",
+      "raw_sha256": "9211ae0da74db8b154d466775bcb586fc2d09d8cc6616f5e8269676dfd9a3566",
+      "bytes": 9507
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100125/",
+      "raw_sha256": "c2c0fa71dc960b76c1a9bb960b30acae4698123afce08062f41e7d3198e48f5f",
+      "bytes": 9647
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100201/",
+      "raw_sha256": "433a0c0451de71e82b0c1dfd5282cc90f597d48d6844596a534ce55f108b39c5",
+      "bytes": 9770
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100212/",
+      "raw_sha256": "45180a9d5d778eb3fe389fcae182ea6d444133a24bca67bfe303ff8d86e7dbd3",
+      "bytes": 9773
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100216/",
+      "raw_sha256": "b407542c3f70c0253277d11e4d0892d94a79713976e6a71720185dc94c270624",
+      "bytes": 9774
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100222/",
+      "raw_sha256": "ed2c78d3c760a2667d73a5cd2cb72d1e4a43028a286cb24b93da93e7f6144a93",
+      "bytes": 9812
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100301/",
+      "raw_sha256": "6fab9c682c967a1020922251da12e5519f3b7d07c7b07f088f9906dbc9fa313a",
+      "bytes": 9614
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100308/",
+      "raw_sha256": "99c1090111ef4b11d1afe2d732e5354cd75a0fd65b86933301abf19b17aa72bf",
+      "bytes": 9756
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100315/",
+      "raw_sha256": "46f9c98c7f06366332662d0f3173b06dfe54eb4223ad009c553f9953beb22300",
+      "bytes": 9618
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100322/",
+      "raw_sha256": "1dc8f8955bfb8366c1fae62c97e5049068e1600e232caee0fe0fef239763d96f",
+      "bytes": 9761
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100329/",
+      "raw_sha256": "a2faab6912e27ab24c7147781ae223edc3f42cee0523ab548f3499eaf3873094",
+      "bytes": 9761
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100405/",
+      "raw_sha256": "bd2286ec623df37eb6b223aee97d6d8bd0785c35a1a615e094cbf2ef629a72a4",
+      "bytes": 9756
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100412/",
+      "raw_sha256": "43b6469fc11b5bb85a4ded326dcb510a840727085097ea32611b9b62cc48e5d1",
+      "bytes": 9760
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100419/",
+      "raw_sha256": "86a7d4b7ef65ff2ecba1d36a771169622d5979f1056196ee803a18f7e65ff1af",
+      "bytes": 9761
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100426/",
+      "raw_sha256": "5c1eb38313abf7eaf038e5b4637d80493a308bf2f1548ea33ce43d10c972e470",
+      "bytes": 9618
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100503/",
+      "raw_sha256": "e8bce1b1fc5cfa0380dc745c41b2e8c64679055a59fb4be355c10ff1bcfc8c24",
+      "bytes": 9749
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100510/",
+      "raw_sha256": "be8b8bd326774655433dd599378d6fb2e87d9dd683d891032da360ff41f4af96",
+      "bytes": 10011
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100517/",
+      "raw_sha256": "96a533f95c5b5c3c179f1af42d952830bf8b461cc8528224160afa0683bc425c",
+      "bytes": 10159
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100524/",
+      "raw_sha256": "6fa394f3e9b9bf1c8a82881979e3381956c3a18ac63c668da9961b0a21ecb08f",
+      "bytes": 10206
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100601/",
+      "raw_sha256": "2d0be0e2c74e3344a4501d331fae5198605ef37d62317d61acb2858004af4ada",
+      "bytes": 10159
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100607/",
+      "raw_sha256": "49d14327e0fa04f937de7ebacb90af56737452997564bb5307fecaf87830b3bf",
+      "bytes": 10183
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100614/",
+      "raw_sha256": "9430eb08bf61ebbd8a195ee050ef0564231d2ee57d286c65ee7d02fa884ddec9",
+      "bytes": 10163
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100621/",
+      "raw_sha256": "93eaa3b166db1a7ca26490130b4284ad45b98e9380a1d290e4ce2c1df1228791",
+      "bytes": 10163
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100628/",
+      "raw_sha256": "68a2f34b0e93445194c0111a9d1cd947e686cce68ef00d209341df838a1dde72",
+      "bytes": 10163
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100706/",
+      "raw_sha256": "eb125baf02a9adb26cb172ebf604d6a858307337f224447a907a480a1258910f",
+      "bytes": 10158
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100712/",
+      "raw_sha256": "11bd55391858177f6248097313d6484e4f485134f163c5a2c7c98fce96edb1ec",
+      "bytes": 10084
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100719/",
+      "raw_sha256": "9fb76a0ce37278537945f92c1fe6b5b123db1a3539a89654957f6999ad8711ea",
+      "bytes": 10163
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100726/",
+      "raw_sha256": "37c7bbb4da4bb31cc084fbadde79af6b53d48165ae05471031f884b4103a9a84",
+      "bytes": 10163
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100802/",
+      "raw_sha256": "5927131afbc999228a8751d925b7c5315c87b098eb058a731f3c4e856811df06",
+      "bytes": 10167
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100809/",
+      "raw_sha256": "947f58adc6cda37aa0b156972ee2d8722706bd0da2bb6f6cd031d4a6bf355efc",
+      "bytes": 10166
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100816/",
+      "raw_sha256": "aa7bc16c9720cf223756a6b2cdaf8fbd7cd7e479db0e59c5e2361ebf80876193",
+      "bytes": 10171
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100823/",
+      "raw_sha256": "dd86c0ea6e14cc2001ec22dc5680108c995aa920d41f4853f6162f8735822976",
+      "bytes": 10171
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100830/",
+      "raw_sha256": "168440c0ac13a1913952808f87855f67fc9257deb003deb1c932e24d88c965d6",
+      "bytes": 10171
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100907/",
+      "raw_sha256": "751a56e0dc48590295b268ea47208c8255e7b1ee732aeb247e736a400d054a1a",
+      "bytes": 10178
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100913/",
+      "raw_sha256": "3b78140381d42b928cef1adf33b627ed6127d1c17bb3ff71591c2ad53ea0d647",
+      "bytes": 10183
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100920/",
+      "raw_sha256": "5a8f40336f4107445f7b92c650a94c322a0cc7af6332b4bc95179a45585ec15e",
+      "bytes": 10183
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20100927/",
+      "raw_sha256": "bd5b4e7987f5da723c0f6280c3d41a9576a98a313c65dc3dde60017238508145",
+      "bytes": 10036
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101004/",
+      "raw_sha256": "b0d4a780a62319a57487a43002cd0d7c8728474e26ab861986b0f6fcccbb6727",
+      "bytes": 10170
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101012/",
+      "raw_sha256": "feddaef5628bee785cc3aaa5f87bb7c1d98f32110e5d35efcc5007505a577a9a",
+      "bytes": 10027
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101018/",
+      "raw_sha256": "d796a74c48eddb896ce405ae10adeff90f6798dac60b27f703558b050c295be9",
+      "bytes": 10175
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101025/",
+      "raw_sha256": "75888ccd78da007206a886f80c34452b15e3ce9d93551ebb96f0b16deb971078",
+      "bytes": 10175
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101101/",
+      "raw_sha256": "f6bc3c61cb3fbf3311d2508caa7daddc11ce9e823d07ed3062c39bcf7aec9f84",
+      "bytes": 10175
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101108/",
+      "raw_sha256": "170aebb86b0ccfcfde3cd4d25b99a3945fcd3b9e11f8eb37f062a875e005c221",
+      "bytes": 10174
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101115/",
+      "raw_sha256": "3bd264c7778ccba3645a04d091a566f16c122459b137e3b5a584a07c3a9069a5",
+      "bytes": 10180
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101122/",
+      "raw_sha256": "18ba0e5468528d737468cc5539b77831f2f122b4876e423b49214f656c19e5ec",
+      "bytes": 10180
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101129/",
+      "raw_sha256": "666ead942171c2bdfc43d6c78b9abb9d2a37a4ee0ecbbb836eac869694aebf08",
+      "bytes": 10180
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101206/",
+      "raw_sha256": "fde772df51f6ac77feb41243f141b69c612c860a4c35e99588ccdcd868803985",
+      "bytes": 10175
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101213/",
+      "raw_sha256": "38dee0fea13b9ced9f89c48ffcfc296aa35108c31f809f6693242ba7a7787963",
+      "bytes": 10180
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101220/",
+      "raw_sha256": "ac0db07a403c73ee420ff71c679133775eceeed770655f80021f9cb8562b0632",
+      "bytes": 10180
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20101227/",
+      "raw_sha256": "e2d2fb4fbb41c00b0758bffdab07cd1fc43d341dfbf99a6c464cc7dda2631ce3",
+      "bytes": 9695
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110103/",
+      "raw_sha256": "aa2c8605918a1b965fcaf42d5da0bb955b8d1ce4ace20867540a674c6a2fbf3d",
+      "bytes": 9834
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110110/",
+      "raw_sha256": "c0bc34b2a1a3cee2c37ecdde9ea48ad27ec3e94e334e68b3a850880fc980d456",
+      "bytes": 10175
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110118/",
+      "raw_sha256": "b5d5f02fc50a642bf96611acde5f964bd8107121b9c38abe878161b980db3ef6",
+      "bytes": 10176
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110124/",
+      "raw_sha256": "62f6cae8e1f0a0d17dec6a5c4849f44cdd3185d6807c6379a27abee9d6bf3e8f",
+      "bytes": 10176
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110131/",
+      "raw_sha256": "dff9686ece69b01b2c624bcd80864730240a435c300cf7b0728228479afd1326",
+      "bytes": 10176
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110207/",
+      "raw_sha256": "0b7b2ea589726a145b2520c74f3fd34e64c6a4b9eef2e60ff12fff7bd3997d0a",
+      "bytes": 10175
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110214/",
+      "raw_sha256": "035efa3b53ae96438306d67daaa1acbd179c0044d5e613976168dbdda370fd17",
+      "bytes": 10180
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110222/",
+      "raw_sha256": "00d2effa2d8dd53e2ec3d2b65bf1e13629401a0b90f2f8f26ab6022a6f5cc859",
+      "bytes": 10180
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110228/",
+      "raw_sha256": "7217156107fc469e6644ec6042bd18f2635ab38248a85ea169d434a5baa53ee3",
+      "bytes": 10180
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110307/",
+      "raw_sha256": "a7d14f50f3aa47445ba288ffd93dc39764a45989da989258b857c12f571d0c7b",
+      "bytes": 10163
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110314/",
+      "raw_sha256": "7040878eab885775dceff3536a8be47219491cc552e91dc5a842aa4674938df6",
+      "bytes": 10168
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110321/",
+      "raw_sha256": "4f750f3383bb4ed8b516cdafc0cd2d6db5e5e5e6b808ef511c1b31a901f8d313",
+      "bytes": 10168
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110328/",
+      "raw_sha256": "9d130403ab44565ef3abdb5c576b1e65f29c81b4947bd90f77c91dd3612fc5dc",
+      "bytes": 10168
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110404/",
+      "raw_sha256": "caeae6b571e77395269bc13b0a1a1044265042c8d1790d0e122591a5c0d15af3",
+      "bytes": 10163
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110411/",
+      "raw_sha256": "0ff8052d9465b5a03a6f54e30a66b6cba0840d5f48ba437681c33d74fbf00484",
+      "bytes": 10167
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110418/",
+      "raw_sha256": "d5935a76178ac4c20f0a297f71d6c27e7759ce009b6f3161c5eeaaa7152f9786",
+      "bytes": 10168
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110425/",
+      "raw_sha256": "b167a94e316ef8c6578c095dac8cfb4589c27e204f14e92fe51e4f681c817a50",
+      "bytes": 10168
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110502/",
+      "raw_sha256": "f0f4fdf01027e9e3c9491fd5f0dcfb3c7fcf58cd3882a1dfdd280e7a32d0c52f",
+      "bytes": 10156
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110509/",
+      "raw_sha256": "3344a60d3a22d5fdf0be16e6f0dadaf741cd7a344f32ad02c00bd5e4f6495fe4",
+      "bytes": 80996
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110516/",
+      "raw_sha256": "789e7349d5c3a37942b265fd4ba558724f298007579b55382e4e72878a1c091e",
+      "bytes": 10160
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110523/",
+      "raw_sha256": "d49b095db76b06ac77a835d1ed382deaf5d991ab8ed9af4f1d87b3ece29077b1",
+      "bytes": 10160
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110531/",
+      "raw_sha256": "72874581d81e9b2764303bb58a545ab67e67d4b17304d1810f31085da21529f9",
+      "bytes": 10160
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110606/",
+      "raw_sha256": "e852f82814ff237657f0078394999efacfa7b6f314949baaf35cf96cee03d67c",
+      "bytes": 20177
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110613/",
+      "raw_sha256": "ff0f235f54ce2f24a7f0038a38f6f14a21bef38e93e6b76549bf15058fd0ff62",
+      "bytes": 20155
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110620/",
+      "raw_sha256": "90dd191d45e8b7a895cb671874f8b94fe829797cfae699bb8e6e871604a0f40e",
+      "bytes": 20155
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110627/",
+      "raw_sha256": "8a2af9e05f551c34cd2a44381413e26e308c188cbeedc47733cd341f79edf67e",
+      "bytes": 20179
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110705/",
+      "raw_sha256": "fdd5ca515b3171eb289f2414eea4f2f340267b089a701fab5f3871cb12539e9a",
+      "bytes": 20070
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110711/",
+      "raw_sha256": "f327bca507ed0ceb71dfd78602267050da3267f153ddf44f4d83e9ce1890484f",
+      "bytes": 20072
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110718/",
+      "raw_sha256": "00de4fcccb0079ad498be0af9faa10e19bffe21792491cf94530a15226053bd3",
+      "bytes": 20072
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110725/",
+      "raw_sha256": "6d967457c7f1620eb297be63d2c35e2f6f81d65a9be2a402d842c49fe89ebb9d",
+      "bytes": 20072
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110801/",
+      "raw_sha256": "13de6a14459253ea79e1cc45eec2f785028484177c341add8b67adc77230c6f9",
+      "bytes": 20074
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110808/",
+      "raw_sha256": "7461db137dee03e3cd4f23a3657e98a61f50bd68fe69af085deeca3451ee251e",
+      "bytes": 20074
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110815/",
+      "raw_sha256": "fdf4145b60712d1afe778d6db701f370934b5caaadf1981bd6d4fa4d0c1b3eb5",
+      "bytes": 20105
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110822/",
+      "raw_sha256": "fc5dd354b27711349f949a3b07e919b2383a41be8316329180722b3bc71df6da",
+      "bytes": 20072
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110829/",
+      "raw_sha256": "0087b58e0e196c5967d8b646b099866d0f7106a27478ab9c2cf78f248cec114a",
+      "bytes": 20072
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110906/",
+      "raw_sha256": "1cf89b684e1f1b74b0e4d7489209b4b6e9176667b5982ec00b8372c8267118ab",
+      "bytes": 20076
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110912/",
+      "raw_sha256": "dccd5761334d60896d1928c71b4deb29f20b870f32c115dd489a59bb91500c47",
+      "bytes": 20078
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110919/",
+      "raw_sha256": "11aebc532f1dc6037081afc3efd50c346c25a4b46f684244b64e572f51fd0b4b",
+      "bytes": 20078
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20110926/",
+      "raw_sha256": "5a5cd678e64506c00dc82bf8176d3c0f377abc2e1841aeb043b8ea29ec97c841",
+      "bytes": 20078
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111003/",
+      "raw_sha256": "5b660735adfdada9b12ddeeb78b72ab26b02cecb6ee0c0274e5beb40ccb17f68",
+      "bytes": 20085
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111011/",
+      "raw_sha256": "ee7a4a2d8acb913c8d68f516159ae0ffe0c284799ffbc6f2033fa83a06d2ba46",
+      "bytes": 20174
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111017/",
+      "raw_sha256": "c84028b6aec9b1c292ed5942767ecbd632ec0f964496dc20d01513225e183200",
+      "bytes": 20075
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111024/",
+      "raw_sha256": "ab1da542959101e89dac7c9fcf3a02eaa1408d5fb24a22a672961d3049c27e28",
+      "bytes": 20075
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111031/",
+      "raw_sha256": "e0b890a637f1af62776473090cf90a97784b962f095e6ac8156fa8f6879944b9",
+      "bytes": 20075
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111107/",
+      "raw_sha256": "73d9582b78928c0accc9d7ed175d294bb117d370dbd9c4da02d4f69419d917fc",
+      "bytes": 20075
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111114/",
+      "raw_sha256": "a9d83b68a2f79625777378ec215232bdb891f29a1d2ce57e81251716b1ed1994",
+      "bytes": 20077
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111121/",
+      "raw_sha256": "1c0cdb6572430afb187d8e5f698dc703d06e8a09ef579c69e34c35c53b176138",
+      "bytes": 20077
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111128/",
+      "raw_sha256": "76b5ec1e8fdb05ca00cf5c38122a32c5c410b01aa0427b9d5b365a3beb377455",
+      "bytes": 20077
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111205/",
+      "raw_sha256": "8dced35d3884abc0423b71bf4205fae63dea03195bb9941134875775d8cd3147",
+      "bytes": 20075
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111212/",
+      "raw_sha256": "aed1f9359e57dd43032768c150d7021894bb04d1fc287d7ff81bf97139c7220f",
+      "bytes": 20077
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111219/",
+      "raw_sha256": "90402cf4f62dbf1ac15b14405f2395de0f287c79e884a6b696ae3c8742e51d78",
+      "bytes": 20077
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20111227/",
+      "raw_sha256": "53f2ec1705e5290033c5601afa80da907fe901b3f7885159d1dff5ad05f60492",
+      "bytes": 19537
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120103/",
+      "raw_sha256": "fc7229eec72c870737575353077e7dcb383b84e01015c01998a2580eed1f05a7",
+      "bytes": 20073
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120109/",
+      "raw_sha256": "dc5469e8aeef6da7cf62e08fe34157b4405b9da146deb825c69a423287eafb50",
+      "bytes": 20073
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120117/",
+      "raw_sha256": "9b9d2b67d933ccc0ab14375757a99515f9617bb27df90514dd5202d37c77de22",
+      "bytes": 20120
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120123/",
+      "raw_sha256": "6516a6e22db132a8d7edd0fc825495908c59b92255562f3206b85b201e3b44e5",
+      "bytes": 20120
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120130/",
+      "raw_sha256": "4460f57f8b4c744f96abd72d771d703f797c29d734004889c37e3490cec918b6",
+      "bytes": 20120
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120206/",
+      "raw_sha256": "42ffbe353509b5beaa8a91d7dd0b3cd08a1051d196101709f64c71962c790e26",
+      "bytes": 20120
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120213/",
+      "raw_sha256": "4b002e84df93d52b992f90538a6cdd05be2c5fbc6b662dc1937be8f84c0730ab",
+      "bytes": 20122
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120221/",
+      "raw_sha256": "fc9b8cb94e92bff6b646fe218ef7eb63ed8ddbd60130808c78dae9cf8f03d12f",
+      "bytes": 20122
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120227/",
+      "raw_sha256": "b4355a87b04aee3cb3dffb1f21318a357c9fce03f19c3fad551db3187bcf2e1b",
+      "bytes": 20122
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120305/",
+      "raw_sha256": "98a7375f35d2dfe5a164e35e101bf2a1658a546384b9a4c2212ce035c3ae21c1",
+      "bytes": 20114
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120312/",
+      "raw_sha256": "31905dc7264102d4b975a63eb9de0fc23ad82685ffb040d113a8147e03c523c2",
+      "bytes": 20116
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120319/",
+      "raw_sha256": "894f078ec314b129e37a5ca4a283da93ebc8ca3066fc2fd33d9ba9deffbe3039",
+      "bytes": 20116
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120326/",
+      "raw_sha256": "d397451c4e3c81a90049cbfdd6136e9894bbf8a24f282a1472871afadde66ead",
+      "bytes": 20116
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120402/",
+      "raw_sha256": "d86e9a1a4ad231c28a62d9ea47dfaaf51d9b01bc7b800e3fb79b4148a2507fe9",
+      "bytes": 20114
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120409/",
+      "raw_sha256": "c3289d1ee0dd11dbec5d242d6bdb0cac714e1788d2617159d75268ab1baf9761",
+      "bytes": 20341
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120416/",
+      "raw_sha256": "7e93491837f7ff036ba5357faf835bd5567f5fcf9b340099dfef19123892006e",
+      "bytes": 20116
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120423/",
+      "raw_sha256": "b7a3ea75b713310d938dbfcbca427f996bc41ca6e67cb80aaade06cdcac2acce",
+      "bytes": 20116
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120430/",
+      "raw_sha256": "a464ca7e83c1d5f179125cc61cadb1325d3bffa69c944bd8b4b9e1b46ba186cd",
+      "bytes": 20116
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120507/",
+      "raw_sha256": "29df3ec14a5f79b1932c6ab0256c5bd5a42f82855d388930405f2d0a3b36c68a",
+      "bytes": 19569
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120514/",
+      "raw_sha256": "c6a66020a02ca3c20671e8d471bcc211a4b420e3ee8ea03ad5dd6b231e7a6640",
+      "bytes": 20112
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120521/",
+      "raw_sha256": "b3643bff03784393fe0da2b570c58d00bad6a62367949a04d5e0ac74909a9e5a",
+      "bytes": 20112
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120529/",
+      "raw_sha256": "d2dba862591090d3b049b93621735414ed96d573aee789d26380bdcb956f5c33",
+      "bytes": 19571
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120604/",
+      "raw_sha256": "614ccc38cdd25ac4758d33ed2dc44a2b65f7be8430b54640d5510a1d2af0801b",
+      "bytes": 20112
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120611/",
+      "raw_sha256": "756f104c5bef600f531a8b3a421fe0e464450e21a296b7a60b3e9125a7a97a51",
+      "bytes": 20114
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120618/",
+      "raw_sha256": "2f573cb94b77afe5f5b1567bcc140cecd1b0982a36a18ab6781c8dd11237443e",
+      "bytes": 20114
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120625/",
+      "raw_sha256": "9ba54867159e5de8af8513e85ef97ff282888e6058d466a4abdee32f4f90f3c1",
+      "bytes": 19573
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120702/",
+      "raw_sha256": "85f2d1c6da9a015a80dd8ea47521d16fa14e92becc9e1ae90d5e145f44d66c44",
+      "bytes": 20112
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120709/",
+      "raw_sha256": "0ae3382eba64e3894bcb99341386f7822738ef3bd3aeb5c37bb9b700479ad0e4",
+      "bytes": 19571
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120716/",
+      "raw_sha256": "08badf147e979fb956093fab4f6580bd1af115ce03203ff3a271a30d422bde3a",
+      "bytes": 20114
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120723/",
+      "raw_sha256": "d07e992db429480bc59d79c1301a139599fcb74dd2c3f31531b58b88ad50e94f",
+      "bytes": 20114
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120730/",
+      "raw_sha256": "e4e097836aae379fec579c48187bc028559a0de35b23499e67588077402da31f",
+      "bytes": 20114
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120806/",
+      "raw_sha256": "f2c03bb09ac52d0140848269524597da08d8c338eb1c56775cf77867c976035b",
+      "bytes": 20116
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120813/",
+      "raw_sha256": "fb11c0d039c7f54f78a15b260d69b4aab00f43f43e3401095bf1f2e6c9e47c19",
+      "bytes": 20118
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120820/",
+      "raw_sha256": "7258080e3de02d9aed5be4f4f80ea380ee141831e235148b7afd87123d9de9de",
+      "bytes": 20118
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120827/",
+      "raw_sha256": "4793eb546178fb8d76cf180a316b575f46e315f033623e24d1a4c831f096554c",
+      "bytes": 20118
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120904/",
+      "raw_sha256": "e52231d7524c6fcc52f7523acdc918a2293ff9621d955b3959f99f71e2969249",
+      "bytes": 20122
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120910/",
+      "raw_sha256": "85f0d05e8d64ef10e4388b4c447872f78bd3720d91b81c4b16e0bb019e0e8e77",
+      "bytes": 20124
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120917/",
+      "raw_sha256": "e333e7e03a9b0d3b6769a038508f1a9c3f1f3acc8a881d2639cf2279a083cf29",
+      "bytes": 20124
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20120924/",
+      "raw_sha256": "a437fc476ad0ea11c306289c23365c82fafec79eb9f5c9da7831addad674cc97",
+      "bytes": 21206
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121001/",
+      "raw_sha256": "67c5671ac699129231765c8ca5d7ac444850abb70093109f9f3f714c364c0af0",
+      "bytes": 20118
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121009/",
+      "raw_sha256": "cdc498e8991ffa7fe11f5d1c4059c66126ba3b7b5d1a1057dafd246f573cd179",
+      "bytes": 20002
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121015/",
+      "raw_sha256": "48670c4e6cee69c6de707b8e3e5ed1267b25adf6ccc6f5c173f1903f014363e7",
+      "bytes": 20004
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121022/",
+      "raw_sha256": "db6dd134edb570c11361cdee6ab21f812380b1f7e2b81ac879fb3d4bab1b8a80",
+      "bytes": 20482
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121029/",
+      "raw_sha256": "e0736c1bf9b84cfa35dc0993d9c8d1ae7761de9a83765ab6b246ff513602425b",
+      "bytes": 20004
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121105/",
+      "raw_sha256": "626f052432d608d8e6d6bc75196a5f4b5c8f22671f99f84b6943ef56b542d3de",
+      "bytes": 20137
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121113/",
+      "raw_sha256": "1710c3d64024d85e029ac127e518846c5b96abdac34cc7fa01ff236360b79ed5",
+      "bytes": 20006
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121119/",
+      "raw_sha256": "120444c91b175562edb002dd4d88ae2dc800e8951f9cc2c8a01abc017521e3cc",
+      "bytes": 20006
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121126/",
+      "raw_sha256": "53d630f1cfcf1a838966ed235ac7bdc4fb937311678d2b879c7dc6343d082918",
+      "bytes": 20006
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121203/",
+      "raw_sha256": "d7cfa4521c338006ffc88e96001cba0146604deabbc8b430726c8f2abbdbd27d",
+      "bytes": 20004
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121210/",
+      "raw_sha256": "9e3c36097444d84445b5240d6bfac49b57c2629190ab4a3a830de13f3f75f7a4",
+      "bytes": 20006
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121217/",
+      "raw_sha256": "96fca804c04031adeb50fb04133a332f16893fa944a46f2f55a9f82f95e18c47",
+      "bytes": 20006
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121226/",
+      "raw_sha256": "d46eeccdb818bd020f44eab3533e4c99f3df8b676a433929e65c6e8efb8cf0ea",
+      "bytes": 20006
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20121231/",
+      "raw_sha256": "bf3f458372c33537e206f0491c32b57c0aed645189579986047937469825ec01",
+      "bytes": 20006
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130107/",
+      "raw_sha256": "e72097b4282970fbdf3506d9d2fb50859bc84b45de99c19e8f8768b6a10f090a",
+      "bytes": 20002
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130114/",
+      "raw_sha256": "cc6fe53de5a9e6520e0de87af0919f2c2e2cdce57e8d9bb338aac87a5f8a84a3",
+      "bytes": 19467
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130122/",
+      "raw_sha256": "d85b5ac675cf308f9a5e6ba49bb4c1a42c1124be5991aea8e9d07435e50d7fe2",
+      "bytes": 20004
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130128/",
+      "raw_sha256": "9a5ac9db05a6f24397399c4160e5ee268d73d2aa7c7dbac77d9b6c1bd1dd29f7",
+      "bytes": 20004
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130204/",
+      "raw_sha256": "1cf5ca703f2ed6651733e964ee89dfd946571765e5bfb1a9d4ef47be5d9a95d9",
+      "bytes": 20004
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130211/",
+      "raw_sha256": "0a3203d0f8f2de7933574084583af9b8d55273e7631505330b1079c373d45d15",
+      "bytes": 19469
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130219/",
+      "raw_sha256": "9f106e7fff490caba130239755f68564bf4f4b8e08ab35d09f4ed1d214e11d05",
+      "bytes": 19469
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130225/",
+      "raw_sha256": "f9e4a4d03c9c8375e5ab36838557708739255b041a8ea5c5d0789ec512f36b34",
+      "bytes": 20006
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130304/",
+      "raw_sha256": "702c15598ab7e13d6fbc1215be2d4b7824f6e00a57d8c7f0907581d5fea475c8",
+      "bytes": 19461
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130311/",
+      "raw_sha256": "af680bb3e16b81197974e960242e1fb5605845b0e5fd4a3a9f1f4bd827ee47e0",
+      "bytes": 20000
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130318/",
+      "raw_sha256": "a0aba40e07c356f3bef122dc3916657ce781cd734b964cb97f1ab2c3e477e475",
+      "bytes": 20000
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130325/",
+      "raw_sha256": "e9027c007be256768ba4c81d1932239810d604c12f5c45e21c64b12a2446cda9",
+      "bytes": 20000
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130401/",
+      "raw_sha256": "39acf43d43b7d73cccc8bf68b60a166007aecadec135e3dafcd73105b0f13599",
+      "bytes": 19998
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130408/",
+      "raw_sha256": "28ff86a1051b30645fdeb44e6b17d7baa6653595405b4d9ea20fd43041af4c7b",
+      "bytes": 19998
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130415/",
+      "raw_sha256": "2902c92e19a99b79670405f35229796485ed3ee042c46ea571030894c0ff1ee1",
+      "bytes": 20000
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130422/",
+      "raw_sha256": "74f6e0705141297e6a8e54b861fcaf21c97bc3a63bf2fc5677696e0ebe9846ef",
+      "bytes": 20000
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130429/",
+      "raw_sha256": "368a3b0153ba97b131f8068badc8a4bba15183263e8d5246e55376f2b829dccf",
+      "bytes": 20000
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130506/",
+      "raw_sha256": "dbde265575a95c192413bf3fa9e5e6d899e25307745280edd3b64125c9edf140",
+      "bytes": 19994
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130513/",
+      "raw_sha256": "ab01bb57d36655d608176cb3fafa3246200c50d7a3c17e7b33c9f5a597877297",
+      "bytes": 19996
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130520/",
+      "raw_sha256": "072d3e4c85205fbae7ecd194f8b9076db532afba9a75bcc29c48f6e3ff1edb62",
+      "bytes": 19996
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130528/",
+      "raw_sha256": "8476ade91c991099950f25fe445f2827559333287206263efba75ad307bfa2f6",
+      "bytes": 19459
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130603/",
+      "raw_sha256": "f58ac38895dc7b5cb5d79c77757f6fbaa03e53b69ac0a8433fc04e8410df9500",
+      "bytes": 19996
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130610/",
+      "raw_sha256": "ea011aeb38d7a165cf49ecf2e55768327a3697ddfceaa80bf0727cfb560bdb44",
+      "bytes": 19461
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130617/",
+      "raw_sha256": "0b95a6585a2fb826f20d792adbe234ca773b2cea6670e6008a255dad4d19584a",
+      "bytes": 19998
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130624/",
+      "raw_sha256": "601aaa234d9be204908df0b57338dcd09a52ae07be0890c87fc1aa237ec4a739",
+      "bytes": 19998
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130701/",
+      "raw_sha256": "65ba9ba4a145a4f16779d2b2c12a4fdd3d9e6ad52baf0d1ce0200c2b34595216",
+      "bytes": 19996
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130708/",
+      "raw_sha256": "1692d0a45f4ac497a720c3d60a8af04dded1736a2c37f830e48df7ba2b19f85e",
+      "bytes": 19996
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130715/",
+      "raw_sha256": "c76afff9c76fe41ae103329a77ba8c168b5f58f3dee60e2cffffc3f2ac2c5441",
+      "bytes": 19998
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130722/",
+      "raw_sha256": "4b5e10793248d49235e9a17eeaee333fbc8fdfa59cd966fb255a0ca4cc58e9b6",
+      "bytes": 19461
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130729/",
+      "raw_sha256": "4996ed1c23496a04322b59460b871f9b231cc01ff971ef285b04f162858e8e49",
+      "bytes": 19998
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130805/",
+      "raw_sha256": "e3d5f70c6ec9946f50f1d8f4999c938ec7980f046ef2e8421ba35675930cf705",
+      "bytes": 20000
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130812/",
+      "raw_sha256": "5798050fa83a21ad117ae6e7984af9e5d376264656f8cdb4a916fb1802819bed",
+      "bytes": 19465
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130819/",
+      "raw_sha256": "1f6f2ca8073fa0da3840b37bc4def0a42b2bc98b0eff9ed4424cae351f4ebd1e",
+      "bytes": 19465
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130826/",
+      "raw_sha256": "0e838b05c61585baa928a8face8583e5d858f9b4979b3810f37d0fb08e9f2a8a",
+      "bytes": 20002
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130903/",
+      "raw_sha256": "e88014e52cc4e10100f6da5ede7bb1d3e863e6c2e6a349cd4c3c484d6cf1a64e",
+      "bytes": 20006
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130909/",
+      "raw_sha256": "c166d0a4d1315e272b7aff4bd46b50ba3d1c1c9c60cefee9d751eb6453ae6a29",
+      "bytes": 20006
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130916/",
+      "raw_sha256": "2cedb47e5af27c664f48ccd86f8eca65a57a7ee527a95dbcccb049dad2fa14ce",
+      "bytes": 20008
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130923/",
+      "raw_sha256": "2e00ebbc0bdc51514c747c663a57ed04110c44105c85e68b7ad01e4ead5f4436",
+      "bytes": 20008
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20130930/",
+      "raw_sha256": "44ec7b79d2385af6c4020aabe307ecaa055b1834c280cc159797f2668b1f9452",
+      "bytes": 20196
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131007/",
+      "raw_sha256": "693a799dc0b1f360e0db74b21acbafed5dbddbb6249611598e4b0e8c08412bb8",
+      "bytes": 20002
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131015/",
+      "raw_sha256": "2f3399fc30df62d9cffcfcb3d8ec2515cf872f097f4613daefe3772e66474dab",
+      "bytes": 20004
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131021/",
+      "raw_sha256": "dbd8bfe40cbd723d59620b20cb2582580ee2887de6e0ac35de935af4384a9a92",
+      "bytes": 20004
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131028/",
+      "raw_sha256": "ee63684584715f9023aab370bd26eb113bd28fea25fe1ca3f25913a9225baea0",
+      "bytes": 20004
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131104/",
+      "raw_sha256": "c05528385b33881a1b01521273fbfb7f70950281e7f2f12e57a3dd52f776ecdd",
+      "bytes": 20004
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131112/",
+      "raw_sha256": "27ba11a95c8e92eceac745a9b64b96935c28a7345dddcb55b14b9f81f4a2d3a3",
+      "bytes": 20006
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131118/",
+      "raw_sha256": "d63b42993c5a9e5a1ba508724f5afd391c03231817a5bd4b5ddea59305e4bf75",
+      "bytes": 19469
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131125/",
+      "raw_sha256": "88c2d68f152afd38832bd77594544bf77d197923401e2c79315b66d77d984501",
+      "bytes": 20006
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131202/",
+      "raw_sha256": "7de64ca78e8dd75a26f214d22c8d40698c914db029a3d9841b4e624450c446bb",
+      "bytes": 20004
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131209/",
+      "raw_sha256": "990da77bda9280d83753d793fb352ebf2032c53c7a33a69b3dde0fd75f5d5046",
+      "bytes": 20004
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131216/",
+      "raw_sha256": "5d951cfad9005b9f78c0c730bb095f2e6542e0c211cd657897d6cdec28e42c74",
+      "bytes": 19469
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131223/",
+      "raw_sha256": "278e45480d17f890b9eb161e257e9e5ac92bff862738e42a1785332c1acee026",
+      "bytes": 19403
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20131230/",
+      "raw_sha256": "53e93a29b5e69b480301e3aa759f1a28ee6b55895b500fea2cefcd2fc5162932",
+      "bytes": 20007
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140106/",
+      "raw_sha256": "25003f8a078de8e66c3fef7f44dadaddfeb9c4985465e5aeef22d41882bcef0c",
+      "bytes": 19706
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140113/",
+      "raw_sha256": "1e5555f1a60ba32eafa8a5e88dd56564486e7eff6a8c2970834097e1c3e7174b",
+      "bytes": 19468
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140122/",
+      "raw_sha256": "6cdcb14fcfa32165d45771fb697468cca1752d2e6035ec5d195af55a9101a4c0",
+      "bytes": 20005
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140127/",
+      "raw_sha256": "f95d26cd175a706324006ccef2ba4379a3d068eee86cb6c74424f9cb711f4ec8",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140203/",
+      "raw_sha256": "bb4eab603825c0405f042c5d45bc4e9495cdd8fa946fa46223936cbad1b0c716",
+      "bytes": 19468
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140210/",
+      "raw_sha256": "9ddc7f3f6c938aa4d1867c03b4b1ce90f48462e362962d9740098b996945d844",
+      "bytes": 19470
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140218/",
+      "raw_sha256": "89f771cedc4bbf9965baa0af8e73adc7dae6115a6837a7d2be80e30b34a1ba71",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140224/",
+      "raw_sha256": "0c197014d046ff0c24c9fb32d356642e7f31120721b3c94769e4f1ac154358e0",
+      "bytes": 19293
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140304/",
+      "raw_sha256": "db67e1d497667d26f2edcb738de98212590496529262b5b479311d26906a7b02",
+      "bytes": 19284
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140310/",
+      "raw_sha256": "874ea7a4847bc698b878b0ad0180edf3a6031b8a3cdb65d6d0b60c01fb18bb46",
+      "bytes": 20377
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140318/",
+      "raw_sha256": "531fc6f1090913add99cc754a35a134bc238a531498db6156b4c6226fe62de3a",
+      "bytes": 20001
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140324/",
+      "raw_sha256": "5ff4f6c882cbd4bbd277a91503321e8c8cf4425878355df528ade7156ccd5ecd",
+      "bytes": 19704
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140331/",
+      "raw_sha256": "e9fa2713fc9ffca9141600f59964a9dce8d3b3783977c33c8106e38c851b932f",
+      "bytes": 19464
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140407/",
+      "raw_sha256": "d16c0e0d287564c95375decbe372ae5a048674a5c2f7d78adaee7ecc259a0f5f",
+      "bytes": 19702
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140414/",
+      "raw_sha256": "7eb1e7c86478e62fb0707c043199ec25a342df8285aa8c8dc47dd8460342f2d7",
+      "bytes": 19464
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140421/",
+      "raw_sha256": "d91ef639892dc85f3657df586b954e7bd0be42b4594e32a8d16451d3d6b5a500",
+      "bytes": 19464
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140428/",
+      "raw_sha256": "63e0aa79b617babd83cc4e67139f9ebe9a785a884272fc06347ebd352af960d7",
+      "bytes": 19464
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140505/",
+      "raw_sha256": "7e2dfa348f1d372f5b3e51bdcfe21f8a305cbcc9b3c70af978bda532c5c1c096",
+      "bytes": 19458
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140512/",
+      "raw_sha256": "35ec755f2cb7013a51413f7ae12e9a3a33285518f840b29e37d33b253eb2b206",
+      "bytes": 19460
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140519/",
+      "raw_sha256": "729c58f380a66f25b22ab1529083f276e8c88aff681125758ce040d2d97a3f9d",
+      "bytes": 19700
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140527/",
+      "raw_sha256": "bea3a2d38bc2b71f2621fa348e5db65311e3d36e6300ae6042a9dcd6f6e682aa",
+      "bytes": 19460
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140602/",
+      "raw_sha256": "b7838f2350bc67acc62e95f4311971eb2f0e2aac6076a2308bf790c4d13d5c76",
+      "bytes": 19700
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140609/",
+      "raw_sha256": "94b19a31bded2fc35a5c347ad5a6668a3e896cbea82bb867d16c26c581a49be1",
+      "bytes": 19460
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140616/",
+      "raw_sha256": "e850a0732214d6e8ffb8711b49266adfdc6d72afc5b9ddca366d989fa6ca53f4",
+      "bytes": 19462
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140623/",
+      "raw_sha256": "cf5c2044019d14bed4ce7ce8e7a4764ba692452620f95d331c7f1bc94587cb80",
+      "bytes": 19462
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140630/",
+      "raw_sha256": "c6c17e56879844a6faf8337a43a705bc67df19cc57e0840bd369b622be101266",
+      "bytes": 19462
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140707/",
+      "raw_sha256": "e870bec54ca06239e1d1367e671e9f4fefa848fdd99ce477c6c49b03e0f3e55f",
+      "bytes": 19460
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140714/",
+      "raw_sha256": "848d8513df2e32aaa3bc8999d2e93bd2154c74a6e22c44266661ed1e048959ff",
+      "bytes": 19462
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140721/",
+      "raw_sha256": "2d6448644e891dc5e9fcd60e1a692f8b60933ebe64d3b5004c0f4f1525b6b1b5",
+      "bytes": 19285
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140728/",
+      "raw_sha256": "59ccc18d6d319406d4e7a75450aa9d7e937ce79d43a466c49fa437adb821f5e7",
+      "bytes": 19462
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140804/",
+      "raw_sha256": "0a62e26d2a40c6a575964f4c6570202a05af320662ced759923f0684fe21a722",
+      "bytes": 19464
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140811/",
+      "raw_sha256": "acca62e90822c55ecd182b8a57e0f9e3e33ac19dc62c4d551d24f9c8c439e069",
+      "bytes": 19466
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140818/",
+      "raw_sha256": "2f27fcbd61b15e59fc06a6b4077b412b8e7f4a000174ffa9fff193cef363584b",
+      "bytes": 19466
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140825/",
+      "raw_sha256": "97b108fb2ea06b29401083462a66181a16fc712e8e354381ec62c6a220e02fa6",
+      "bytes": 19466
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140902/",
+      "raw_sha256": "234e52bba6db499bf5e707e3a4ee6a88027788614a76750e036a43ebc4064149",
+      "bytes": 19470
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140908/",
+      "raw_sha256": "a4810261ee806e4b4959798c9760370ff774cb20e9020acfc853b0fa82aaad22",
+      "bytes": 19470
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140915/",
+      "raw_sha256": "067f3ce22aa9d0df5b10c12fd25d6110a950c871f12af713038a0b60c0a27ac3",
+      "bytes": 19472
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140922/",
+      "raw_sha256": "aaaae77008088506dbdf83f72855112c6ef412ce9082f9fed62d52da4f4f7e81",
+      "bytes": 19472
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20140929/",
+      "raw_sha256": "1e3d366a34fc7d633d63efaba20b14559fb01eb2c86d087d40bbc4aeffefd31d",
+      "bytes": 19472
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141006/",
+      "raw_sha256": "83759f339a9637828357c740ad82616157985c7378c43f888e12aa3daa070ce4",
+      "bytes": 19466
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141014/",
+      "raw_sha256": "ac58bdbceacf520c84c1a8d60b653d9c0691410e23c6f5157dc8955e686cbb3f",
+      "bytes": 19468
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141020/",
+      "raw_sha256": "d026cf1e2f33cfd5723874abc663afee417cdf128549bf85731224de9c2b227b",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141027/",
+      "raw_sha256": "2f92ac1198ce0de02355b21663011be7874d4def1cce3483e11742765c4da128",
+      "bytes": 19670
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141103/",
+      "raw_sha256": "084639b236e2d9d104c7cac0ee366d322b2febf76109d082692d96ed5fe38500",
+      "bytes": 19468
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141110/",
+      "raw_sha256": "4f11b94dbdb0afc2ab21156716323b6d00f0712e96abf93e7b2885694e792672",
+      "bytes": 19470
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141117/",
+      "raw_sha256": "d25347a7713acfbc89dae07850d40ba4bb863a73d0714ea8c83220a7c07ffc44",
+      "bytes": 19470
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141124/",
+      "raw_sha256": "d369e5638d65af9b9d5a1c3557dab06599e88d8cfcdeef21502f6a367fbccd6d",
+      "bytes": 19470
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141201/",
+      "raw_sha256": "ccfc0b07db80988a70c13590190ce0833924815784badc2f5e59e4ed20d3359c",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141208/",
+      "raw_sha256": "58fc7d2621a6b0124887c5d9e89b23ca1e322a6c163afeec58801d9e1c53a3ca",
+      "bytes": 19468
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141215/",
+      "raw_sha256": "4f0f97e9c7a0d7ee9bdaca447f49b51bdea8651c3508b400e7490037b0307d2e",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141222/",
+      "raw_sha256": "f0c78979cc9e0aa74d8f9a66c6f7f2bf592dcb686d3b26a7ed62ab5c94f9f549",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20141229/",
+      "raw_sha256": "02d65396fe6698ec7661369b45b357f082bdc79f6d8be2c359ce5088ae777313",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150105/",
+      "raw_sha256": "2ee95983439038fb9284232bc7f44044e8ebff1f23ef0221e86d152ad46d4c0c",
+      "bytes": 19706
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150112/",
+      "raw_sha256": "d90233ee079ea52a98aed1ac7ec08f4a4ebddaf3fea021dd190414c9c77aa157",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150120/",
+      "raw_sha256": "05e4b891825237aca3e7477d2936fa1a5c5ad6cb783cb7ce47207732fa2b5642",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150126/",
+      "raw_sha256": "a684d93cfb95a92efa69d2f037480624e152e8367051d2b2ee9be774b378bbdf",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150202/",
+      "raw_sha256": "f95d09f75f7984c93dc9932fb2cfee2f3f086af7ff65f99c0edd900b14d9a902",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150209/",
+      "raw_sha256": "515b4df0e1d098d7158134a42ea37eb0222f69bb975de67e7f68e1418092824c",
+      "bytes": 20090
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150218/",
+      "raw_sha256": "3c33dba3637f1bea0fb6c694ed9c894019e86af50ed7aa7c432979cf68baef73",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150223/",
+      "raw_sha256": "8ea3b3a159832fa840ea671363636301209f7014b68d0bb5b20fa8a386f1351f",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150302/",
+      "raw_sha256": "778f1bab8b3c7bbeabddca3adee8019213b1e1f397274399b06c9d5ed839977e",
+      "bytes": 20043
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150309/",
+      "raw_sha256": "aa2014f0fbe31c02728d28359f9e4c8129ba8e020a06b1ded7f7c00b74968e18",
+      "bytes": 19702
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150316/",
+      "raw_sha256": "6f09d6263ce07e5e4d54d90f23c0757459c2f90b2daf0ed998f627871f3eed01",
+      "bytes": 19744
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150323/",
+      "raw_sha256": "e25413263b882a6b45ff56c9565c582f5c90dcbe5a09d6e6d5b879375df7c721",
+      "bytes": 19704
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150330/",
+      "raw_sha256": "caebedf2830e82364f5a74bc9b55e86aef4453e8398263481495b14cf5fc0e15",
+      "bytes": 19704
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150406/",
+      "raw_sha256": "d8dc31c2a01862223476c6ed8cdb1a13df7641278afafcdcdfc272442b4ab209",
+      "bytes": 19702
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150413/",
+      "raw_sha256": "a9eb4f783046eeb5d1fa30997f71097ece923585d094f26ea4e317c878c722c4",
+      "bytes": 19704
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150420/",
+      "raw_sha256": "a20dc0b087daf3da8a027cab2205869b45c76f1266c8f43b760003b37515b8ac",
+      "bytes": 19704
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150427/",
+      "raw_sha256": "24a16eb2c944a98d563eac03b26d8e6465ba7e55d03b583edc6a23e0c7a0f6a2",
+      "bytes": 19704
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150504/",
+      "raw_sha256": "1b2b92aeb112c68c236ce1b6633de66f1e1c86c3f33ae5581c0494d05b684695",
+      "bytes": 19698
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150511/",
+      "raw_sha256": "1bc09606f420b9f7d4b7d3895ba45ffd308f56a1a8acb306bc802126ee3607c7",
+      "bytes": 19700
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150518/",
+      "raw_sha256": "eff36744a87bed6f28c768af2b9c268a85e40dd295567aaeab8aac7e3b38e3e5",
+      "bytes": 19700
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150526/",
+      "raw_sha256": "c4b2d3e9bb3b2a795cddd32b5082497267725dc85a7bc078e05eceebd89839b4",
+      "bytes": 19700
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150601/",
+      "raw_sha256": "ee5391ac7acf6b5ee8b74772180dee55f41da61ffc2d0fa3c4a3c5c21fbc4149",
+      "bytes": 19700
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150608/",
+      "raw_sha256": "929c12ef16d40897e2a43b08fbba8a598016eefff5fb1190dc65d12978d478d6",
+      "bytes": 19700
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150615/",
+      "raw_sha256": "200032a83e44f03c034d5f8598506c5bdbb8a3c5f889bcfaced3208c22040df3",
+      "bytes": 19702
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150622/",
+      "raw_sha256": "c0d3c676a475d6f2e8995235138d68d7d22b2d17f5d2c4671185bee0f531c0ce",
+      "bytes": 19702
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150629/",
+      "raw_sha256": "fe9284c2014027609f27d99a7293e9a0545d3b9ba9b4fde6508e447f887afce8",
+      "bytes": 19702
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150706/",
+      "raw_sha256": "d5d8c3a0b797267ed0d40cf91855a08d49c7d60b383cf9dd3c0cd0e8191ea7f6",
+      "bytes": 19700
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150713/",
+      "raw_sha256": "926770340ad4bfb7bc5977779925758abdf162302532cb6e536f8329795a1b70",
+      "bytes": 19702
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150720/",
+      "raw_sha256": "39f33c7a93cca4a8b52f50e693a2abb65a0fdb4b081a06ac102fb528106f6112",
+      "bytes": 19702
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150727/",
+      "raw_sha256": "48c83dfecc1ddf4e706095fa838093eca29e72333cf718f1ba347402c5c39674",
+      "bytes": 19702
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150803/",
+      "raw_sha256": "fb377b8e072e7ad780a69e8803db366d6c86cfbccf20a419bb58d4a2112af0f9",
+      "bytes": 19704
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150810/",
+      "raw_sha256": "0074b48844e16095ace2cb1e16d9b7ee1906409a488e6d8929140f770d4b4137",
+      "bytes": 19706
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150817/",
+      "raw_sha256": "287d2d31448a13b67bfe9d943f349175199a6f53d5202c760c0542bab9307dcd",
+      "bytes": 19706
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150824/",
+      "raw_sha256": "c7cd055125427047d4c1824689b6dff18a2d2254a00f31f76e51e9d15d2e1951",
+      "bytes": 19706
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150831/",
+      "raw_sha256": "dcea3ed088972ae1fa8ecb8e151ecba4edaf8211a15d92915614b3ea7b955b76",
+      "bytes": 19706
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150908/",
+      "raw_sha256": "8b046aab2deba8da6b347a63ee41e63b273339c21d20cd9d261c78324913d091",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150914/",
+      "raw_sha256": "da58ce89ee4361a42cc9352e260cfc544c8bfd580a207c3a2862f71974e22da5",
+      "bytes": 19712
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150921/",
+      "raw_sha256": "cf4703c2ab0210f429b4289c92b83cb3d5c0d904f08b1df67503d067d8315032",
+      "bytes": 19712
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20150928/",
+      "raw_sha256": "c1f4e0a3346fc4d6cc77e35f6c1a20ed8cdbc17720202c52918672dadad2f891",
+      "bytes": 19712
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151005/",
+      "raw_sha256": "bf91feda45aa29c1fcabceb27adc5b5414e1e5234a0b5cdc94e04afb1e92a02c",
+      "bytes": 19706
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151013/",
+      "raw_sha256": "3f754fbcdef156638800d52653a8c92194d97c4d0cc5350e4686142a68faa418",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151019/",
+      "raw_sha256": "e274fd8020cbce8a916b4960f7e03c23a9f79e9e888762535b45dddd2f2cec85",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151026/",
+      "raw_sha256": "14e2e0908a4b092ca1e532f3a7d4130cdc297495716b9960f99f52fbd9868c1e",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151102/",
+      "raw_sha256": "229e58d1ceee7452a7e4669ad0065d9c49dae043b3314ec8465552fbb2253a31",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151109/",
+      "raw_sha256": "a81216864027949298e15b7a00335edef00322f1aee375a6afd86fb7183b99d4",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151116/",
+      "raw_sha256": "20b3e2876d69f1d9db9acda7608a9f150e018c3ae4c7e4ad7c9eb2f73acd4d45",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151123/",
+      "raw_sha256": "f07dd96cc454679aac541c761e796084bf81a36b663196b2c640e699bd6f3f33",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151130/",
+      "raw_sha256": "91f8060ac5cc5ba352f0fdf3d477f7478d216d04a907c69d51acf08b754471c0",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151207/",
+      "raw_sha256": "c86700474f0abbac0b4e197c6b66f2f74505e1c5f77951099f33ab8db06aae8f",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151214/",
+      "raw_sha256": "f250224613df1bb1fa924ea5fea34a94e2892a2e68fb3c95e4354e4aa530b85c",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151221/",
+      "raw_sha256": "21f8d0119046a055d9be15f3b67733570eccf4ff491497c90b3cc131b3ca5413",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20151228/",
+      "raw_sha256": "edc3cc10fdde3c450cce634e21c80426d69dc70ec62b9696a87cc882dfaffcee",
+      "bytes": 19595
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160104/",
+      "raw_sha256": "a10cad4c98306631fa5472ee2beda48b68db7d5f82de3b03df64fd14b66a9867",
+      "bytes": 19706
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160111/",
+      "raw_sha256": "05e5a8dbf1e8ed6790d268d8d1f87753d2456d2ff2e562385a2ab9ab819359d7",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160119/",
+      "raw_sha256": "c0716b1d907e0fc6ec55582505ae6205144d69b71f31ef2a136350d6a4eda974",
+      "bytes": 20567
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160127/",
+      "raw_sha256": "44049c9530c5aeeba88b435268d1921bcf09cb0aee9b4a14685085de4bffaa6a",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160201/",
+      "raw_sha256": "144727413142e2dbcafef1c39ce049502aa2c445f1a127ade1dac51aab214c23",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160208/",
+      "raw_sha256": "5423a3e798f21fc440a6bd435c9edc05458ccc2fef8f142a317673be589dc1f4",
+      "bytes": 19708
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160216/",
+      "raw_sha256": "5aba06667363877b64395982ba27db963729e2864008151d87c6c4d78c579526",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160222/",
+      "raw_sha256": "1a367faf21d2c563e7c736d776344724d5db054b0b314658b2fe9fa9058b7034",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160229/",
+      "raw_sha256": "72dd67fb560f28b288fc98ad9af8f17dd64953896b89af1fe85422eeff9b0dd6",
+      "bytes": 19710
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160307/",
+      "raw_sha256": "a5d7c9d4aa5a330da4a534b7d4925cebd315a5bc4b3a8d64840a5703275d51ee",
+      "bytes": 19702
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160314/",
+      "raw_sha256": "00fc11e30fa497c15b682f620d8356f490d9eb6ac002158314d5fa791f33506d",
+      "bytes": 19704
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160321/",
+      "raw_sha256": "b2182ad6407ee6bd3fa70b7e1f58df81c83df131039c72199e9f2fd3f6a0d9b1",
+      "bytes": 19704
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160328/",
+      "raw_sha256": "07e5df842249b6418e7d6c3e006da4807d750927e29a78855fc570aff2a2cfa1",
+      "bytes": 19739
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160404/",
+      "raw_sha256": "65728a384718add77992b36a42498bd17109937ae689d69324dae28a98ef703b",
+      "bytes": 19621
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160411/",
+      "raw_sha256": "6e91ba38d1706471e10d954530470863e8a7d3c4670c63a1b5390c2991785c6f",
+      "bytes": 19623
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160418/",
+      "raw_sha256": "69d7bc2277776f4c040f79821d2c352eca84f07c79013abd638027c57b6140d7",
+      "bytes": 19623
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160425/",
+      "raw_sha256": "cfc0e1a930f0b272a485e22228da70acf059c3d98e79f6a1398d3c29bf1e759c",
+      "bytes": 19626
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160502/",
+      "raw_sha256": "eeb1d80f52a08079776947ae611513142717627ce385f0a9982d2cfbcc502966",
+      "bytes": 19622
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160509/",
+      "raw_sha256": "023b22a9dfbba51e64ed08418b9ea0de4ba7263ba9c75bc61b231eb7d1d09fff",
+      "bytes": 19622
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160516/",
+      "raw_sha256": "e8b581aa157143d3de133e6170d83339426a38fb0563173032f7637907a78a8d",
+      "bytes": 19622
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160524/",
+      "raw_sha256": "9e45b13b8cf5f722aa9a17855f9935d99fff7c450bb802004dbf45ddfbdafcf8",
+      "bytes": 19622
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160531/",
+      "raw_sha256": "93f368ffb1536b7d24a25d17a4a90697f8a1528f8c0e83f6b16c182b9606734b",
+      "bytes": 19622
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160606/",
+      "raw_sha256": "ae6ae2b3d5e056efc38aadf139a5ce3968d953489515140e5807826c6d65cbfd",
+      "bytes": 19624
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160613/",
+      "raw_sha256": "0654b24637803e55a42d0578bb286877a0e6e42d6edc44be5790f13cc9599705",
+      "bytes": 19624
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160620/",
+      "raw_sha256": "305a9a5fc1fad596e84ba9ecb4a64254512971dec46ca48a96d991c0809de5f2",
+      "bytes": 19624
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160627/",
+      "raw_sha256": "579e35cf6406200f2b30dae2dd00fe12ac2229c1fd0b884f74a9c80809772273",
+      "bytes": 19624
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160705/",
+      "raw_sha256": "7fef6512384a5c2636f9b6673b422d67ca34bb07c9be0ba194efb8d40d631e79",
+      "bytes": 19624
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160711/",
+      "raw_sha256": "94803818add69f77fb0671d67ef14979ea5207c09c171310470255831162d395",
+      "bytes": 19624
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160718/",
+      "raw_sha256": "9c632baa5bc0cdbf0e2e1c98240802924f74160254e9f626fe71c91217c2897f",
+      "bytes": 19624
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160725/",
+      "raw_sha256": "f05f7ce4edab1fbe0e9c7b8175a0c74d713c4c3dc099524ea4550468fd0b1d23",
+      "bytes": 19624
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160801/",
+      "raw_sha256": "542142c2d28d30e0dd80bc284d640e6d00f585d1077c64144d454790c315b510",
+      "bytes": 19628
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160808/",
+      "raw_sha256": "61201bffd0c0b448982c3a91126782f598d1bf30288bc35f25b5b515d74a35cc",
+      "bytes": 19628
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160815/",
+      "raw_sha256": "68b004f1bf42c6be2cb8339363226a9674fb9f81351d808cb3af0578b779b94b",
+      "bytes": 19628
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160822/",
+      "raw_sha256": "f20e412f48a7c6ceaf1aa593312ae3f03aa6d79e760dc7efeee0b5d8c636d88b",
+      "bytes": 19628
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160830/",
+      "raw_sha256": "e4a1390d927486c68cf78fd7ee701b66c22089d1f7610ef8c9fe00f8a7345e1c",
+      "bytes": 19628
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160906/",
+      "raw_sha256": "f157535bda15bf69f623b2052d9fdb722a8cb167f5a5c65ebd270f1969426af8",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160912/",
+      "raw_sha256": "447d84c2adcf1d1ded4fcf249631c7e171d6980f8c4211e1dc050eb2c77b7567",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160919/",
+      "raw_sha256": "fa52549aa39b4c670632592f14daf0bc7503e212a11a251c8ac3e95a88468d26",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20160926/",
+      "raw_sha256": "1782a3ea4945411b86214b11f72c2ff48236e7fd8fd6103978f13c0b9cfc8334",
+      "bytes": 19636
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161003/",
+      "raw_sha256": "8ba87a721f1a468ad65aaa994f1d02babeced5b46f5a8f43ca8d2d90c9262ba9",
+      "bytes": 19632
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161011/",
+      "raw_sha256": "9e63cbe9c12b2b67043d3b8c6766df332614bbfe3338d11927a73f62cca9ab36",
+      "bytes": 19632
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161017/",
+      "raw_sha256": "89bbac834c4ed635aa15cc88fc512a777dc17c7c1861a88498bb6236c89a9263",
+      "bytes": 19632
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161024/",
+      "raw_sha256": "3a13557792c5172b53dee0be14b45633a927cb601fb0161656c01e650f806478",
+      "bytes": 19632
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161031/",
+      "raw_sha256": "83bb5143687d43aad6d66346e47ea8ce8ee063cf75ba5e7bb3c87dd4a6f8665b",
+      "bytes": 19632
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161107/",
+      "raw_sha256": "d71c9f2514cec3309bde0b3d921cba0493cfb08f60428c19c72fae0e13acbc4f",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161114/",
+      "raw_sha256": "d475b3137f8c3f51d93245fa235991377ce850357dbf2f12ab6dc23aa9ed413b",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161121/",
+      "raw_sha256": "2c3c6c6b3864832d90eeb91e1eb56cf68b7933f991d10c996fc1835a9ea7178f",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161128/",
+      "raw_sha256": "9a5d39d5f5e44ca59e1aa9c846bd53eb9769dd5501a77143df66f03b3b8b6cb6",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161205/",
+      "raw_sha256": "f2370313e64070ace254a01e92215610315f510cf82bc2c2f640f8d377ff0383",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161212/",
+      "raw_sha256": "0b8250bc69ace272024aa7bd977ffe6956f055cbc5bd9465207c984649ff219a",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161219/",
+      "raw_sha256": "2532b59b6dbe533f27532111240d8874e993d96406ba418f50a260ad2937394b",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20161227/",
+      "raw_sha256": "31772f6643120c56bda9f50e0e186f238869b432068e2976c5203f8f9ebad9ec",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170103/",
+      "raw_sha256": "344808487084c9c0ef8051c11572bcc6c605ef8739efe36afbf383a0e463a4fa",
+      "bytes": 19632
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170109/",
+      "raw_sha256": "70db43d7ccbd2c39a04c619c411cbd356482507ccc2d1ab00718d415c402f905",
+      "bytes": 19632
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170117/",
+      "raw_sha256": "36f38f5edfb1b3ce0520ea5f8693a98cbfb114a3692ee1b0277c9d4995985f75",
+      "bytes": 19632
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170123/",
+      "raw_sha256": "7cf0fe7b96d2009f320e169705067ece36a27d7f35ed2e00fdbb07caa2696887",
+      "bytes": 19632
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170130/",
+      "raw_sha256": "8470080d999363e45526ea5901457655ab128f3fa122060dd187927b72f392a1",
+      "bytes": 19632
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170206/",
+      "raw_sha256": "15438458e694b8580d32b7d83ddcd0f0d87644f27f2f30dfde3d2bc633559f2d",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170214/",
+      "raw_sha256": "dfe8a4cba037601c9b1f760fd9d2fac5a8138e487fd650176c74cbf8935046b7",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170221/",
+      "raw_sha256": "caa82398e90eb25566c806931cf014a85f2480d12a2961ef94254ad41f58b88e",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170227/",
+      "raw_sha256": "4a73ba8a845d8a53a7150217b42a57e0ec0d30b3ebd578690e45788433aea41d",
+      "bytes": 19634
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170306/",
+      "raw_sha256": "df5b5bc140323755627350708c807ca75e61d2ede8e8908a6e62231c05d409e1",
+      "bytes": 19628
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170313/",
+      "raw_sha256": "cb71b0e46b7ebd3639130d0f0ca855b0eb0d00d9f5b4e972377722ec42979362",
+      "bytes": 19628
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170320/",
+      "raw_sha256": "cba0cc637ed8fc5fb5ddf2eac107cc4a11a4320a472c058558d653e2abd1a800",
+      "bytes": 19628
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170327/",
+      "raw_sha256": "c813f6663f9c43b7851f00a4dffd7983b19cba66a298453e7f100f865a786f3b",
+      "bytes": 19628
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170403/",
+      "raw_sha256": "3f2f62135f333f7c051aef47d2c2cad050b093a0c759de68770364c2b607fb07",
+      "bytes": 75153
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170410/",
+      "raw_sha256": "aa269f9b02f58d8be3fb5c7d69afd498ebb0ca798cdb7683a919d6d4f6a87372",
+      "bytes": 80601
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170417/",
+      "raw_sha256": "d91957e2adbed5c579eb3263544f5e13951c83205c6353cb086f36b6ee70e88b",
+      "bytes": 75154
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170424/",
+      "raw_sha256": "0135ef134511e8dc41ed6b7aa3097bcb3b0b48bcf18b6bad94e2e8b76a40f056",
+      "bytes": 75154
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170501/",
+      "raw_sha256": "34afde6e8db16134508f43e4db7037e4a295a479428d391608bc73db49c3e7d2",
+      "bytes": 75150
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170508/",
+      "raw_sha256": "03dfd7d2945daef42891c54c7d933cb927f3a8b10b34eb69a8e6290ce93dc3f5",
+      "bytes": 74595
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170515/",
+      "raw_sha256": "2d0c6d5e09bfe3af9c01bc77e90d28e79c0b62f14aef30d21780a0e290a07120",
+      "bytes": 74595
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170522/",
+      "raw_sha256": "748a8ee2639cdbea91cdeac1d45805b268c009cdcddfb07b5dc9aaf455b9bc47",
+      "bytes": 74595
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170530/",
+      "raw_sha256": "cac65eef5d3a25394660f1cc0c0428f68a52d27f736c8da0d4fdb1a0cac7a398",
+      "bytes": 74595
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170605/",
+      "raw_sha256": "f29bc8cd19961724f324e698254b2176009f9f204f82aa85caff168befb34907",
+      "bytes": 74597
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170612/",
+      "raw_sha256": "a53bcf5c231880be6a1d674dbe92dc801ed86f216dd4a5c78bff76d8e4fff0d4",
+      "bytes": 74597
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170619/",
+      "raw_sha256": "2be09779eed1d89a3c04dce411fea3270ec83d12f5c5b8dc9201b85e02402979",
+      "bytes": 74596
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170626/",
+      "raw_sha256": "4b239e7ca351dafa9a140c5ab3327052d5d4c883520113dd39d589048fac6fa7",
+      "bytes": 74596
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170703/",
+      "raw_sha256": "e53fcaf5bc9fb05a15e639d54b64bc82b1d42c6b4d475fde018b069219a1c80d",
+      "bytes": 74595
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170710/",
+      "raw_sha256": "1033177fe4aa5c98fccf0a5369f2275a45a37cbc6cf6faebc51f3b3308b53fe1",
+      "bytes": 74596
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170717/",
+      "raw_sha256": "86ba074e8a8c3f64fd25c13bbd35318453edc8a81db0fabd5611507ec55983bd",
+      "bytes": 74596
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170724/",
+      "raw_sha256": "8103508fc86b373e23a621d6e6a64f678b24470959ff5e1583ec931e279c5dd7",
+      "bytes": 74596
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170731/",
+      "raw_sha256": "a231772388a8617838a6f62e48a1cdc616ceb17c99f248248316dc21496a5d46",
+      "bytes": 74597
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170807/",
+      "raw_sha256": "bba4774e118385117ccb7564b60b9bb06913334bf8122c14ad7459aa99a86071",
+      "bytes": 74600
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170814/",
+      "raw_sha256": "b731dcd787e4a6a057f67b8b75c5de722dd8b0f970113a4258612051783f06bb",
+      "bytes": 74601
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170821/",
+      "raw_sha256": "db8f229cc63869da00b5a2847747a4bf79aff845931163ef9089d971251ef6c6",
+      "bytes": 74601
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170829/",
+      "raw_sha256": "0f3a694e4db7e69d649e9d0685dd512b5fe33537863b7b6f927e45ca45574fd2",
+      "bytes": 74601
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170905/",
+      "raw_sha256": "df01aacfc361fa4df78fcb4869a2a30d165783f2e7224051a46600aba0ecaca6",
+      "bytes": 74606
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170911/",
+      "raw_sha256": "29068df4ba7a3824e7d78a6f5a29f9496766a155efea4d6bc2a568f9b1d3c9b8",
+      "bytes": 74606
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170918/",
+      "raw_sha256": "87bd20d188e0b2f75deb74ec6eec36e7b67c98369c7e7c5a8d5b7ad305502d2c",
+      "bytes": 75300
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20170925/",
+      "raw_sha256": "d2c0eaf5fe218eaf90519a3d8d984515dcde0cb08b8850ab359db14a176583bf",
+      "bytes": 74606
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171002/",
+      "raw_sha256": "664ed1a2717fed6f668175da2a566ae6fa4b51c5a787e77c57fa117357e36831",
+      "bytes": 75296
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171010/",
+      "raw_sha256": "eafea86670b46d4836b07ba1aedda5ae394fb5b25bde180921c1e38ad16be5c0",
+      "bytes": 74602
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171016/",
+      "raw_sha256": "4a79816269d2ab1f306860aa139b864b9f676a81d0aceff7954f4504728aae3c",
+      "bytes": 74602
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171023/",
+      "raw_sha256": "26f59ff241ca45c37690177a3200243b3f89c29c7c69122c72db44792b21e2c5",
+      "bytes": 74602
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171030/",
+      "raw_sha256": "be99251794772f43622de60c81ccace47c08243e264804b17c174160b04cf898",
+      "bytes": 74602
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171106/",
+      "raw_sha256": "a01821b7ad967fb12a3720a8a90579524cef711cf7738ebe14fb3f166672d6a3",
+      "bytes": 74605
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171113/",
+      "raw_sha256": "638fe7557b5a9350ffd4db9d95c39ef12674a89d55bb5d47b8e74e0a96960e05",
+      "bytes": 74614
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171120/",
+      "raw_sha256": "f7637eb287de77a0649ff0af7aba04778262a8fe6a8577b36206696d42152d44",
+      "bytes": 74614
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171127/",
+      "raw_sha256": "dc6ba93af2bfc6281dd9e04fe12a3e4d473b4dca0c91ddf8e5e1c172c5a2ef78",
+      "bytes": 74614
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171204/",
+      "raw_sha256": "268dab38b2892b06b5cc777a1a6c727e977eeeeede5f9b1beba6fca4f1e014c8",
+      "bytes": 74615
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171211/",
+      "raw_sha256": "03347b077752344f2b282825ad22618366848d1c2f9c01006bc6cf2ffc04710e",
+      "bytes": 74615
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171219/",
+      "raw_sha256": "a9509aa6e6b2cebd6c255db5a93d86c2315406b5a6c6bc007eaf115a93322998",
+      "bytes": 74615
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20171226/",
+      "raw_sha256": "5f91c3612393e85b4bad4154daf1d59a6e880a96e24f6f8557f734b90e75f391",
+      "bytes": 74615
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180102/",
+      "raw_sha256": "d79375fbda4fd0a2b477d5abcda806c3f03f064d1ef5499ade3b58000a4d50e9",
+      "bytes": 74612
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180108/",
+      "raw_sha256": "8cd036051cb3dc52d8bcec28dd514bc9ec281f61c573dc788230186366145ee6",
+      "bytes": 74612
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180115/",
+      "raw_sha256": "c83f3027e417efbd8a2688c928e26626f49697eff9cfac5094882ec7b0e6ee53",
+      "bytes": 74612
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180122/",
+      "raw_sha256": "eeb2986bae94640d366d63a0dc0d1699d646576ce7f2cc7844449f81dbd674d3",
+      "bytes": 74613
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180129/",
+      "raw_sha256": "8f9e8406000f71624347d78960ddbb098342bfcb80ee59ef904d7862555f2287",
+      "bytes": 74613
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180205/",
+      "raw_sha256": "4d1c328d33bf3728ac419187fa99fc731187c084c9c4c07e4729b9956950cab3",
+      "bytes": 75680
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180212/",
+      "raw_sha256": "d40be038b29144194518a9738f890fb162ea81aeb8924c668f4d0599006794ea",
+      "bytes": 75680
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180220/",
+      "raw_sha256": "582a443251ca750a9eb4ffeae71f5371533bca5d26886c6b911479c284938a4e",
+      "bytes": 75680
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180226/",
+      "raw_sha256": "3da174d03bb928ddbd1f9d628e62d44dda907464599f69ed1e6e95481b878e45",
+      "bytes": 75680
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180305/",
+      "raw_sha256": "6ab9bf7d22ef380363d1b3a2a8b2b3af28ae05119fec9cf2123f227951732479",
+      "bytes": 75674
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180312/",
+      "raw_sha256": "752104ec7bf5689b1966c9f44dabe8d938e7487199292d5bc8d907af1057435a",
+      "bytes": 75674
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180319/",
+      "raw_sha256": "778a93b1fbf2537302692608ee430fb0e6e9c20c7888d02a4327e013b2e89b3c",
+      "bytes": 75674
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180326/",
+      "raw_sha256": "5dacba30cbda7033f09510adddb4139d853e15b1efb636f07aaa63b741d09362",
+      "bytes": 75674
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180402/",
+      "raw_sha256": "90c8c22a8670718d13717320d86747e1a91d41023a56ad183c1391ce87d17f28",
+      "bytes": 75674
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180409/",
+      "raw_sha256": "c7316e20930735c4e3f88cb39a02b822ac7b318ae4b6205c6be75525664af587",
+      "bytes": 75674
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180416/",
+      "raw_sha256": "d4a581df7db5879ac6d3993d52f088fbc6a8f64ca7e0896f8601b3c745534026",
+      "bytes": 75674
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180423/",
+      "raw_sha256": "0a91163055624207bc60c25abbf9dfc0bbfed52c44d9e02bf5870fb78378183a",
+      "bytes": 75674
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180430/",
+      "raw_sha256": "f2aa84e1518d38a18cb21c8fa914f8f4ab272ab69f41141cfaff698b3abed6bc",
+      "bytes": 75675
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180507/",
+      "raw_sha256": "d90e53b15ec81cf9b6f6d1ed17f8cb794edc4457920489000013b558e4599cea",
+      "bytes": 75670
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180514/",
+      "raw_sha256": "c00eef9ad46e2561c6a3722e5062264c557b24b2f7aaebd60c3a8a2de74ea65c",
+      "bytes": 75670
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180521/",
+      "raw_sha256": "4befb8439ea262d923b3b7fa02a7c0c9d836df27969a686bc1e65449f24e6f43",
+      "bytes": 75670
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180528/",
+      "raw_sha256": "7230f2cc4a81a397423ec8906062b2fb6bd17b9bd6ec1064a1daaa65fd6d3a49",
+      "bytes": 75670
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180604/",
+      "raw_sha256": "7f1cb94ad5bfd0367659ea9000735d7c4ae56d0b53db8198553ec01b47dc2c11",
+      "bytes": 75672
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180611/",
+      "raw_sha256": "14186edd4c630bce956c40bdb5874cb5991aa543221c02ebce4d82f7beecce4c",
+      "bytes": 75672
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180618/",
+      "raw_sha256": "08d961fffcfb3ecea79ba325f36695f509e0e5b77b6cf936d9c41c306de2f869",
+      "bytes": 75672
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180625/",
+      "raw_sha256": "9b3ef774813dafc301699486eb5c8d9580367a5089a9ff2043faba5c57504113",
+      "bytes": 75672
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180702/",
+      "raw_sha256": "474b394ba0f178905affa8ea78c45bb2bdd8b1355f33916154dbc9ba3f103336",
+      "bytes": 75672
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180709/",
+      "raw_sha256": "f755aea8b5d5044df98ec2c3b9b86a0d095fc23acf76b193419cc6022f7ab8a1",
+      "bytes": 75672
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180716/",
+      "raw_sha256": "949f40b5118b9ac8638a389b16fbe6ed41371497d2a18ccfe7ebb4bb4a4facf1",
+      "bytes": 75672
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180723/",
+      "raw_sha256": "5a007fcce78e3625aa3b62f9486bc911b364c4345b2b5eeb32e72d8f3b5ebbf4",
+      "bytes": 77089
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180730/",
+      "raw_sha256": "7f43f45a8810aa20e3c4abc7d3f1927ab906090fb7e3468568a8d18d9f7b077b",
+      "bytes": 75672
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180806/",
+      "raw_sha256": "c11f35e6057e0aef07e292fba104781a697444f60f50bd9fb0a00c7fd429b302",
+      "bytes": 75676
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180813/",
+      "raw_sha256": "16b0737b8827c71c74eed600ffa97ed7f38059ea7f142ad4c0aefcdd1fc84c36",
+      "bytes": 75676
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180820/",
+      "raw_sha256": "7026f2b8ebc40a9a7292779dda03e733621d68cdd2c428c149c53d5b751e90f4",
+      "bytes": 75676
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180828/",
+      "raw_sha256": "f203f0a2a966d399c6100bd1d9807b97a49d6f16017982d8624dc94b84936222",
+      "bytes": 75676
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180903/",
+      "raw_sha256": "7ab7c7265b55d8e87ccd1ef68a8a28cc9c534b9c7de7c5132916483502e041c1",
+      "bytes": 75682
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180910/",
+      "raw_sha256": "6f2a6de25b560a29d32f5f767ce09fb53ab1d2ffac00e252d3d9b2f6dddfe5f9",
+      "bytes": 75682
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180917/",
+      "raw_sha256": "f2423b5b08b6e0a722ea6f3cd148fd2b4836b2059055ad84d863979218444d1b",
+      "bytes": 75682
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20180924/",
+      "raw_sha256": "640c006a28860f62422acbe9982e143cd7717dab24d11693acc071163ca7d00d",
+      "bytes": 75682
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181001/",
+      "raw_sha256": "8c398ced5b0a83d3700a9b62b296830af150a661ec28c70381a1e9aa9e4e70e0",
+      "bytes": 76225
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181009/",
+      "raw_sha256": "3baddd474eec5076d30896ee86e114ac6a6bf83f4362a729e58566d0b84a4cb3",
+      "bytes": 76225
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181015/",
+      "raw_sha256": "08e19a9ff57612bb2c796e51a6d372cbd4f1245e7bbfc5575a7df46ee87b8036",
+      "bytes": 76225
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181022/",
+      "raw_sha256": "97628fe5d5eeac401887e328891051a73d4b3d549edc2bd5b3841ae324277eee",
+      "bytes": 76225
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181029/",
+      "raw_sha256": "41b1263159149ef3df1cfea6f4dd6207a51bf2d2ca733976f0799b6b29f3d47f",
+      "bytes": 76225
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181105/",
+      "raw_sha256": "d01de65ea366f593e399f03ec84a69d71542f411b74668a14bba00c9356ec828",
+      "bytes": 76227
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181113/",
+      "raw_sha256": "282c26024bb4c71abfae9c32479129bf6d8500b344bd71b650632ae0ecf27df3",
+      "bytes": 76227
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181119/",
+      "raw_sha256": "c8f42280aa75e95374d9bbf872a64d9901046b69a824295dcb2e32e54e4ef012",
+      "bytes": 76227
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181126/",
+      "raw_sha256": "cf2dd2b5baecbf3a550521c6b13a11c75bf3f5a391f4deb878bff8286d2c197b",
+      "bytes": 76227
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181203/",
+      "raw_sha256": "35ebf5d4508a8edc32cf4afb50be15ff7a25a758af5005f923bf72d5b2ac45cf",
+      "bytes": 76227
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181210/",
+      "raw_sha256": "ed0e827acd51fafb84e1f191ae3ad14f8b96bb9f477c3e1677644d49f11224ec",
+      "bytes": 81589
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181217/",
+      "raw_sha256": "cd3f85ddbb8f41d168d1b8a48ce9a7d9ac4b581feace6b04a8b4e7f89b22ded3",
+      "bytes": 81589
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181226/",
+      "raw_sha256": "81311a6e686ea515e64c39ab58b08395c24ae5c63c4aa32fe353f1ad421ffd7d",
+      "bytes": 81589
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20181231/",
+      "raw_sha256": "e2561c0e7cd66a238f5c3c503cd185939020090da1439d37c2c127a20da0bb0a",
+      "bytes": 81589
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190107/",
+      "raw_sha256": "e40a7fc4d439c2aaad084380fa6edef1b692e233c8602a4ebda796532099ccc4",
+      "bytes": 81587
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190115/",
+      "raw_sha256": "9846fbda39930f9a1be6878686dabae4a326c6e277bfb4365990715cfb8e0881",
+      "bytes": 82408
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190122/",
+      "raw_sha256": "cc7ede719fc0faea98202bd5a8cf18a91c8b064cb9d864602ee166e2f065f873",
+      "bytes": 82411
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190128/",
+      "raw_sha256": "9ad8008f27452ea1551f7fe08e311e2e1c05669dfac0aadfec57c2d18f6c1a60",
+      "bytes": 83724
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190205/",
+      "raw_sha256": "16fc69fc174aa62db814d37c9efad17d418ef300ae73aeb10277474ae362ebeb",
+      "bytes": 84141
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190211/",
+      "raw_sha256": "9f3ad2ef8cd060180775601a0f3819571d9c65552ff8047d8d642414d6391bce",
+      "bytes": 84226
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190219/",
+      "raw_sha256": "6256f84bb755b0661068163c0e04e61a2bc78eaf81d93c42edda4c81c2fc40cc",
+      "bytes": 82829
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190225/",
+      "raw_sha256": "bd046bbb4f6abee3e0bbfe2a530f491d885ad45e73b3e8bd5b1f22290d8a09f6",
+      "bytes": 82829
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190304/",
+      "raw_sha256": "9e70b06e90005ad45151da6bca63b29c5dd684f02f3aedf8de605319bd06b7ae",
+      "bytes": 82823
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190311/",
+      "raw_sha256": "54ce6aacfb8e9ddaa7b1ef3c9fb5cb8ead59573fb2b5c2e5fe0a21acd20cce78",
+      "bytes": 82823
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190318/",
+      "raw_sha256": "2a686533daf5e14fe417e6a57a7d09b406d3ea83ada8e4b0ff337cc375475911",
+      "bytes": 82823
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190325/",
+      "raw_sha256": "1c0622fdc1de04bb16ee619c61fce43704ecfb14fe5e314614b6665fbfc08197",
+      "bytes": 82823
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190401/",
+      "raw_sha256": "df32636784921bc67cdbae4f620d5488fead67eb4d4f305c4c7c2c93038403b1",
+      "bytes": 82823
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190408/",
+      "raw_sha256": "f29de89f87be1859e536eea3ce99f85bf02e9a509c93bb32ac347077dbd7cbef",
+      "bytes": 82823
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190415/",
+      "raw_sha256": "0223c6c7cd0de6b6b7e7fb41df45c464d129790316008992935a2aed8b890ebb",
+      "bytes": 82823
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190422/",
+      "raw_sha256": "f5cef8d6071cf75ff67fb4fcc8a980ab1afa75354563fcda1c8a9931a8bfcd58",
+      "bytes": 82823
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190429/",
+      "raw_sha256": "8707045576c64f85975ad4abccdeb08776e0447856182329e89fefa59b5c210c",
+      "bytes": 82823
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190506/",
+      "raw_sha256": "f1654c5cfad59d65c15069b1beda2130c67590674d5b1fa967033252e44f2477",
+      "bytes": 82819
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190513/",
+      "raw_sha256": "ff18bbda39b4b13e172f78d57afcc69c0ed0cb16df2ca0d66d0c0d6462897cd1",
+      "bytes": 82819
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190520/",
+      "raw_sha256": "13f2fdcf25ea00d7de795a992c35784e644d46efd075bc8f0228ca2443eac097",
+      "bytes": 83169
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190527/",
+      "raw_sha256": "b5473754a0647ce900dd248624df50045a6252addd30b2b3b706b8b250a2507f",
+      "bytes": 84280
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190603/",
+      "raw_sha256": "4fa64cb0a285e42946137f205b103b6e08301a65ba831890c02f4169ba49d19d",
+      "bytes": 82947
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190610/",
+      "raw_sha256": "f4ba977d121237dba0bfb961eaabc79ab788a6ddc4a8ce64bd39935a58f3ef57",
+      "bytes": 82947
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190617/",
+      "raw_sha256": "f578e54061e66510b55e86e77778aa5d600cdc5dca018827d4600b25642341c4",
+      "bytes": 82947
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190624/",
+      "raw_sha256": "288fa40ba8f1843c4e3693038147e22fb41fa3c566204dfa6a3faa85d9f4544e",
+      "bytes": 82947
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190701/",
+      "raw_sha256": "f62f2b66598ec50c7b5622a626006f7bf4ff98c4af027c5af8a735213e9e8b73",
+      "bytes": 82947
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190708/",
+      "raw_sha256": "96f84b9d5c08cab3cb25ef3ee8cb72262af20ab335c52cc2652a9210aa810f01",
+      "bytes": 82947
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190715/",
+      "raw_sha256": "a1a0b49d0fffbce3e049feacdcca58daf22a0b4ee05adafe1ddab61399f93c19",
+      "bytes": 82947
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190722/",
+      "raw_sha256": "d9fbdb0877cf481a1044866e42c9be1905d3bea3f43fd01f8471d0fcc126e1fe",
+      "bytes": 82947
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190729/",
+      "raw_sha256": "143eb8659596638daf21605bac3df5a3f02e916e2e4c52b83f6acc4a4e77df5c",
+      "bytes": 82947
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190805/",
+      "raw_sha256": "c8a53bd37a24007fa13940d9b88b155fcad7d7c6922305c1cfb3f7fb29fd5199",
+      "bytes": 82951
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190812/",
+      "raw_sha256": "2d0c5486ec8c6c556778400aba04d51d3a03b758caa0a49a1b08b315d267d644",
+      "bytes": 82951
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190819/",
+      "raw_sha256": "650e38989fab5c18fd9aad9737ba2d36a46281a68dd36c8f72bf84638f92c020",
+      "bytes": 82951
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190827/",
+      "raw_sha256": "2bc5e0297987f1c0ab1703aa455fe8dbb8eac047042b69e979d72725e018d545",
+      "bytes": 82951
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190903/",
+      "raw_sha256": "120bc6da3619ae0b86ef43bee12f13adc8d18a7bae76da3c38529179e0156d9c",
+      "bytes": 82957
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190909/",
+      "raw_sha256": "349b89baf011b95d415d2327079abd36f46996693fb0eb3133c2887f87455f50",
+      "bytes": 82957
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190916/",
+      "raw_sha256": "7fe1dc8e92305639ade7036b4e2942eeb2f600e26f941f4cc37733d5ec439856",
+      "bytes": 82957
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190923/",
+      "raw_sha256": "09eb79c3c42e88a4deed14f42b8f9c8adb0e0f173a3b336ac09c9f4ffd8fb2ae",
+      "bytes": 82957
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20190930/",
+      "raw_sha256": "65fa3a9f461fe6c4387d913f6da3c224717074b2c7aee461e4c635c70f6126c9",
+      "bytes": 82957
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191007/",
+      "raw_sha256": "0880102e6b24a32723c56f56ac4c13527846fbd6d8236a58911c16877c78e5bb",
+      "bytes": 82953
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191015/",
+      "raw_sha256": "7f76aca54040974c88970ea0c2798446c2a4b8adc6c10e931e02e3cdafd85472",
+      "bytes": 82953
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191021/",
+      "raw_sha256": "d4d8accb3161ffeb2c205a7376639d5613e04919b14970c236be3e12f99d4a96",
+      "bytes": 82953
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191028/",
+      "raw_sha256": "7d5068a8c366b9ec449b1cadae2e18d183df408786ca7e1919c90c034ad907c1",
+      "bytes": 82953
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191104/",
+      "raw_sha256": "2f247034e047f597e923ca58998b76ca91700d17005b2975b27fb9d6347b52d8",
+      "bytes": 82955
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191111/",
+      "raw_sha256": "98dd924ca1f72070ad15d966d156139d3756e349aebab3bf4a5b12ce2fd8582b",
+      "bytes": 82955
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191118/",
+      "raw_sha256": "b49db5010555d61d9028428ffb2869e21203dd8bae3ff4f5018639f052e63004",
+      "bytes": 82955
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191125/",
+      "raw_sha256": "d2e434eff3191f8443b0c7f2b687b51db1e99c42dc0063f8b482d462fef90cfa",
+      "bytes": 82955
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191202/",
+      "raw_sha256": "a16a2f5ea7cdb607a30c5d9081ee2e14255988542d75bc301b0807c7fb4b59f6",
+      "bytes": 82955
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191209/",
+      "raw_sha256": "8a460b887f375482bd5f3be69b9f728684a36894d13755db5e033bd244a512d3",
+      "bytes": 82955
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191216/",
+      "raw_sha256": "fc9eba1ab782586db573930a1d9cba353f6119a15f36ac6480ad75f5b754cb6c",
+      "bytes": 82955
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191223/",
+      "raw_sha256": "4385a47fdea796d5777c0f50e4cad61f496897eee640c54fba63a75d49189221",
+      "bytes": 75400
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20191230/",
+      "raw_sha256": "d1e8b452963d24bda9d3942049c7775fb68717a439ea17c5416ac0167fb4fe68",
+      "bytes": 75400
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200106/",
+      "raw_sha256": "bd00eac6650277861d14792a06e3c7ac155ba1ea2b8103a36d1389696f80dea7",
+      "bytes": 73086
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200113/",
+      "raw_sha256": "458695acd76251c7798efa7ffa21b3c69fe15eabb10a7bef7e3caa0c64196645",
+      "bytes": 73111
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200120/",
+      "raw_sha256": "fe496c431c26eeaaa40ca5534aa0a07931de0de918ce2621c94819a34ad8cbd6",
+      "bytes": 73112
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200127/",
+      "raw_sha256": "a32c26e43b4fb843619e16ac6f4c75bb4d0a578932c32a29ba93498c1096dc01",
+      "bytes": 73093
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200203/",
+      "raw_sha256": "61bdac9c616152e00e3b6c4ad56e69758384a5b0d82cf1c1529233de291ce7cf",
+      "bytes": 73095
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200210/",
+      "raw_sha256": "13f1610cd76fdac36daa1e0f25c714ee805c62674c4ce62ad67c1c452cd7ad78",
+      "bytes": 86416
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200218/",
+      "raw_sha256": "34c4698800f022e026510d5956868c9b72bbb8ce6f100c535096f96ba6855e39",
+      "bytes": 86413
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200224/",
+      "raw_sha256": "581af4f59c5f5a35c943ea14d60c578ea8e6a7ac31037f2ff3bc168ee72d6682",
+      "bytes": 86396
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200302/",
+      "raw_sha256": "7f56ecda3697c970a434e08cee2fd60b6c4abc34b90bdb50069ddaaecac5a5bd",
+      "bytes": 73296
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200309/",
+      "raw_sha256": "ccee6b04ba897c99c83197a6930e406f72b098e63e617b1b7ac99d0270e817fc",
+      "bytes": 73296
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200316/",
+      "raw_sha256": "9f22665a58e39132474b50997f382b0e633c1617103ba852f6142bc22862bfa6",
+      "bytes": 73296
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200323/",
+      "raw_sha256": "c2d1bf92710352a1bae82c38394a328fe1856fa887305c22a29b771c4f0a3609",
+      "bytes": 73296
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200330/",
+      "raw_sha256": "09307a957ec4a5fb24e3705b15ad367c5730455047fb4103a6ac9f5e89a7ce7f",
+      "bytes": 73296
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200406/",
+      "raw_sha256": "4fdbb54967caa7b7af994774a1bea4df165d5cf8cb71447c1ec8c1fc353ccb4d",
+      "bytes": 73296
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200413/",
+      "raw_sha256": "e944faf8607dddd0c0ef90195ee811b2fff363943d6460cd4bfec1ead31b538e",
+      "bytes": 73296
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200420/",
+      "raw_sha256": "9d07c1e2e7a9f4949acc87d1de3839b98af587cb96623fabcf4cdce2a8ef6612",
+      "bytes": 73296
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200427/",
+      "raw_sha256": "d0a07481df4ddf4821d7295171d19ae1c63f38ac8435b875ede16542815f9d27",
+      "bytes": 73296
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200504/",
+      "raw_sha256": "c8954234c0cb1ed117c0c296590685aeda9f9fb1bad33ebbbb905e6630ecf1c1",
+      "bytes": 73292
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200511/",
+      "raw_sha256": "9f53e3b4e82769820b2377e3e7d383e63a320d61fa6fc86a73a19f5b1d3eb551",
+      "bytes": 73292
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200519/",
+      "raw_sha256": "1e5778f3f5626abbce31ee928cb4da23daaceb407c46ffbbd12c26716c58ddc2",
+      "bytes": 73292
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200526/",
+      "raw_sha256": "1452132c021dae252634ed85b273b3202ea4a3b0affc2ff29733438ce788e7a8",
+      "bytes": 73292
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200601/",
+      "raw_sha256": "171a91e483fc71260ecb20ef37e1030d846797c3a94218375844f241a31a8382",
+      "bytes": 73294
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200608/",
+      "raw_sha256": "252825a9489b1856524249c38e8f62334c7b422e292354f52a0a193e8aba1e50",
+      "bytes": 73294
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200615/",
+      "raw_sha256": "eb32947b630a3e86a361445bd62bd8521f72335bf2ed2d36df3a7c8916b74abd",
+      "bytes": 73295
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200622/",
+      "raw_sha256": "3fd971e8ccda442a915d2ef5154bc86bd8a03176b6209e6a125ce7a182d985a2",
+      "bytes": 73295
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200629/",
+      "raw_sha256": "56a1deae09730e93b5bc8e8f3627d52483757f2d3ab081efe1ed6e83feeeea41",
+      "bytes": 73294
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200706/",
+      "raw_sha256": "9e553949b24cb54585125373e95f9c31e17e5cf56292375229b027e603a9aa86",
+      "bytes": 73294
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200713/",
+      "raw_sha256": "5f2f00c7f332756319ba637e5aec4fa1188bc8e41e1b57fec8f64d247426200a",
+      "bytes": 73294
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200720/",
+      "raw_sha256": "645663345b88d2c0e33436cbc432365ef2fff2fd078ba6743fe10bbb6689aef8",
+      "bytes": 73294
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200727/",
+      "raw_sha256": "8b461168be4c111d925ff3de54a55ba3b60e8d603ad34f10514128a1d97617ca",
+      "bytes": 73294
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200803/",
+      "raw_sha256": "441bb807b26752ce6bf728ce862a1e0c8fe948fa626426322f4648a34d0c082a",
+      "bytes": 73298
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200810/",
+      "raw_sha256": "f5e21adb325f2f413d87f4cd34cd25edbff1782e1654eeb07b306ffda0b796f4",
+      "bytes": 73298
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200817/",
+      "raw_sha256": "4e32c4d0183f76c28451292222fde0133cbe273cc1953d013c474fbb796f15e8",
+      "bytes": 73298
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200824/",
+      "raw_sha256": "d4c4dd1d80516967e6ec7039b2e474e8a3015b91300ef53bb470536708228291",
+      "bytes": 74394
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200831/",
+      "raw_sha256": "928f22b84dae93bb2390027f77710c0b3cf71efe37f702122d12cf268e921ac7",
+      "bytes": 74394
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200908/",
+      "raw_sha256": "01abf5ebd7f07c0fb9839ff3b16b2156607b52c903f7df6e55f18e9331951182",
+      "bytes": 74400
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200914/",
+      "raw_sha256": "2a31df4ca0164ed2256d064f115489bd58d386c8168ae051444dee0d0fcf04d8",
+      "bytes": 74400
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200921/",
+      "raw_sha256": "051bb60aa3ac122953750c564735b939e0f081719340238aa6e2558adb9cfae9",
+      "bytes": 74400
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20200928/",
+      "raw_sha256": "63daf3fc6b5de6f25962bc8a0102ad1150c339b54bc586993bb26b7722a01ede",
+      "bytes": 74400
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201005/",
+      "raw_sha256": "632aa3b4662c4d27169c8b4ae3299a017e880cc7fe55951f205f617fc9dcab22",
+      "bytes": 74396
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201013/",
+      "raw_sha256": "72032a28568eb9251efe0a25b83f255dadb95f7c2693df706cf33b4b1c11598c",
+      "bytes": 74396
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201019/",
+      "raw_sha256": "63aceff7aabbf3a1cdb95c6ae9ede124bcd5587677f2bf2c7566455b24512aa2",
+      "bytes": 74396
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201026/",
+      "raw_sha256": "32f541f96d30af9a4e4585708f4d1c3582050084934c7f0f300047692b87a67c",
+      "bytes": 74396
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201102/",
+      "raw_sha256": "fd93204b08cdc489b9688898fffbb62e92922515711c9ca8a37cf3f5a3766343",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201109/",
+      "raw_sha256": "780a5f650b0381f68b790e04f62067c15abf0ea1d1dc2118ab51ca932f4a084c",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201116/",
+      "raw_sha256": "8aa872ca15064d2f72d181a3f4f79c34e764e7ac46d3ee482d708512b10b75eb",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201123/",
+      "raw_sha256": "e5de735cfb4d635201aeb616a0ce29d7d23be4d315b37a4c22f0f3f3a96e3c8c",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201130/",
+      "raw_sha256": "f60da12f1c687d727d2b824248022ed901d95cb37de77a4d0cbd483e54243bbe",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201207/",
+      "raw_sha256": "1199c6a4dbca5667423d0a684233c9a6f4a4eab6d3f7b8571f9c416f53f6175c",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201214/",
+      "raw_sha256": "f8317c05525cd0cc58a403e052faafd5d245484032370366c73fdb1feebb3291",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201221/",
+      "raw_sha256": "df3bccdd8553e0496f051ff66fd048608dffb6d26221930cc3749dc24ceef2f3",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20201228/",
+      "raw_sha256": "5fd6dd7d2629b4213c1e00b917f19f1f7e70251b176ad37169afc6fa14391061",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210104/",
+      "raw_sha256": "5dcf15281c8fcc9869feada44689f3a9081751647727bbecd946f00a4bf2555d",
+      "bytes": 74396
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210111/",
+      "raw_sha256": "354425cc4a182e62a86a1b7aac17d1a9ee0b24cb1301887c14f9db8a86d57ce0",
+      "bytes": 74396
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210119/",
+      "raw_sha256": "1de3fded3a49f6babed5daff49a03d9d3d77608a5b35ca8291bd4e4bea12d8ee",
+      "bytes": 74396
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210125/",
+      "raw_sha256": "ea7f1a3c751626bf22f76a58360962579cd87fe0d1d873bb9a96e9aebae45a80",
+      "bytes": 74396
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210201/",
+      "raw_sha256": "8c131e94d06767a4dc0b5cda862c45b7d3a0a56cb9da61e6b1bfedc97f8f2dcf",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210208/",
+      "raw_sha256": "52b4845838a77a74dcb5f20a55c548958d317366a440788cbffa97d10f79a179",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210216/",
+      "raw_sha256": "1a401a2d3ad40acdb24684ce27db50657fed3d042a406136d3f919165cd53507",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210222/",
+      "raw_sha256": "a054b0fee6d37bffc73347d6202dbd7b77cc1ad1f8ad32270d6317f1355e39e8",
+      "bytes": 74398
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210301/",
+      "raw_sha256": "f2edbb0d262cd1336ff5ba96d60e30f905ad7aa0438c5075541d48e116b7fd9a",
+      "bytes": 74392
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210308/",
+      "raw_sha256": "305539847b57343e67e35bfef2d51525f143ee7ec553dc176746a536e832d038",
+      "bytes": 74392
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210315/",
+      "raw_sha256": "7acce9fe494f326b4c671891d915a192d0e36a467cf85abd2b07410da6a17840",
+      "bytes": 74392
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210322/",
+      "raw_sha256": "7aa74919df62abd543301c5ce6738f9d1b759c59ff225165a755695768fd500f",
+      "bytes": 74392
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210329/",
+      "raw_sha256": "f0328455bfe3bfa72d9ee18c30bf6c0b927078eaba66ab80db5634b79d973f20",
+      "bytes": 74392
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210405/",
+      "raw_sha256": "a7ecba43a9d6144d9122e9a5be1fedb28364fbdd892eab85b3e59c9588160dba",
+      "bytes": 80565
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210412/",
+      "raw_sha256": "8ed08755b6284976695aeb03eb4c5b3f8888c603788c387197c86c37a254c4b3",
+      "bytes": 75108
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210419/",
+      "raw_sha256": "d9189e6e90fd1abef60963f139a54ce21faba5d21d9c2f0b62eaa4bf0ce7456f",
+      "bytes": 75108
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210426/",
+      "raw_sha256": "9c50fc26b1796ee7a82bdc74ac6077c1cfe77553946f590cfb9f068cef29cde6",
+      "bytes": 75108
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210503/",
+      "raw_sha256": "5433ab902cc69bafad3d6fed27bc3d0056eb227b5510947e54335625369b743b",
+      "bytes": 75104
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210510/",
+      "raw_sha256": "9976ba2ea2ed33e1054a4ac08fa887b3febcabe5d1f08d77c3829f136b677c7b",
+      "bytes": 75104
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210517/",
+      "raw_sha256": "e7f247f1869418300b96fd90442e64d0c5782cd1f127565d20f45ffb0bd76bb7",
+      "bytes": 75104
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210524/",
+      "raw_sha256": "e292c9b7c34298a659558ecd3898fa04057f3c8f0668042723e4891c39dda144",
+      "bytes": 77234
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210601/",
+      "raw_sha256": "5ba49dab167c43703eb1f35982d76bf3ea9414fcb4382a24a0c8d36fd28af45f",
+      "bytes": 116971
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210607/",
+      "raw_sha256": "d3e265248c892e7c63aeae7b024c05a21c9c83ec65ff98349fa0c4f1e74f7d89",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210614/",
+      "raw_sha256": "bc1113121f22c9d3af7a25c9ccf32ef0cbbb06d36f7d22ba200ef63b23d7d0de",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210621/",
+      "raw_sha256": "4ab21e340e42dda91b4179f7f71a6138407e4a3752cf900c92018def176052bc",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210628/",
+      "raw_sha256": "bcb6dadb5c8e9111ab0c53c4a6d66274a67cdcbfb24ae972af154bcda16a106c",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210706/",
+      "raw_sha256": "16745709a7dc0560595e7edf01afbbbb0928f12783657fa72d84380dd6531dd8",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210712/",
+      "raw_sha256": "7e1a35e1adb3bfcf8a37b16f2daf5dab66498fe82dcb22decc0e03543dcac4a3",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210719/",
+      "raw_sha256": "4598fb793247e2a0b28be15abbf188d2c81878bc9aa26de95807969cc5f260d2",
+      "bytes": 75098
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210726/",
+      "raw_sha256": "a3f0f55cf7acb22ce57a590542fc85b75832982670a5e2287b34805ad454bc41",
+      "bytes": 75098
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210802/",
+      "raw_sha256": "9e755ae65adc15c1c7550b947e1235d0e55fafbf1dc66a8d9df736a69485c984",
+      "bytes": 75102
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210809/",
+      "raw_sha256": "4ba5bc4047805d8560d29acc4dd0f0b06c8a6fd8b3f0342a88dcc5c31666245f",
+      "bytes": 75102
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210816/",
+      "raw_sha256": "8fdfde7aff669ae9f2473a6c1a52b9ff467b04337b9910677b35cd137ccbbafa",
+      "bytes": 75102
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210823/",
+      "raw_sha256": "605a9f6c4f377560c5b8dea172c6a1fa83b3aef8b2af11b061abeee777b08bf3",
+      "bytes": 75102
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210830/",
+      "raw_sha256": "a13b25d729710c9d8279b6e3e98ab64ca3ebd2dcdb59bc5fcdc06cf4839c7948",
+      "bytes": 75102
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210907/",
+      "raw_sha256": "d251110c7abaa423415d3ab7a809d62b336617d30d0946d2809a8b012933b7b7",
+      "bytes": 75108
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210913/",
+      "raw_sha256": "81cfd5957099eb6a171c356d7e1e84c0aac885671ad6a2bec0b01d00f9785498",
+      "bytes": 75108
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210920/",
+      "raw_sha256": "af058049e9d5fdc9e8ea08041348bd67c0405c7f3eb2f5dd55065977ef569c98",
+      "bytes": 75108
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20210927/",
+      "raw_sha256": "256bf97b187a9c0ef846504d2f50f83dcc0de3f7c5300b78d8deddd9769d6682",
+      "bytes": 75108
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211004/",
+      "raw_sha256": "0f3be4880d35152836cbe8b2cae12a7b0644f7c90f3ff0786e65aee1747800a4",
+      "bytes": 75104
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211012/",
+      "raw_sha256": "56db5e388ed0a1c1554c2ec8cd29b762870b7cfce12e74d8d470acc081fa0c17",
+      "bytes": 75104
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211018/",
+      "raw_sha256": "bbb850b0c20e17a45b9554c1c01d1ee966a5aea4178bab2c15a664048cf31879",
+      "bytes": 75104
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211025/",
+      "raw_sha256": "d8defd61ed3deaf0ffdbf966d5c4f6b6be0f017cd0cfcbdfae5fc16a95360215",
+      "bytes": 75104
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211101/",
+      "raw_sha256": "7b134e32d8e0dba44286836795d32c3ff6152b2a59e55e3b24db7884996defa2",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211108/",
+      "raw_sha256": "b06494ce106c9ebe6ace1bdfc12ccff054b477afc0ed392e87a4a61769809ee6",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211115/",
+      "raw_sha256": "082b531a0f01f6222daf8a64976d78fe5e8b8e6154f2b8256702fa6689b519fd",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211122/",
+      "raw_sha256": "b8dc79e27a9b47b950c93d2503e7edf54c431e6e581eadedef6b81a6419f4751",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211129/",
+      "raw_sha256": "66a6a63380b9818ddf973a13f6268290df14eec13e32f937f139095113a94f6a",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211206/",
+      "raw_sha256": "53bb8f2d7cea485652d065053e3ad8519d7251efdb195acb6eef345dd8ae6894",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211213/",
+      "raw_sha256": "3071de6989492423f1c6b59d62d22aebfcb87c0950e50799c5e39a07847afbf8",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211220/",
+      "raw_sha256": "8f5c34a2e361c4fdebe68a000e0aa5c51fc6a3c2778ba3f068a15ed7d50e482b",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20211227/",
+      "raw_sha256": "fbb066e1acedb4002f93cff96dc906f7ab102ea9ab733107b43df79e60b63244",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220103/",
+      "raw_sha256": "c27b48646f2406760a51cb1d0dd22201946a96a7fb776ce4dfa5cad5f57c0a62",
+      "bytes": 75104
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220110/",
+      "raw_sha256": "eeafb66cee71cda3c77617c26ae0af3ad69d899f440809b0db5abd3f00006974",
+      "bytes": 75104
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220118/",
+      "raw_sha256": "26b1afc2995a71cf1c491118c7cd3c7c8061ca343cc029398700dcb72ba9cfe2",
+      "bytes": 75104
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220124/",
+      "raw_sha256": "88f8e08db97ea2073b9a94201a9c712b1ac3eabf10817a025bbf3d04ff50e6ca",
+      "bytes": 75104
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220131/",
+      "raw_sha256": "993091d3689127b73fcb7519cc06837ea98b6840670ccfc26ba066b324a32864",
+      "bytes": 75104
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220207/",
+      "raw_sha256": "516806e57b263572d5a62db01bb96b789f11f0a456706ff227d17a5d23f8a014",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220214/",
+      "raw_sha256": "1d5c4f34c029b95210c4329e915acbb39865949dbbf5d5172717f4e53064a629",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220222/",
+      "raw_sha256": "f6d4ce1352d24805534c95306a868391ad2606afa62c64047abededc2cca611b",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220228/",
+      "raw_sha256": "5606d85747ef3b6834fe1f88471af431f273e257005ec4729557c1b4f2acbb62",
+      "bytes": 75106
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220307/",
+      "raw_sha256": "0ec633302aceb1669002f1c2bac31001c27ceb951702b159c6c377d842f1131d",
+      "bytes": 75100
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220314/",
+      "raw_sha256": "61ae89382a9f2ee6c72fae58cff71147f7c2b4a2bb5907264dc52c79f57b7f6d",
+      "bytes": 75100
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220321/",
+      "raw_sha256": "3514493a59c5d8e822620fc4c32f915376ac6530554a44ed0ea63ab99e21a63d",
+      "bytes": 75100
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220328/",
+      "raw_sha256": "5f60008038a5e5d85719ad6c2287b382441747edf9f78aed3d7e43f8c698a169",
+      "bytes": 75100
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220404/",
+      "raw_sha256": "35e7e9b93b42168d384644613c6c624dec060305a9d23fa8130fd68cc916e49a",
+      "bytes": 75100
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220411/",
+      "raw_sha256": "5206438372148e8ff248417ab77d6d3187b4d9a33c7b57c460a20bf53957dc1d",
+      "bytes": 75100
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220418/",
+      "raw_sha256": "8179a08fa2932b7ffe00f16c9bac78ed9fcd6094f923caaa55cfcfc847668ab3",
+      "bytes": 75100
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220425/",
+      "raw_sha256": "a417195aec7e14f6fbd4efe2f536de4dd720ac27fead40fecb2ba3c7f9230063",
+      "bytes": 75100
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220502/",
+      "raw_sha256": "00b16f10b6a815118b359a216a396f75e21ddf65fef80d1aacd0000474388384",
+      "bytes": 75096
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220509/",
+      "raw_sha256": "246b1ff97c48244495fc77a048e67f06408c443c3a13f0cea968ef3b761a6faf",
+      "bytes": 75096
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220516/",
+      "raw_sha256": "68b96d3373eb50013aa99016e0e435e3cb9a273632b851685732ac8d6a878ed3",
+      "bytes": 75096
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220523/",
+      "raw_sha256": "66d88610d8a498dabb70589bc3a77b17c715e31f9b09d6501cf5da95c529889c",
+      "bytes": 75110
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220531/",
+      "raw_sha256": "5ab745e47329f071517b8829e64351c86eaf4082082f9b1de56e89cae9ae7c38",
+      "bytes": 75110
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220606/",
+      "raw_sha256": "a634add82d056a5c2711ffa531cc4356513fd20b47b491eb97d60a5d5c14d111",
+      "bytes": 75112
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220613/",
+      "raw_sha256": "be4f2c750971fa63c27b14c58386f6bdecc321c193379b27a2441572d1eb1968",
+      "bytes": 75112
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220621/",
+      "raw_sha256": "3dd0ffd3d04be4c27db55cd2403436d2fa8ba7a17a1400e3059089b5bbcbcb42",
+      "bytes": 75112
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220627/",
+      "raw_sha256": "291f7f530ccd2174b70b616d1608353538cc2ce7347dda4631d28aac45250b58",
+      "bytes": 75112
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220705/",
+      "raw_sha256": "dae5d56de005be74934c4718da68d24ca79436072eec6588321048f88b28423f",
+      "bytes": 80206
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220711/",
+      "raw_sha256": "73ed747f27bf296184f8a17239d8da3c41582b0564e0cc93ba9e492ae5d67aa3",
+      "bytes": 80206
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220718/",
+      "raw_sha256": "072de17f721d73a0624c6fb29eec7fb2d70bcb3ce0f5694ff558481b58b59a57",
+      "bytes": 80206
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220725/",
+      "raw_sha256": "32d8a802f273c4c47dece266dc952b6f2d73e238502d046a0b53ceaf92ec3fba",
+      "bytes": 80206
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220801/",
+      "raw_sha256": "1e65713c35fea8a32f703f18e1979f07828b4edbc6f7f65fba449f1d94df3d72",
+      "bytes": 80210
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220808/",
+      "raw_sha256": "a28de91f0a6d9afb3c9f6f251d4cbbfd0fc3ce6e48c91784ddc1b44a7920f017",
+      "bytes": 80210
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220815/",
+      "raw_sha256": "e1471b844562b47880815f7dcb14446b0520324b70ecd102f146e09120eae37a",
+      "bytes": 80210
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220822/",
+      "raw_sha256": "f8425b38ee8f7fcddf166a5b8261ac823366a0c0ad8cb27e54f129253405f48c",
+      "bytes": 80210
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220829/",
+      "raw_sha256": "6127670e3369608b49a5d9ce8803fb938b1bf62f26a7f53afee05a9f88d752b8",
+      "bytes": 80210
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220906/",
+      "raw_sha256": "81289a472b5a63a4e19ca953a295b25905ded114c78b5b418c45905cea5b2d1c",
+      "bytes": 80216
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220912/",
+      "raw_sha256": "0e68c6386b21a5aa4a5bc7ea79bcb74634bb6a61e9e364cd78f36d4a5bdbfb74",
+      "bytes": 80216
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220919/",
+      "raw_sha256": "ba861d0182fef4c91cbb8f9c87ebc925f35f5074b4d79f8d0926830cd032a7ce",
+      "bytes": 80216
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20220926/",
+      "raw_sha256": "bd5448d66d67c32c6eb1c07f46bf4f5941176cb061707094ff4c0da461c5afa7",
+      "bytes": 80216
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221003/",
+      "raw_sha256": "3c3d8ae7f035d9b11af5d498c559a950d6eaaf76c1d004d01b5a43a0068d00a4",
+      "bytes": 80212
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221011/",
+      "raw_sha256": "dc1d0b4864b1ab29a25d7ccc3fe31a51886052e82246e283b170f6552519d8ee",
+      "bytes": 80212
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221017/",
+      "raw_sha256": "1187e6a78b439bb2a66bb4bc3208b1d6d848da66333e6098d54c0e225d944c98",
+      "bytes": 80212
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221024/",
+      "raw_sha256": "00fd2df36fd3e4d7c38d3d5347d6e971f17b0c286f91b4c23fc063a96263d886",
+      "bytes": 80212
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221031/",
+      "raw_sha256": "a922f532acf681217ef526d44fe9a3638bc95de4b5e5bc927f79ad012d6b1719",
+      "bytes": 80212
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221107/",
+      "raw_sha256": "a2068fc9faba1ba557cba3a1f545844cd47faac90c636c695906b39c68ad0512",
+      "bytes": 92087
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221114/",
+      "raw_sha256": "dfc593a12720ba6d9fde4e6109c97de956d7eecdf0b725e177a58cd34741c407",
+      "bytes": 92087
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221121/",
+      "raw_sha256": "fe543de707b512bd9c27dec2eb49c6a64fe9a1b4c5c440c2aa14b7b1d1f09c88",
+      "bytes": 92359
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221128/",
+      "raw_sha256": "c4411263d9b608118c25e6d4cc74d5ace1213ac4453ccaad4b1c737250dd5d4e",
+      "bytes": 92087
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221205/",
+      "raw_sha256": "cfbf3296386d5bbbd3b341b51026788eed08381bcba1f00ac532a539ccdda411",
+      "bytes": 92087
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221212/",
+      "raw_sha256": "6d6cba796f738b2fc1e4253c18bc110838f3bb2a1a175f271ca94c71755963a4",
+      "bytes": 92087
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221219/",
+      "raw_sha256": "726516c362bcfba92bf5db44910191b4c6c5f28ad3198d741cfc4de2d3b29b6c",
+      "bytes": 92087
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20221227/",
+      "raw_sha256": "92430b6a2333cc1744c59a9df94626fadb54cf1a1dbdd3bd04bea4968bccdd28",
+      "bytes": 92087
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230103/",
+      "raw_sha256": "e911014b4438955464fcb7d81e3a0a5488ca7e3412dfaf9a28b34ffa60e5b54b",
+      "bytes": 92085
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230109/",
+      "raw_sha256": "fcc370dbe89fff987aad36a0cc49d86eabf0126487aca6f468fc2228bb124038",
+      "bytes": 92085
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230117/",
+      "raw_sha256": "7d930db82b94088f8906edbc79af654e8edda509d0f60c8d41d29d46e489d44d",
+      "bytes": 92085
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230123/",
+      "raw_sha256": "f2b5971d607a2939dbf4ca81952b5458aac7d131040eaf37307ab492e5acb566",
+      "bytes": 92011
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230130/",
+      "raw_sha256": "562ece9e270816ba881cccacbaf0be4f1c5239bcae6ebdbfbac4254fa74b5404",
+      "bytes": 92011
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230206/",
+      "raw_sha256": "a6b1fa0225b8b480a144228e4e89f78c925f2f28332a16bf28aeb672ea6084b8",
+      "bytes": 92013
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230213/",
+      "raw_sha256": "efc3198cf93e8b5432d8caa5739470f0388365c545f770c4d95df22429deaf26",
+      "bytes": 92816
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230221/",
+      "raw_sha256": "eabc3e3a8931588303206c8b6df014d2557239d9867e53febf8648ddbf034751",
+      "bytes": 92816
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230227/",
+      "raw_sha256": "8576619afc33f5d1aeacfe423ea018e6cfbfa2c100f2a27403a8295dc7f3d6a5",
+      "bytes": 92816
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230306/",
+      "raw_sha256": "ca8e07f5108e3082aa31d1c10409deecc2a83a8d38069f569f18ebed89dbca4a",
+      "bytes": 92810
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230313/",
+      "raw_sha256": "4466335257e15692498bf3bee49e1257963c3b9cfb929e8e5d0f6de1dd3d8efa",
+      "bytes": 92810
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230320/",
+      "raw_sha256": "9eef4ddb1c277631e80cdef00fca7a17ae016b5a54d30f238e015ec3a42f079d",
+      "bytes": 92810
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230327/",
+      "raw_sha256": "f5257d136c2a4418efd07875cca26bee0a65685a4a507c25c268383d4096ea59",
+      "bytes": 92810
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230403/",
+      "raw_sha256": "729939bde9cf38a5fb388f41a2ea77a3e319825099a33b68830fbd9c81752cbd",
+      "bytes": 92810
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230410/",
+      "raw_sha256": "099bbb4022e155a31a2a995d6deba5806d4db60afcf98385991760ea8b6e3d62",
+      "bytes": 92810
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230417/",
+      "raw_sha256": "8378645781169e3a69d6522870bc43900d463e56673dc4d296d1c1286630790d",
+      "bytes": 92810
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230424/",
+      "raw_sha256": "c37cb8474b1c59eb712be606d4458d212febfb8a7d1181b318303ba271041302",
+      "bytes": 92614
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230501/",
+      "raw_sha256": "cb32e6b9ee6b95379e515345182b105a92c7f84470d114b85b006643e1d2ca02",
+      "bytes": 92610
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230508/",
+      "raw_sha256": "eb824449ec163948d01f0a3a391c4bb6fd0fd12e2501fb6b6188bebd1b2330b4",
+      "bytes": 92610
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230515/",
+      "raw_sha256": "f4e86e7733f17c662ca5d0bb23542f0ebdf9a7dc05ece215f8c125781d1902a2",
+      "bytes": 92610
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230522/",
+      "raw_sha256": "b0fd5e227aabf74cc5663d89726b262441ab5e6423f8353a6e5b447ac0315d67",
+      "bytes": 92610
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230530/",
+      "raw_sha256": "aa9939506de60b924ad2fbbfdf352cc98fcccce5ba880709e928c3e137390616",
+      "bytes": 92610
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230605/",
+      "raw_sha256": "3900a19cfd6235256333fdc86cc69173566c7c60f05e8a5853ac353a575f3851",
+      "bytes": 92612
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230612/",
+      "raw_sha256": "9a283b40b57f274ac5130fd80815502a065fab5d3b20c50d86285a23836eb788",
+      "bytes": 92612
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230620/",
+      "raw_sha256": "d213096e7111b7bd327a5dbe5f05bf686a800a65f11674db9840d619c4a29aff",
+      "bytes": 92612
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230626/",
+      "raw_sha256": "23299b0cc10055f8dae1550d9292e6db0a9c9d7c662753649a21d15ff812c0ac",
+      "bytes": 92612
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230703/",
+      "raw_sha256": "1241d2ca2233e5dd759ad30c40909b985ebedc5e6f5706879e6435859cc84b7a",
+      "bytes": 92612
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230710/",
+      "raw_sha256": "bad125d4d4d2a35bd19c73ab2cc56bb811163000eaf774ed253ed27e41354d17",
+      "bytes": 92612
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230717/",
+      "raw_sha256": "dd9d790fc0753c877fececa0577158fd729ec67c4f592d278b9d85142c4a2ff6",
+      "bytes": 92612
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230724/",
+      "raw_sha256": "4ba674594bd450ecbf88b4ab10668bf411b179b1ca5df55267bc8b39c0490646",
+      "bytes": 92612
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230731/",
+      "raw_sha256": "4998dad5c23d2435b10eff1fb7e8272092699454f9dcec6f156b2c7379d2fc96",
+      "bytes": 92612
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230807/",
+      "raw_sha256": "c6715f966833f9edcc149d64ad72dc60ffeb753c906c8e1605ecdf9f8ab241b9",
+      "bytes": 92616
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230814/",
+      "raw_sha256": "5f5e5accc1ef986e0aaedad92b45e28235ff7a64ff352f47ac31628682934752",
+      "bytes": 92616
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230821/",
+      "raw_sha256": "613a5f58f2c459e45025895d11d50944de006a0bdc8da1955b8fe9249bff056c",
+      "bytes": 92616
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230828/",
+      "raw_sha256": "0602a01f6a7f0ecb8e33bbc0cc12a9444084fb114e5b1d5698a81f0b46df3f09",
+      "bytes": 92616
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230905/",
+      "raw_sha256": "2524c1ea4be3fa041f0d14c90503cc68329efceb9299608695ca3d6417cd3582",
+      "bytes": 92622
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230911/",
+      "raw_sha256": "e78e70b0d5e835cade5d38d44af57f7fd8bd379006b16c22c4ec735c6f19b51a",
+      "bytes": 92622
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230918/",
+      "raw_sha256": "88a72f30f84a5d56421451bf51d739641d3085e755f38c8a02143aa832466253",
+      "bytes": 92622
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20230925/",
+      "raw_sha256": "ba7a52dbb92ee5ce973e4e73a15a491e7599408a4ef57d8bcf7c8d4abf51612d",
+      "bytes": 92622
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231002/",
+      "raw_sha256": "d512767050f12af467af3b7ce70e460c99c7fabe52902e141a768df4f761e0ed",
+      "bytes": 92618
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231010/",
+      "raw_sha256": "eb356adfd50ce5e6af41ca256523c2520a7f7cf37362002956fa6c425afd0327",
+      "bytes": 92786
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231016/",
+      "raw_sha256": "365712957c555291fb22c18188d1ccaf121bf8a57e5494350e3f55f7dc187fff",
+      "bytes": 92786
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231023/",
+      "raw_sha256": "649f957e17c53320d34640871d736b4655bd2064bc2817b8addb8e14f950a06f",
+      "bytes": 92786
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231030/",
+      "raw_sha256": "19f1496b6495a1bd53900c4ca074cc3141c0d051e4aa55c813769f0e6a87f36e",
+      "bytes": 92786
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231106/",
+      "raw_sha256": "08ec4af2363bd11d5b39923c513be20ab5c7e5597db2824844b8fbe7edd6bdaf",
+      "bytes": 92788
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231113/",
+      "raw_sha256": "af60e70f907961929448732eb690b16a09174074381e6774b64996f6b875e932",
+      "bytes": 92788
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231120/",
+      "raw_sha256": "779297ac8c69aaf0360f93b91189b48f54edc5283cc80830ecb59af799c60c91",
+      "bytes": 92788
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231127/",
+      "raw_sha256": "04b74806b0137b8b9fb401766923c66cb61a36b85ecc1d35920f24bc549933f9",
+      "bytes": 92788
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231204/",
+      "raw_sha256": "eb2b6b02e1abe8bade55c2e0c022f49839f4a1fd267e27dd1f5b1f5309949aae",
+      "bytes": 92788
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231211/",
+      "raw_sha256": "02f3f93d7d680c3df8d10821078a0180aec436502ded3263816d894bb18402b5",
+      "bytes": 92788
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231218/",
+      "raw_sha256": "a6bcdd0678449afbbc59f7a6ee33c35e50af63a03767370b31e25eff572e0bf9",
+      "bytes": 92788
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20231226/",
+      "raw_sha256": "831bf499172bcb3978b6a1a8578c248c7229805cd13279d4a8dd804409d38a12",
+      "bytes": 92788
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240102/",
+      "raw_sha256": "6b8a3b6e3130a07c04c04d83c01a0dd9a69822fc3435cd9d40d27381e6d0ee5c",
+      "bytes": 92786
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240108/",
+      "raw_sha256": "b113b6c269722cc66ac2596040a1e36644ab3c1c78c8edc4d32e32b14e3ccf8c",
+      "bytes": 92786
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240116/",
+      "raw_sha256": "e02c29584c9f74bbf5948c95d4a0283c23f4d990d730465aeaa5ca4139cbf5d8",
+      "bytes": 92786
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240122/",
+      "raw_sha256": "e1efc244c9bf7001e291c74535b07a00bf75836233a52bea20801c9d53a20c89",
+      "bytes": 92786
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240129/",
+      "raw_sha256": "32422d941a9a99468b69d639609c1d95ee2a3ba4ddf313ba33a3d564b75b595a",
+      "bytes": 92786
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240205/",
+      "raw_sha256": "35d3dc2b5889c0e8fce1bf6619deabc3fa651257fb302811f883b8533ba57009",
+      "bytes": 92788
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240212/",
+      "raw_sha256": "583e2af7448ac1b35d1d3525fe0004b911cd43f44bf17faef314c9d5ec56e57f",
+      "bytes": 92788
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240220/",
+      "raw_sha256": "a3b8e68dcac6690efb5ac811e4a5b2774753790c4666b380387b73cf30919e4e",
+      "bytes": 92788
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240226/",
+      "raw_sha256": "f392b2271773c03be231d7866d512c52f69c3dcc2ccb10bcfbe89b9ff06b738b",
+      "bytes": 92788
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240304/",
+      "raw_sha256": "172208b82363614ac08bc1d7d79c77b1d58e0627feb76aef3db71ff8e6780824",
+      "bytes": 92782
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240311/",
+      "raw_sha256": "461a63e183aec3d78b8daa6a31490e3c47ef641cc8ce14b0aa170241c4f97a10",
+      "bytes": 92782
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240318/",
+      "raw_sha256": "1a3d58b67ffe5cb22fc2313befb7a2e490b7b54defc8e170fe5696163e49f2ba",
+      "bytes": 92782
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240325/",
+      "raw_sha256": "963040b50822194eb4d3018fce6c8ebd666749b622df9ca39adf126c86a85375",
+      "bytes": 92782
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240401/",
+      "raw_sha256": "76dfda93fd675c751e13fc1104bb9c75ed7213c6e0e3fd9db6842d76ea40f6f1",
+      "bytes": 93268
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240408/",
+      "raw_sha256": "9256546075c65d4110279c2644f2d83731e9bae8a57697d31420da0347947cb1",
+      "bytes": 93268
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240415/",
+      "raw_sha256": "eb842f0fc2b76c88233939707efbecd9abb1afe2e535c17849eee906e8222931",
+      "bytes": 93268
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240422/",
+      "raw_sha256": "e73cb44668aa3cb4446e0617c31b4e4ee5efb6c08b99b1cc15ce8da127f582be",
+      "bytes": 93268
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240429/",
+      "raw_sha256": "a2e2a98e4ecbefa554b66ede31e15be54146454ea53b8da5c645351d79b0bda8",
+      "bytes": 93268
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240506/",
+      "raw_sha256": "8ddffab985bb4910be39ecf5cde12e05b88f53ec6103f5d0eb85c686d31e227b",
+      "bytes": 93264
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240513/",
+      "raw_sha256": "596d1631808c5da79ab234f492a4dc2126d63fc189f21474e4f70107fce5e76d",
+      "bytes": 93264
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240520/",
+      "raw_sha256": "b2ff20ffc7341549fd5107acc52056fe6c6e9f98b83d43adaf43b223d603a0e8",
+      "bytes": 93264
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240528/",
+      "raw_sha256": "aefa66f43a6961cff57f4965f198fc953ffa451b3cf29bea8ad377d3077d6d35",
+      "bytes": 93264
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240603/",
+      "raw_sha256": "b668eb20127e7569c6bce076d78578b4803fcdef9b310d8a5d68cf96d97f5d44",
+      "bytes": 93266
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240610/",
+      "raw_sha256": "cd11b3631f6e83e71cf7cb23939b2222e729bf9a701aa7857c7ef893e252096c",
+      "bytes": 93266
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240617/",
+      "raw_sha256": "73a137173d80841e1fe0e75f4fe773b2ebf36664e729860c6b9c5ea6636eed75",
+      "bytes": 93266
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240624/",
+      "raw_sha256": "b7fdd20f9d2829e4f87a0899a53e8055800445bc0411a4b8b3a45732178031ba",
+      "bytes": 93266
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240701/",
+      "raw_sha256": "79b03ac57f655bf4dd9c51293a7bbccfee0b9648b11fd0478f3c89dfbb086181",
+      "bytes": 93266
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240708/",
+      "raw_sha256": "76136c46fcee611fe57cb279b83ef5d1a2c85c0b8a019e8566b0eb7d89d57d33",
+      "bytes": 93266
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240715/",
+      "raw_sha256": "4d5f91513f7aefd5b560f7989016afa529439e7da28c1c27be320072be7f4edf",
+      "bytes": 93266
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240722/",
+      "raw_sha256": "d52048587a7dff030dfe5a6186e261fa84037699db5ba250487888812eacfd20",
+      "bytes": 93276
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240729/",
+      "raw_sha256": "1074735f342ca136cd59eaaaf58139cdbc3e7de1a8785ef765f9cda311ab56af",
+      "bytes": 93276
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240805/",
+      "raw_sha256": "f54fea873c1a55812eefa4d41a7900b14e00fefdae6eaab6aae5e811004ee49a",
+      "bytes": 93280
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240807/",
+      "raw_sha256": "5c29afafd0aa8040ea066d0c7d1bbf59c1f5de91b11c90e74598fe826ec93640",
+      "bytes": 93280
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240812/",
+      "raw_sha256": "3e7bdc65d7a30f9b28b02b57736f0f7197714dc4e5371a98aa6bf2923e9af208",
+      "bytes": 93280
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240819/",
+      "raw_sha256": "9b6a2e54cae67a91c08634a727385343a1a97ff0d713c51915bec0244b8fc76a",
+      "bytes": 93280
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240826/",
+      "raw_sha256": "6ae57c2d5522deebfd9c29e7eaba3b85c81de38bd2f7d62d365006cf96e63230",
+      "bytes": 93280
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240903/",
+      "raw_sha256": "43766380aeb6365cf7e5b5ed502e22a47adaaba1eb0d59f34b62f93bfb2b61f4",
+      "bytes": 93286
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240909/",
+      "raw_sha256": "c52d1c4112548ef34eb5950b51492c48e8f3e2cd46b924db7a07ca6bbe4b9600",
+      "bytes": 93286
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240916/",
+      "raw_sha256": "a6eb8490c8224294d3d657eb124f584d05937e7a900e941be07ab7014ea98f4c",
+      "bytes": 93286
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240923/",
+      "raw_sha256": "5f6132c3a77d69bb0727b8777fc0b8d67a1c735f7837d4e0bc7dc1801cf35b58",
+      "bytes": 93286
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20240930/",
+      "raw_sha256": "4b28fffeaf1af8f5431e4882c3a5b3a7abcad431d2233b120da1109fc8f4c8c3",
+      "bytes": 93286
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241007/",
+      "raw_sha256": "f54a9887d9bd3e95ea3f78154873740c54170ea64b80480bfb0a313104215f08",
+      "bytes": 93282
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241015/",
+      "raw_sha256": "9216d91adf24c6d0497f2da73fba89b4fbcfb34268edfdb3f72ff7125a6afb8f",
+      "bytes": 93282
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241021/",
+      "raw_sha256": "1ff3df263a2da45e0ef6ba65757e27f81bca13b6c121cee79e076d3a6805d445",
+      "bytes": 93282
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241028/",
+      "raw_sha256": "810a61e6971265c4560f1f720e94c6fa17b2d638dd609151da027d0cb6548336",
+      "bytes": 93282
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241104/",
+      "raw_sha256": "c6d12b67bd3e25587fcafcc3279fa08cf30af03aebd77985c241d62687b3ecf6",
+      "bytes": 93284
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241112/",
+      "raw_sha256": "218d59faf37507ffe8a202bd74184181525462f7a54c2268f2cc5aa15b2afc93",
+      "bytes": 93284
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241118/",
+      "raw_sha256": "9cc81974ae7167b0c0151d7b5f3658712ce7b9d805daf923678732080cbca20a",
+      "bytes": 93284
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241125/",
+      "raw_sha256": "49d62a9d93351a48675b7a6a25c6e09009faf490dd913770d42e5b60862bd18a",
+      "bytes": 93284
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241202/",
+      "raw_sha256": "590ec89a622a21e7793b6af689e7b36f03bb07420b594ce0335d31fdc52b3255",
+      "bytes": 93284
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241209/",
+      "raw_sha256": "9e8ee70dabbe38730214160b30df901d52b231a6ec8f99edb3a47b8d64dd11a2",
+      "bytes": 93284
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241216/",
+      "raw_sha256": "245965e31381c63bceb51f9bad3a1dde44b329c96d848229bf024d0c667a7cf1",
+      "bytes": 93284
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241223/",
+      "raw_sha256": "0a8b4e678930d19ac360ff305cfe0490638de9977619eb0380b0b01389dd18cf",
+      "bytes": 93284
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20241230/",
+      "raw_sha256": "1d09440cc7189729cf90c565c61e6c685630a3cbcb4b058a85ba53994b569e12",
+      "bytes": 93284
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20250106/",
+      "raw_sha256": "9024007c98914735807f73365ed8ef1af3256278313ec1cf5453657d568a2ff0",
+      "bytes": 93282
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20250107/",
+      "raw_sha256": "143c9eda742bbfa9c99fa115de74d0ea43af4d5aaa9adc3fdf3e20900ef465e1",
+      "bytes": 93282
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20250113/",
+      "raw_sha256": "66bf707caee895e1300cc2b40ec346601233620b0b1affc1d8ef53aa7b539efc",
+      "bytes": 93282
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20250121/",
+      "raw_sha256": "3dbf294c33d6b3569e73741efbc8a35affb20810926364c1e2baf9d3599e7fcd",
+      "bytes": 93282
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20250127/",
+      "raw_sha256": "283d6d8e9e3e16dd55e88350df997be4a7b4d54489265ecc06d28c9de34766f0",
+      "bytes": 93282
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20250203/",
+      "raw_sha256": "61e4d8dcdf4bb0e6dfa47e35c21870d65dbaca6647eb2c8c2a9860c2a87ee401",
+      "bytes": 93284
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20250210/",
+      "raw_sha256": "b093755c57d2758a92362ce5adae0f0ea5fc637f295939fe39a886c2015a4eb0",
+      "bytes": 87044
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20250218/",
+      "raw_sha256": "5c64ad288e6e0d40c08bb2ec68accff6142efa19cf97aeb499417bf9522e1be8",
+      "bytes": 87044
+    },
+    {
+      "url": "https://www.federalreserve.gov/releases/h10/20250224/",
+      "raw_sha256": "8ba59cd6ae89e4bb76cbff12218639e71912e75c7e95dd6c9f03d9ce706fb8da",
+      "bytes": 87044
+    }
+  ],
+  "statement_count": 128,
+  "quote_count": 4041,
+  "files_sha256": {
+    "statements.csv": "ff6319c11a373a4281993e65df5c3c2c9f1ec039c5c05b18e55ca41211053984",
+    "eurusd_vintages.csv": "ab06d327b8f442c84cf6e0653277a7f8a09cc713af5361ef76eede8f9ef4b80c"
+  },
+  "protocol_sha256": "e6ffdacfe20bcbf1b5b8e8283f25a11ef427c6ee99fad40c4d4cc8e41b4db986"
+}

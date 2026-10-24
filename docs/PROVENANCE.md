@@ -1,0 +1,11 @@
+# Provenance, contribution and boundaries
+
+This repository is an independently written public companion for Mingju Zhang's financial-text and quantitative-research interests. The contribution is the official-source collector, explicit publication-aware event panel, constrained price/text/fusion comparison, target-availability purging, frozen selection, diagnostics, tests and research communication. Development and documentation were AI-assisted. The owner should be able to explain and modify each component before claiming proficiency in an interview.
+
+The earlier Text Data and Quant Investment coursework motivated questions about document preparation, events and validation. Course notebooks, teacher frameworks, group contributions, commercial text, employer code and company results are not copied into this project. Public model outputs are newly generated from the data snapshot and implementation here. They are not prior internship performance, an Akuna result or an XForecast submission.
+
+Board source text and numbers have their separate public-domain reuse policy; see DATA_LICENSE.md. Newly authored code is MIT licensed. Python, NumPy, pandas, SciPy, scikit-learn, Matplotlib, requests, Beautiful Soup and threadpoolctl retain their own authorship and licenses. No library implementation is presented as original research.
+
+The original roadmap listed XForecast as a candidate historical benchmark subject to data-rights checks. This implementation instead uses official FOMC statements and unrevised archived H.10 reference rates because their reuse basis and price-publication clock can be documented directly. The two tasks have different populations and target/scoring definitions. This project reports no official XForecast metric.
+
+The local protocol was specified before real-data model results. A negation-preserving stop-list clarification was made before that first result; data-parser repairs addressed legacy URLs, historical tables and leap dates without selecting from model outcomes. Source URLs, raw file hashes, normalized-data hashes and the final protocol accompany the published run. A new download can change source bytes and must be treated as a different dataset version.

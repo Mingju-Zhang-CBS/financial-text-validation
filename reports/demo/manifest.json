@@ -1,0 +1,27 @@
+{
+  "data_kind": "public-real",
+  "source_sha256": {
+    "__init__.py": "b9cb27b282da7dc2558af397a72b7d5a24ef3923e4a7cf79be342abf673f6f26",
+    "__main__.py": "4e07dec9bb7509389e2f3a7de81361662313355d55c335996bba82bcdc8f3a48",
+    "core.py": "5266d934da5f972a348d831dfb9a97a1063075df3934f06b05f26127ecbb4355",
+    "fetch_data.py": "07f32110b59eab893f520dd676f9211c94ce1b8d1a3d1b7dc70b181eb898373e"
+  },
+  "protocol_sha256": "e8f43f0dffd885c2f69bacdfe4170b94dd63cd09f06c8e23e8b928b79df71fb0",
+  "data_manifest_sha256": "53982aeb793c2686a5819d3ca840a6c68e2fbe1f31670156c3ba79cd9e9533fb",
+  "data_files_sha256": {
+    "statements.csv": "ff6319c11a373a4281993e65df5c3c2c9f1ec039c5c05b18e55ca41211053984",
+    "eurusd_vintages.csv": "ab06d327b8f442c84cf6e0653277a7f8a09cc713af5361ef76eede8f9ef4b80c"
+  },
+  "created_utc": "2026-10-24T00:34:37.467729+00:00",
+  "environment": {
+    "python": "3.12.6",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "dependencies": {
+      "numpy": "2.1.2",
+      "pandas": "2.2.3",
+      "scikit-learn": "1.5.2",
+      "scipy": "1.14.1",
+      "matplotlib": "3.9.2"
+    }
+  }
+}
