@@ -2,7 +2,7 @@
 
 Data: **real public FOMC statements and first-published archived H.10 EUR/USD reference quotes**. This is an independent historical study, not an XForecast score or an investment return.
 
-## Registered experiment
+## Locally declared experiment
 
 128 statements, 4041 first-vintage daily quotes, 128 eligible events. Retained partitions: {'train': 60, 'validation': 24, 'confirmation': 42, 'final_fit': 85}. Exact duplicates and coverage exclusions: 0; split-boundary exclusions: 2.
 

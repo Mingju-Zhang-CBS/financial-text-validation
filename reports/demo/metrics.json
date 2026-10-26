@@ -157,8 +157,8 @@
       }
     }
   },
-  "freeze_sha256": "0f85d6cc134516e384039d56a5a96e1816fe03bff338e35f5cf69ae911190ad1",
-  "elapsed_seconds_before_figures": 2.0913715999922715,
+  "freeze_sha256": "f3e53baec93a5d8f2ce806e797b833ace5d85f8191a0a73896d43d1f2c95e6f8",
+  "elapsed_seconds_before_figures": 2.0632047000108287,
   "runtime_scope": "local data verification, feature construction, 11 development fits, five refits, one permutation control and two delay stresses; not exchange latency",
   "limitations": [
     "small event sample",
@@ -166,6 +166,6 @@
     "historical association, not causal effect",
     "reference quotes, not executable fills",
     "current copies of historical policy pages may contain editorial corrections",
-    "unadjusted bootstrap intervals conditional on this registered search"
+    "unadjusted bootstrap intervals conditional on this locally declared search"
   ]
 }

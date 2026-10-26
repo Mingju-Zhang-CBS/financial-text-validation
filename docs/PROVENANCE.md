@@ -1,6 +1,6 @@
 # Provenance, contribution and boundaries
 
-This repository is an independently written public companion for Mingju Zhang's financial-text and quantitative-research interests. The contribution is the official-source collector, explicit publication-aware event panel, constrained price/text/fusion comparison, target-availability purging, frozen selection, diagnostics, tests and research communication. Development and documentation were AI-assisted. The owner should be able to explain and modify each component before claiming proficiency in an interview.
+This is a new public-method companion to Mingju Zhang's financial-text research interests. Its implementation covers the official-source collector, publication-aware event panel, price/text/fusion comparison, target-availability purging, frozen selection, diagnostics and tests. Mingju selected the portfolio direction; code, experiment design, tests and writing were AI-assisted. Original course/group contributions and independent human review are tracked separately in the private evidence ledger.
 
 The earlier Text Data and Quant Investment coursework motivated questions about document preparation, events and validation. Course notebooks, teacher frameworks, group contributions, commercial text, employer code and company results are not copied into this project. Public model outputs are newly generated from the data snapshot and implementation here. They are not prior internship performance, an Akuna result or an XForecast submission.
 

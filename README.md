@@ -6,7 +6,7 @@
 
 # Financial Text Validation
 
-**Does financial text add predictive information beyond prices when both information clocks are respected?** I built a real public-data experiment connecting FOMC policy statements, archived EUR/USD reference quotes, temporal data engineering, TF-IDF, price baselines and probability evaluation. The central contribution is an inspectable comparison in which a daily quote enters the feature set only after its actual weekly publication.
+**Does financial text add predictive information beyond prices when both information clocks are respected?** The implementation provides a real public-data experiment connecting FOMC policy statements, archived EUR/USD reference quotes, temporal data engineering, TF-IDF, price baselines and probability evaluation. The central contribution is an inspectable comparison in which a daily quote enters the feature set only after its actual weekly publication.
 
 ## Read the measured finding first
 
@@ -86,7 +86,7 @@ Predetermined diagnostics retain a training-label shuffle, an extra 14-day price
 
 The [Board's reuse policy](https://www.federalreserve.gov/disclaimer.htm) permits copying/distributing public-domain Board information with attribution. Only normalized Board policy bodies, H.10 numbers and provenance are included; no seals, logos, third-party imagery or commercial news. [DATA_LICENSE.md](DATA_LICENSE.md) identifies exact sources and [the snapshot manifest](financial_text_validation/data/manifest.json) records individual URLs and hashes. [H.10 documentation](https://www.federalreserve.gov/releases/h10/about.htm) explains archived versus current-vintage series.
 
-I implemented the collector, temporal panel, comparative modeling and evidence workflow for this public study. Development and documentation were AI-assisted. Prior coursework motivated the question; original course/group/employer materials are excluded. This is a separately designed task, not a reproduction or submission to XForecast. Newly authored code is MIT licensed; source data and dependencies keep their separate rights.
+The study implements the collector, temporal panel, comparative modeling and evidence workflow for this public study. Development and documentation were AI-assisted. Prior coursework motivated the question; original course/group/employer materials are excluded. This is a separately designed task, not a reproduction or submission to XForecast. Newly authored code is MIT licensed; source data and dependencies keep their separate rights.
 
 One currency and a small set of policy events restrict generalization. Overlapping target windows, repeated policy language, regime shifts and snapshot corrections limit inference. Bootstrap intervals are unadjusted and conditional on the frozen design. Reference rates have no executable bid/ask, queue or financing model, so classification scores are not trading returns. Once inspected, this historical confirmation period is exposed.
 
@@ -96,5 +96,5 @@ One currency and a small set of policy events restrict generalization. Overlappi
 - [One actual event, explained numerically](docs/WALKTHROUGH.md)
 - [Executed study, controls and figures](reports/demo/REPORT.md)
 - [Behavioral tests](tests/test_time_contracts.py)
-- [Interview discussion](docs/INTERVIEW.md) and [resume evidence](docs/RESUME.md)
+- [Technical discussion](docs/DISCUSSION.md)
 - [Attribution and implementation boundaries](docs/PROVENANCE.md)

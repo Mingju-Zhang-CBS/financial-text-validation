@@ -222,7 +222,7 @@ def paired_interval(y, reference, new, kind, protocol):
     config = protocol['uncertainty']
     n, block = len(delta), config['events_per_block']
     if n < block:
-        raise ValueError('Too few events for registered uncertainty blocks')
+        raise ValueError('Too few events for declared uncertainty blocks')
     rng = np.random.default_rng(config['seed'])
     starts = rng.integers(0, n-block+1, (config['moving_block_event_bootstrap'], int(np.ceil(n / block))))
     indexes = (starts[..., None] + np.arange(block)).reshape(len(starts), -1)[:, :n]
@@ -336,7 +336,7 @@ def run_study(data_directory, protocol_path, output):
               'freeze_sha256': digest((output/'freeze.json').read_bytes()), 'elapsed_seconds_before_figures': time.perf_counter()-started,
               'runtime_scope': 'local data verification, feature construction, 11 development fits, five refits, one permutation control and two delay stresses; not exchange latency',
               'limitations': ['small event sample', 'single currency', 'historical association, not causal effect', 'reference quotes, not executable fills',
-                              'current copies of historical policy pages may contain editorial corrections', 'unadjusted bootstrap intervals conditional on this registered search']}
+                              'current copies of historical policy pages may contain editorial corrections', 'unadjusted bootstrap intervals conditional on this locally declared search']}
     write_json(output/'metrics.json', result)
     make_figures(output, panel, masks, summary, contrasts_df, pd.DataFrame(calibration), pd.DataFrame(by_year), best_price)
     make_report(output, result, summary)
@@ -398,7 +398,7 @@ def make_report(output, result, summary):
 
 Data: **real public FOMC statements and first-published archived H.10 EUR/USD reference quotes**. This is an independent historical study, not an XForecast score or an investment return.
 
-## Registered experiment
+## Locally declared experiment
 
 {result['statement_count']} statements, {result['quote_count']} first-vintage daily quotes, {result['eligible_events']} eligible events. Retained partitions: {result['partition_events']}. Exact duplicates and coverage exclusions: {result['excluded_events']}; split-boundary exclusions: {result['purged_events']}.
 
