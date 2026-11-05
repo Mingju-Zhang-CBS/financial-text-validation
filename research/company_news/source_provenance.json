@@ -1,0 +1,21 @@
+{
+  "scope": "independent source only; no data, data fingerprints or empirical outputs",
+  "source_sha256": {
+    "cloud_diagnostics.py": "42e8da9b8a806d72ec9c61889c974d74d0a4b69101487f6766e61952eb5c0ee7",
+    "cloud_finalize.py": "968dc14a11626309187090a85e964bd416bd269bab3adafb2944d7f46168029e",
+    "cloud_fit_study.py": "fe1236ee95e78833242daba49191ef3006ef944a5295971e40057acc7458e9c0",
+    "cloud_quality_gate.py": "df0826855bcc8bddc8a61782f664d49a5ab4892acf685f2dd04e1c041ddd088b",
+    "cloud_real_study.py": "d79d287072d425215554342d14db33cd919677376d787274cb297180a7117c37",
+    "ravenpack_v2.py": "7b4285a1f7d7892c4bdb9cf160f6c202bebb2a81c37114715559f83aaf39a39c"
+  },
+  "cloud_execution_verified": [
+    "cloud_real_study.py",
+    "ravenpack_v2.py",
+    "cloud_quality_gate.py",
+    "cloud_fit_study.py",
+    "cloud_diagnostics.py"
+  ],
+  "report_generator_execution_verified": false,
+  "status": "preparation, quality gate, prediction and supplementary diagnostics executed; final report pending",
+  "source_commit": "assigned by GitHub commit containing these files; archive source hashes remain authoritative"
+}

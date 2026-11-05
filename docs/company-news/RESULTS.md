@@ -1,13 +1,13 @@
 # Research acceptance and result record
 
-**No predictive company-news finding is available.** Following the rejected local connection, authenticated Cloud access succeeded. Real coverage, bounded source quality and historical mapping diagnostics have been checked privately. Numeric results from synthetic verification are excluded from this report because they measure software behavior on invented inputs.
+**Private computations executed; no empirical company-news finding is cleared for public release.** Authenticated WRDS Cloud preparation, the coverage/holding-label quality gate, predictive evaluation and supplementary diagnostics returned completion checkpoints. Actual values were kept in Cloud. Numeric results from synthetic verification are excluded because they measure software behavior on invented inputs.
 
 |Stage|Current evidence|Remaining work|
 |---|---|---|
-|A — data ready|Authenticated read-only Cloud connection, actual schema/SELECT checks, annual coverage, bounded sample and historical mapping diagnostics.|Final universe attrition, receipt/scoring-version amendment and dissemination permission.|
-|B — pipeline reliable|Normalized-input implementation, initial RPA adapter and behavioral tests; reproducible synthetic runner.|Full adapter integration, real calendar, syndicated-story handling, missing feed reconciliation, delistings and actual-data diagnostics.|
-|C — research executed|Private price extraction and annual news aggregation executed; predictive comparisons not yet verified.|Complete the coverage/holding-label quality gate; run frozen models, panel/event analysis, annual exposure/concentration and all implementation stresses.|
-|D — presentation complete|English protocol/methods/status pages and portfolio navigation prepared.|Empirical report and four research figures only after execution and permission; verify remote publication separately.|
+|A — data ready|Actual RavenPack/CRSP access, 2010–2025 coverage, historical mapping and private attrition records; archive-v2 receipt/CIZ amendments recorded.|Historical scoring vintages, filtered-feed completeness and dissemination permission remain limitations.|
+|B — pipeline reliable|All annual panels and the quality gate executed; unfiltered holding-security prices rebuild labels; 47 invented-input tests passed, including the full private workflow.|Cross-ID syndicated-story identity and economic mapping ambiguity remain audited limitations, not certified away by tests.|
+|C — research executed|Frozen selections precede confirmation; predictive and supplementary manifests completed. The program retains all 18 predictive comparisons and 36 implementation scenarios, including unestimable cases.|Human review of the private report, associations, implementation failures, exposures and concentration. No empirical performance claim is made here.|
+|D — presentation complete|English source, methods and status pages; private event-path figure and integrated-report generator; portfolio navigation.|Final report checkpoint and source/input provenance verification; human interpretation and permission before any public real-data results or figures.|
 
 ## Report slots reserved before results
 
@@ -17,4 +17,4 @@
 4. All 36 cost/borrowing/delay scenarios; turnover, exposure, concentration and annual stability.
 5. H1/H2/H3 outcomes, unsupported claims, alternative explanations and protocol deviations.
 
-The local run manifest traces protocol hash → input hashes → source revision/hashes → artifacts. A real run also needs a dataset entitlement/version record. An implementation status cannot be promoted to “validated empirical study” by passing synthetic tests.
+The [Cloud source archive](../../research/company_news/README.md) exposes the independent methods and synthetic tests. Development choices were frozen before confirmation scoring. The final input snapshot is assembled after execution and explicitly labeled as such; it is not a cryptographic pre-fit commitment. A real run still needs its private entitlement/version record. Neither software completion nor synthetic tests establish validated empirical findings.

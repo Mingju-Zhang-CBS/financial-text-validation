@@ -1,5 +1,7 @@
 # Decisions and hypotheses
 
+Execution update, 2026-11-05: the archive preparation, coverage/holding-label quality gate, frozen predictions and supplementary diagnostics completed in WRDS Cloud. Nullable database floats required an engineering fix, tested on invented nullable values before rerunning the gate. This did not change the research hypothesis or use predictive outcomes to choose a specification. The fixed 10-bps / 100-bps-borrow reference book has a contribution-reconciliation check. Supplementary firm/date inference, event groups and market-exposure diagnostics were specified in code without inspecting empirical outcomes. Their detail supplements the initial high-level plan; it is not claimed as an external preregistration. Final input hashes are a post-execution snapshot.
+
 |ID / date|Decision|Relation to outcomes|
 |---|---|---|
 |D001 / 2026-11-05|Extend the existing financial-text repository; preserve executed FOMC/FX findings.|Before company-news data/results.|

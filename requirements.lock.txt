@@ -31,3 +31,4 @@ certifi==2024.8.30
 charset-normalizer==3.3.2
 idna==3.8
 soupsieve==2.6
+pyarrow==22.0.0

@@ -4,6 +4,8 @@
 
 **Status: WRDS Cloud access restored; real-data audit executed; empirical study not yet validated.** RavenPack and CRSP access, annual news coverage, a bounded sample and historical mapping diagnostics have been checked privately. Score-vintage limits, protocol amendments and dissemination review remain open. The existing [FOMC/FX findings](../../reports/demo/REPORT.md) remain a separate completed study, including their unfavorable incremental-information result.
 
+The complete 2010–2025 panel preparation, coverage/holding-label quality gate, frozen predictive evaluation and supplementary diagnostics have now executed in WRDS Cloud. Execution is not completed research validation or permission to publish findings. The independently written [Cloud workflow and synthetic contract tests](../../research/company_news/README.md) document the actual interfaces. Real values and reports remain private.
+
 This independent extension connects sentiment/event analysis, regularization, duplicate information and temporal measurement learned in coursework. Newly written code and invented inputs are public; original group submissions and licensed corpora remain outside the repository. Development is AI-assisted.
 
 |Method background|Independent research extension|
