@@ -6,7 +6,7 @@ These independently written scripts expose the real-data engineering and evaluat
 
 Use only an authorized WRDS Cloud account and the audited product versions. This directory does **not** grant access or recreate the private audit automatically. Before execution supply the privately audited, date-valid `ciz_historical_links_private.parquet` (`permno`, `permco`, `valid_from`, `valid_to`, RavenPack identity fields as required by the adapter) and `ciz_market_calendar_private.parquet` (`date`, `vwretd`) under `~/company_news_research_20261105/`. Review the adapter's exact column contract. Existing private price/news caches may be reused only with recorded provenance.
 
-Upload the five `cloud_*.py` modules and `ravenpack_v2.py` to that directory. WRDS Cloud provides its supported database connection; these scripts receive a read-only connection or an already prepared archive. Local synthetic tests additionally require PyArrow (`pip install -e ".[test,cloud]"`). An authenticated web session alone does not establish data rights or authorize export.
+Upload the six `cloud_*.py` modules and `ravenpack_v2.py` to that directory. WRDS Cloud provides its supported database connection; these scripts receive a read-only connection or an already prepared archive. Local synthetic tests additionally require PyArrow (`pip install -e ".[test,cloud]"`). An authenticated web session alone does not establish data rights or authorize export.
 
 ## Stages and quiet execution
 
@@ -15,6 +15,7 @@ Upload the five `cloud_*.py` modules and `ravenpack_v2.py` to that directory. WR
 3. `cloud_fit_study.execute(study)` freezes development selections before confirmation scoring; retains 18 model comparisons and 36 implementation scenarios; preserves unestimable scenarios; reconciles security contributions for the fixed delay-0 / 10-bps / 100-bps-borrow reference book.
 4. `cloud_diagnostics.execute(study)` produces separate explanatory firm/date estimates, all prespecified descriptive event groups, a private figure, market-exposure diagnostics and contribution reconciliation. Its manifest requires the predictive manifest.
 5. `cloud_finalize.execute(study, source_commit=...)` assembles the integrated private English report and input fingerprints. This final input snapshot is explicitly recorded after execution, not misrepresented as a pre-fit cryptographic commitment.
+6. If a held-return failure prevents the fixed reference book, `cloud_implementation_audit.execute(study, fitting, db)` reproduces its first failure and performs a bounded read-only source reconciliation. Private source flags support human review. It does not replace a missing return by zero, delete failed trades or change the frozen sample.
 
 Always redirect **both stdout and stderr** into a private Cloud log, including database connection setup and exceptions. The builder's ordinary human-facing progress includes sample counts. Those counts and all actual values must not be copied into an LLM interface. A status-only notebook can use this pattern:
 

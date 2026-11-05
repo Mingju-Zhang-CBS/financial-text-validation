@@ -5,9 +5,9 @@
 |Stage|Current evidence|Remaining work|
 |---|---|---|
 |A — data ready|Actual RavenPack/CRSP access, 2010–2025 coverage, historical mapping and private attrition records; archive-v2 receipt/CIZ amendments recorded.|Historical scoring vintages, filtered-feed completeness and dissemination permission remain limitations.|
-|B — pipeline reliable|All annual panels and the quality gate executed; unfiltered holding-security prices rebuild labels; 47 invented-input tests passed, including the full private workflow.|Cross-ID syndicated-story identity and economic mapping ambiguity remain audited limitations, not certified away by tests.|
+|B — pipeline reliable|All annual panels and the quality gate executed; unfiltered holding-security prices rebuild labels; 48 invented-input tests cover the package and Cloud workflow, including failure preservation.|Cross-ID syndicated-story identity and economic mapping ambiguity remain audited limitations, not certified away by tests.|
 |C — research executed|Frozen selections precede confirmation; predictive and supplementary manifests completed. The program retains all 18 predictive comparisons and 36 implementation scenarios, including unestimable cases.|Human review of the private report, associations, implementation failures, exposures and concentration. No empirical performance claim is made here.|
-|D — presentation complete|English source, methods and status pages; private event-path figure and integrated-report generator; portfolio navigation.|Final report checkpoint and source/input provenance verification; human interpretation and permission before any public real-data results or figures.|
+|D — presentation complete|Integrated private English report, event-path figure and source/input snapshot generated; output fingerprints and all predefined output grids verified; English source and portfolio navigation public.|Human interpretation, implementation-gap review and permission before any public real-data results or figures. A processed scenario is not necessarily an estimable P&L result.|
 
 ## Report slots reserved before results
 

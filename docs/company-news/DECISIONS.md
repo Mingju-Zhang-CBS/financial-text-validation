@@ -1,5 +1,7 @@
 # Decisions and hypotheses
 
+A bounded implementation-gap audit is an engineering response to a held-return failure status, not a new prediction specification. It reuses frozen forecasts and the original portfolio function, preserves the failed scenario, and reconciles only the first affected session against source flags. No zero-return imputation, retrospective trade deletion or automatic sample change is authorized by that audit.
+
 Execution update, 2026-11-05: the archive preparation, coverage/holding-label quality gate, frozen predictions and supplementary diagnostics completed in WRDS Cloud. Nullable database floats required an engineering fix, tested on invented nullable values before rerunning the gate. This did not change the research hypothesis or use predictive outcomes to choose a specification. The fixed 10-bps / 100-bps-borrow reference book has a contribution-reconciliation check. Supplementary firm/date inference, event groups and market-exposure diagnostics were specified in code without inspecting empirical outcomes. Their detail supplements the initial high-level plan; it is not claimed as an external preregistration. Final input hashes are a post-execution snapshot.
 
 |ID / date|Decision|Relation to outcomes|
