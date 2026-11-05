@@ -7,6 +7,9 @@
 |D003 / 2026-11-05|Specify 2010–2025, monthly historical top 1,000, $5 price and $1m prior liquidity filters.|Before empirical results; v1 remains unfrozen pending audit.|
 |D004 / 2026-11-05|Use Ridge ablations and primary date-equal-weight MSE improvement at five sessions.|Before empirical results.|
 |D005 / 2026-11-05|Server authentication failure blocks actual data audit; exercise only invented inputs.|No real-data outcomes inspected.|
+|D006 / 2026-11-05|Restore the existing Cloud/Jupyter route; preserve the failed local attempt as history.|Actual access and metadata checked; no forecast comparison inspected.|
+|D007 / 2026-11-05|Use audited CIZ interfaces to retain the 2025 endpoint; do not truncate at legacy CRSP's cutoff.|Coverage/schema inspection only.|
+|D008 / 2026-11-05|Stage an RPA adapter with receipt-clock caveat, event-to-article collapse and missing novelty preserved.|Protocol amendment remains required before empirical fitting.|
 
 |Hypothesis|Prespecified test|Status / alternative explanations|
 |---|---|---|

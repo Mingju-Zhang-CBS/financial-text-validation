@@ -1,11 +1,11 @@
 # Research acceptance and result record
 
-**No empirical company-news finding is available.** The first real-data audit attempt was blocked by rejected server authentication. Numeric results from synthetic verification are excluded from this report because they measure software behavior on invented inputs.
+**No predictive company-news finding is available.** Following the rejected local connection, authenticated Cloud access succeeded. Real coverage, bounded source quality and historical mapping diagnostics have been checked privately. Numeric results from synthetic verification are excluded from this report because they measure software behavior on invented inputs.
 
 |Stage|Current evidence|Remaining work|
 |---|---|---|
-|A — data ready|Sanitized failed connection record; public audit checklist and supported discovery command.|Restore access; inspect products, field semantics, coverage, mapping attrition and dissemination permission.|
-|B — pipeline reliable|Normalized-input implementation and behavioral tests; reproducible synthetic runner.|Vendor adapter, real calendar, syndicated-story handling, missing feed reconciliation, delistings and actual-data diagnostics.|
+|A — data ready|Authenticated read-only Cloud connection, actual schema/SELECT checks, annual coverage, bounded sample and historical mapping diagnostics.|Final universe attrition, receipt/scoring-version amendment and dissemination permission.|
+|B — pipeline reliable|Normalized-input implementation, initial RPA adapter and behavioral tests; reproducible synthetic runner.|Full adapter integration, real calendar, syndicated-story handling, missing feed reconciliation, delistings and actual-data diagnostics.|
 |C — research executed|Not executed on actual news/security data.|Freeze protocol; run all models; panel/event analysis; annual exposure/concentration and all implementation stresses.|
 |D — presentation complete|English protocol/methods/status pages and portfolio navigation prepared.|Empirical report and four research figures only after execution and permission; verify remote publication separately.|
 

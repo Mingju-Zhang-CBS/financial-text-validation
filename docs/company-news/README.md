@@ -2,7 +2,7 @@
 
 **Question:** When do news sentiment, novelty and past media coverage provide information beyond price history?
 
-**Status: implementation and synthetic verification; real-data audit blocked by server authentication.** No RavenPack/CRSP sample, empirical performance or publication permission has been verified for this study. The existing [FOMC/FX findings](../../reports/demo/REPORT.md) remain a separate completed study, including their unfavorable incremental-information result.
+**Status: WRDS Cloud access restored; real-data audit executed; empirical study not yet validated.** RavenPack and CRSP access, annual news coverage, a bounded sample and historical mapping diagnostics have been checked privately. Score-vintage limits, protocol amendments and dissemination review remain open. The existing [FOMC/FX findings](../../reports/demo/REPORT.md) remain a separate completed study, including their unfavorable incremental-information result.
 
 This independent extension connects sentiment/event analysis, regularization, duplicate information and temporal measurement learned in coursework. Newly written code and invented inputs are public; original group submissions and licensed corpora remain outside the repository. Development is AI-assisted.
 
@@ -48,7 +48,7 @@ python -m financial_text_validation.company_news.audit --output private-data/com
 
 This bounded command inspects metadata and SELECT privileges in a read-only transaction. It does not extract news rows, certify full-period coverage, resolve field meanings or authorize publication. Authentication failure produces a sanitized audit record. A successful connection still requires the full [audit checklist](AUDIT.md).
 
-The normalized-input routines are engineering components, **not a completed RavenPack adapter**. Real extraction, vendor-specific score normalization, full mapping attrition, explanatory panel estimates, empirical figures and publication remain gated on the audit. No automatic substitution of a shorter period or course extract is allowed.
+The normalized-input routines and new [RPA adapter](../../financial_text_validation/company_news/ravenpack.py) are engineering components, **not a completed empirical study**. The adapter preserves missing novelty, collapses event rows before article aggregation and quarantines links to multiple companies. Receipt time is explicitly a proxy: it is not relabeled as a separately observed publication or processing timestamp. A versioned real-data protocol, historical scoring-vintage limitations, explanatory panel estimates, empirical figures and dissemination review remain required. No automatic substitution of a shorter period or course extract is allowed.
 
 ## Four questions for the eventual report
 
