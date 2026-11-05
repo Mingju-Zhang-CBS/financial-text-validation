@@ -26,6 +26,8 @@ flowchart LR
 
 The [protocol](../../financial_text_validation/company_news/protocol.json), [methods](METHODS.md), [data contract](DATA_CONTRACT.md), [audit record](AUDIT.md), [decision log](DECISIONS.md) and [result record](RESULTS.md) form a single study. Synthetic execution exercises software contracts and cannot answer the research question.
 
+[Licensed computation and the AI boundary](DATA_BOUNDARY.md) explains why actual inputs and data-derived findings remain in the authorized environment. AI-assisted code development does not establish permission to send licensed values to an LLM.
+
 ## Run without a data subscription
 
 Use the repository's Python 3.12 installation instructions, then run:

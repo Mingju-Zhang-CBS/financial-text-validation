@@ -10,6 +10,8 @@
 |D006 / 2026-11-05|Restore the existing Cloud/Jupyter route; preserve the failed local attempt as history.|Actual access and metadata checked; no forecast comparison inspected.|
 |D007 / 2026-11-05|Use audited CIZ interfaces to retain the 2025 endpoint; do not truncate at legacy CRSP's cutoff.|Coverage/schema inspection only.|
 |D008 / 2026-11-05|Stage an RPA adapter with receipt-clock caveat, event-to-article collapse and missing novelty preserved.|Protocol amendment remains required before empirical fitting.|
+|D009 / 2026-11-05|Review WRDS AI restrictions; keep licensed calculations and findings in the authorized environment, with software-status checks only.|Independent source and synthetic fixtures may be reviewed; no permission inferred for data-derived dissemination.|
+|D010 / 2026-11-05|Require a coverage-quality gate to distinguish missing mapping/feed activity from known no-news; obtain holding returns independently of subsequent security classification.|Data-engineering correction before predictive outcomes are inspected; common model rows and entry-time checks must remain explicit.|
 
 |Hypothesis|Prespecified test|Status / alternative explanations|
 |---|---|---|

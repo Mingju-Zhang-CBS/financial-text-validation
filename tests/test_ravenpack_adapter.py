@@ -46,3 +46,11 @@ def test_different_companies_are_quarantined():
     daily, audit = normalize_rpa_events(records, links, sessions)
     assert daily.empty
     assert audit["ambiguous_company_rows_quarantined"] == 2
+
+
+def test_new_event_index_in_later_revision_cannot_create_a_new_article():
+    records, links, sessions = fixture()
+    revision = records.iloc[[0]].assign(timestamp_utc="2025-01-06T15:00:00", rp_story_event_index=3)
+    expected, _ = normalize_rpa_events(records, links, sessions)
+    actual, _ = normalize_rpa_events(pd.concat([records, revision]), links, sessions)
+    pd.testing.assert_frame_equal(actual, expected)

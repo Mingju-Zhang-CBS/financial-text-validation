@@ -6,7 +6,7 @@
 |---|---|---|
 |A — data ready|Authenticated read-only Cloud connection, actual schema/SELECT checks, annual coverage, bounded sample and historical mapping diagnostics.|Final universe attrition, receipt/scoring-version amendment and dissemination permission.|
 |B — pipeline reliable|Normalized-input implementation, initial RPA adapter and behavioral tests; reproducible synthetic runner.|Full adapter integration, real calendar, syndicated-story handling, missing feed reconciliation, delistings and actual-data diagnostics.|
-|C — research executed|Not executed on actual news/security data.|Freeze protocol; run all models; panel/event analysis; annual exposure/concentration and all implementation stresses.|
+|C — research executed|Private price extraction and annual news aggregation executed; predictive comparisons not yet verified.|Complete the coverage/holding-label quality gate; run frozen models, panel/event analysis, annual exposure/concentration and all implementation stresses.|
 |D — presentation complete|English protocol/methods/status pages and portfolio navigation prepared.|Empirical report and four research figures only after execution and permission; verify remote publication separately.|
 
 ## Report slots reserved before results

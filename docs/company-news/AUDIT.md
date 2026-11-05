@@ -10,6 +10,8 @@ The source exposes vendor receipt time, event sentiment, event similarity days, 
 
 The new adapter tests invented rows for duplicate-event handling, missing novelty, later receipt records and ambiguous company links. Passing these checks is not an empirical result. No licensed sample, security-level output, vendor manual or real-data metric is released here. Original audit attempts remain below as historical evidence.
 
+The [AI policy review](DATA_BOUNDARY.md) adds a separate data-use boundary: subsequent automated checks expose only execution status and source integrity. Actual calculations and their findings stay in Cloud for direct authorized review. This does not resolve aggregate-publication permission.
+
 ## Initial local attempt
 
 On 2026-11-05, an official PostgreSQL connection was attempted using the existing private libpq configuration. The WRDS server rejected authentication. The checked-in audit command reproduced this failure and wrote a sanitized private `audit.json`. No credentials, news rows or securities were printed or published.
