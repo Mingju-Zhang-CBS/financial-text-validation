@@ -1,0 +1,22 @@
+{
+  "id": "company-news-v1",
+  "status": "specified-not-frozen-for-real-data",
+  "question": "Does sentiment, novelty and past media coverage add information beyond price history?",
+  "period": ["2010-01-01", "2025-12-31"],
+  "buffer": {"before_calendar_days": 400, "after_trading_days": 22},
+  "splits": {"train": [2010, 2017], "validation": [2018, 2020], "confirmation": [2021, 2025]},
+  "universe": {"share_codes": [10, 11], "exchanges": [1, 2, 3], "top_n": 1000, "minimum_price": 5, "minimum_prior_20_day_dollar_volume": 1000000, "selection": "prior-month-final-session; historical eligibility; held for next month"},
+  "clock": {"timezone": "America/New_York", "signal": "23:59:59 on exchange session date", "entry": "next exchange session close", "primary_label": "entry close to five subsequent session closes", "availability": "max(publication_at, vendor_available_at); missing vendor time blocks real execution"},
+  "horizons": [1, 5, 20],
+  "primary_horizon": 5,
+  "primary_target": "market_adjusted_return",
+  "secondary_target": "raw_return",
+  "primary_comparison": "confirmation MSE(B0) minus MSE(B2), identical company-days",
+  "models": ["B0", "B1", "B2"],
+  "ridge_alpha_grid": [0.1, 1.0, 10.0],
+  "selection_metric": "validation MSE; smallest alpha breaks exact ties",
+  "bootstrap": {"replications": 2000, "date_block_length": 20, "seed": 20261105},
+  "portfolio": {"tail_fraction": 0.1, "holding_sessions": 5, "cohort_capital": 0.2, "long_gross": 1.0, "short_gross": 1.0, "one_way_cost_bps": [0, 5, 10, 20], "annual_borrow_bps": [0, 100, 300], "extra_delay_sessions": [0, 1, 2]},
+  "freeze_requires": ["authenticated access", "2010-2025 coverage", "field semantics and scoring revision review", "historical mapping loss audit", "point-in-time limits recorded", "public dissemination review"],
+  "publication": {"raw": "private", "row_level": "private", "models": "private", "aggregate": "pending specific permission", "synthetic": "public; never empirical evidence"}
+}

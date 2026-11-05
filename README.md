@@ -10,6 +10,8 @@
 
 ## Read the measured finding first
 
+**Company-news extension:** [Company News: Novelty, Sentiment and Market Response](docs/company-news/README.md) asks whether structured sentiment, novelty and past media coverage add information beyond price history. Protocol and synthetic verification are implemented; the real WRDS audit is blocked by authentication. No company-news performance is claimed. The measured results below belong to the completed FOMC/FX study.
+
 - **Data:** 128 official statements and 4,041 first-published reference observations; no commercial news or company data.
 - **Retained events:** 60 training, 24 validation and 42 confirmation. Train ends in 2016; selection uses 2017–2019; the fixed confirmation period is 2020–2024.
 - **Primary comparison:** selected price model `price_logistic` versus fusion. Log-loss reduction, price minus fusion: **-0.00029**, paired 95% interval **[-0.00280, 0.00211]**. Positive favors fusion.

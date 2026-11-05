@@ -16,3 +16,4 @@ jobs:
       - run: python -m pytest
       - run: python -m financial_text_validation --demo --output local-runs/ci
       - run: python examples/explain_event.py
+      - run: python -m financial_text_validation.company_news --synthetic --output local-runs/company-news-ci
