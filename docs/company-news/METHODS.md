@@ -35,3 +35,7 @@ Costs apply to **full absolute one-way traded notional**, not half turnover: 0/5
 Freeze protocol, dataset/adapter version, input hashes and software revision before empirical fitting. A local snapshot without Git records source hashes and a null commit, rather than fabricating a revision. Every run stores selected settings, every predefined comparison and a fingerprint manifest. Future-news mutations, duplicate rows, mapping validity, training-only transforms, split purging, label arithmetic and cost reconciliation have behavioral tests.
 
 The current command only runs invented inputs. Audit failure cannot be bypassed by renaming those outputs or using a partial course CSV. Real adapters, calendar/feed completeness, revision semantics, delisting treatment and dissemination permission remain explicit acceptance conditions.
+
+## Executed archive and return-review amendments
+
+The command above describes the original normalized-input/synthetic interface. The separate authorized [Cloud archive workflow](../../research/company_news/README.md) has executed the real archive study. Receipt-time/scoring-vintage caveats remain. The [return-review protocol](RETURN_REVIEW.md) adds versioned source reconciliation, quote-constrained holdings and conditional terminal-settlement sensitivities; it preserves observed-only failures rather than silently changing the original method.

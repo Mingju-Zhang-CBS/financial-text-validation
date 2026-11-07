@@ -19,8 +19,22 @@ Execution update, 2026-11-05: the archive preparation, coverage/holding-label qu
 
 |Hypothesis|Prespecified test|Status / alternative explanations|
 |---|---|---|
-|H1: news adds incremental information|Paired confirmation MSE(B0) minus MSE(B2), same company-days; B1 ablation.|Untested; coverage, market regimes and score revisions could explain apparent improvement.|
-|H2: novelty and past coverage condition sentiment response|Prespecified interactions and separate explanatory panel/event analyses.|Untested; omitted firm/event risk and changing news composition prevent automatic causal interpretation.|
-|H3: improvement has economic value|Fixed five-session overlapping ledger; all costs, borrow and delays.|Untested; daily closes, impact and short availability can defeat implementability.|
+|H1: news adds incremental information|Paired confirmation MSE(B0) minus MSE(B2), same company-days; B1 ablation.|Executed privately; public interpretation pending; coverage, market regimes and score revisions could explain apparent improvement.|
+|H2: novelty and past coverage condition sentiment response|Prespecified interactions and separate explanatory panel/event analyses.|Executed privately; public interpretation pending; omitted firm/event risk and changing news composition prevent automatic causal interpretation.|
+|H3: improvement has economic value|Fixed five-session overlapping ledger; all costs, borrow and delays.|Observed-only reference failed; conditional terminal settlement sensitivity separately retained; daily closes, impact and short availability can defeat implementability.|
 
 Any amendment records protocol version, reason, affected endpoints, datasets already seen and whether confirmation outcomes were exposed. Do not overwrite unfavorable runs or recast exploratory findings as prespecified.
+
+## Return-review amendments, 2026-11-06
+
+The [complete return-review record](RETURN_REVIEW.md) preserves three 72-attempt replays and a 108-attempt terminal-price sensitivity. Amendments were responses to missing holding values and software failures, without inspecting profitability to choose rules.
+
+|ID|Decision|Timing and status|
+|---|---|---|
+|D011|Use current CIZ duration, previous-price date, regular-session close and trading status; freeze unquoted positions.|After the original implementation failure; original forecasts unchanged.|
+|D012|Compare annual CIZ, legacy CRSP and exact historical CCM-linked Compustat total-return candidates; require complete atomic recovery segments.|Before each amended replay; provider hierarchy and tolerances fixed.|
+|D013|Retain a separate latest-20-prior-overlap / 60-calendar-day source-QC sensitivity.|After global-gate failure; no future or selected passing window.|
+|D014|Test explicit final-price settlement with 0.5/1/1.5 multipliers only after exact event/price and distribution gates.|After terminal-value failure; operational assumptions, not observed cash or confidence bounds.|
+|D015|Detach DataFrame-valued attribution before all follow-on reporting and propagate unexpected software errors.|First terminal report failed; failed attempt and unsuccessful cached repair preserved; corrected run uses the same economic specification.|
+
+No amendment converts this historical period into prospective validation or authorizes public commercial-data findings.

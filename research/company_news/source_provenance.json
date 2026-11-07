@@ -7,7 +7,17 @@
     "cloud_implementation_audit.py": "2cd0807d164cec3d7b248cdd7cef10d61ff095f35d578e2c56221cae8359544a",
     "cloud_quality_gate.py": "df0826855bcc8bddc8a61782f664d49a5ab4892acf685f2dd04e1c041ddd088b",
     "cloud_real_study.py": "d79d287072d425215554342d14db33cd919677376d787274cb297180a7117c37",
-    "ravenpack_v2.py": "7b4285a1f7d7892c4bdb9cf160f6c202bebb2a81c37114715559f83aaf39a39c"
+    "ravenpack_v2.py": "7b4285a1f7d7892c4bdb9cf160f6c202bebb2a81c37114715559f83aaf39a39c",
+    "return_reconciliation.py": "7cdb0606e9e9d22b101df921c45d0e6a256107b6fecd47be02038f6f5dd9b4b1",
+    "implementation_v3.py": "03932a9fe6fde33118e9169d63eb6b1aa086e3edf1812de69af5c578e02b10a2",
+    "cloud_return_diagnosis.py": "a5499a8685db5063ae5c1bd5e8838a77a85e7a03508c59aa73e21d4e0058b960",
+    "cloud_alternate_probe.py": "d72c1279842dca8a624e50b355a6dffcf2cf2ba103828bd8782e8109d2596ea1",
+    "cloud_source_resolution.py": "96d84fe25c0976d7aaf28b31548c2441cc5bc20da3d3513c6da3065f4d45d40a",
+    "cloud_replay_v3.py": "cf579d4f593eac1416149ea8b8b1be09f5db8cb2348cb0091cc08ec5937c7537",
+    "cloud_finalize_v3.py": "1d7f4d8c559ba54e9befa4923ec77761a1b6af81c33df500c9811076f26ba685",
+    "cloud_unresolved_audit.py": "246f945ef461569964887a7856804dd2830c1e92720cefa4d4b8fdca732dc41f",
+    "cloud_terminal_sensitivity.py": "429864a6f485a622f7a52759979b8b723f7f6c6bce997a267cf1ca975761cd91",
+    "cloud_return_review_report.py": "221fbc57935ae17daf3e5c3450d61f8099ea05cf1dac517d264634573ec747ce"
   },
   "cloud_execution_verified": [
     "cloud_real_study.py",
@@ -19,7 +29,40 @@
     "cloud_implementation_audit.py"
   ],
   "implementation_gap_audit_execution_verified": true,
-  "status": "private computations, integrated report, output verification and bounded implementation source audit executed; interpretation and implementation review pending",
+  "status": "private statistical study and implementation follow-up executed; no validated tradable company-news performance or public commercial-data claim",
   "core_archive_commit": "6ba3d6c87bf8a929a02e4bd8924fc96de410f97e",
-  "implementation_audit_source_commit": "defe7f42bd72870d2b58e3f2b4b43fbfcc5393ce"
+  "implementation_audit_source_commit": "defe7f42bd72870d2b58e3f2b4b43fbfcc5393ce",
+  "return_review_current_source_note": "Current source includes software-reporting fixes and clarification after earlier Cloud runs; exact historical deployed revisions are distinguished below. Code fingerprints only, never data/output fingerprints.",
+  "return_review_executed_revisions": {
+    "bounded_source_diagnosis": {
+      "cloud_return_diagnosis.py": "a5499a8685db5063ae5c1bd5e8838a77a85e7a03508c59aa73e21d4e0058b960"
+    },
+    "bounded_alternate_probe": {
+      "cloud_alternate_probe.py": "d72c1279842dca8a624e50b355a6dffcf2cf2ba103828bd8782e8109d2596ea1"
+    },
+    "global_source_replay": {
+      "return_reconciliation.py": "8b3b4ff788aeba107c01c01cbbd27b5a0ee8672db40902b7b9054d5d2537e8cf",
+      "cloud_replay_v3.py": "686332655487b951c2094cba9fa4c2911f2bcfa739536ed059201e1d6012b7b3",
+      "cloud_source_resolution.py": "48a6c6678b04ff004b961b08c5e90e50d78a58bed2f048b97aca4875e85b93e8",
+      "cloud_finalize_v3.py": "b92ecda4bb47239def7dc2725d01f0f5342b79c9d64ba8c7cf66be19a8cb7bcc"
+    },
+    "past_only_overlap_replay": {
+      "return_reconciliation.py": "7cdb0606e9e9d22b101df921c45d0e6a256107b6fecd47be02038f6f5dd9b4b1",
+      "implementation_v3.py": "03932a9fe6fde33118e9169d63eb6b1aa086e3edf1812de69af5c578e02b10a2",
+      "cloud_replay_v3.py": "aec24208494d0422aa25555534f42ded812f4649b3d21b2e8933d24c4b0944dd",
+      "cloud_source_resolution.py": "96d84fe25c0976d7aaf28b31548c2441cc5bc20da3d3513c6da3065f4d45d40a",
+      "cloud_finalize_v3.py": "c2573cb799d853847a1b878adb340cf594fdfa704d4dba2c7a9bf3cba74b2c42"
+    },
+    "terminal_first_attempt_reporting_failure": {
+      "cloud_terminal_sensitivity.py": "765b8be5beb86cc89a8cb3f7e9001d54d0a7e51b91028217e4ccf45bbcaa7409"
+    },
+    "terminal_checked_and_integrated_report": {
+      "cloud_terminal_sensitivity.py": "429864a6f485a622f7a52759979b8b723f7f6c6bce997a267cf1ca975761cd91",
+      "cloud_return_review_report.py": "221fbc57935ae17daf3e5c3450d61f8099ea05cf1dac517d264634573ec747ce",
+      "implementation_v3.py": "03932a9fe6fde33118e9169d63eb6b1aa086e3edf1812de69af5c578e02b10a2",
+      "return_reconciliation.py": "7cdb0606e9e9d22b101df921c45d0e6a256107b6fecd47be02038f6f5dd9b4b1"
+    }
+  },
+  "return_review_note": "Earlier failed runs remain immutable. Observed-only reference failures are distinct from conditional terminal-price settlement accounting. No commercial data release or validated alpha claim.",
+  "return_review_status": "private source review, all predefined follow-up grids and integrated report executed and verified; observed-only references remain unestimable; terminal-price reference ledgers complete conditional on settlement assumptions; human economic and dissemination review pending"
 }

@@ -31,3 +31,7 @@ This initial failure did not imply absence of a RavenPack subscription. It was r
 |Raw/derived/model/aggregate dissemination|No|Applicable institution/vendor conditions and documented permitted outputs.|
 
 After access is restored, run metadata discovery first. Review exact tables before bounded coverage queries; do not scan a full vendor corpus speculatively. Save private schema fingerprints, documentation references and sample-loss counts. The discovery command deliberately does not infer completeness from table names or privileges. Freeze real-data protocol only after the remaining checks; otherwise record a new version and the precise unresolved limitations.
+
+## Missing-return follow-up, 2026-11-06
+
+Authenticated supported Cloud database queries compared quarterly/annual CIZ, legacy CRSP, historical CCM-linked Compustat daily total-return candidates, delisting events and distribution records. Exact return durations, previous-price dates and execution closes are retained privately. The [return-review record](RETURN_REVIEW.md) distinguishes independently checked source values, stale accounting marks and assumed terminal settlement. It does not certify missing cash entitlements, complete quote execution or an unrestricted output license. All earlier audits and failures remain.

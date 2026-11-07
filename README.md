@@ -10,7 +10,7 @@
 
 ## Read the measured finding first
 
-**Company-news extension:** [Company News: Novelty, Sentiment and Market Response](docs/company-news/README.md) asks whether structured sentiment, novelty and past media coverage add information beyond price history. Private WRDS Cloud preparation, predictive experiments and supplementary diagnostics have executed; [independent source and synthetic tests](research/company_news/README.md) are public. Human interpretation and dissemination review remain pending, and no company-news predictive performance is claimed. The measured results below belong to the completed FOMC/FX study.
+**Company-news extension:** [Company News: Novelty, Sentiment and Market Response](docs/company-news/README.md) asks whether structured sentiment, novelty and past media coverage add information beyond price history. Private WRDS experiments and a [missing-return review](docs/company-news/RETURN_REVIEW.md) retain observed-only failures and explicit terminal-settlement sensitivities; [independent source and synthetic tests](research/company_news/README.md) are public. Conditional accounting is separate from tradable validation; human interpretation and dissemination review remain pending. No company-news predictive performance is claimed. The measured results below belong to the completed FOMC/FX study.
 
 - **Data:** 128 official statements and 4,041 first-published reference observations; no commercial news or company data.
 - **Retained events:** 60 training, 24 validation and 42 confirmation. Train ends in 2016; selection uses 2017–2019; the fixed confirmation period is 2020–2024.

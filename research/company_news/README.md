@@ -6,7 +6,7 @@ These independently written scripts expose the real-data engineering and evaluat
 
 Use only an authorized WRDS Cloud account and the audited product versions. This directory does **not** grant access or recreate the private audit automatically. Before execution supply the privately audited, date-valid `ciz_historical_links_private.parquet` (`permno`, `permco`, `valid_from`, `valid_to`, RavenPack identity fields as required by the adapter) and `ciz_market_calendar_private.parquet` (`date`, `vwretd`) under `~/company_news_research_20261105/`. Review the adapter's exact column contract. Existing private price/news caches may be reused only with recorded provenance.
 
-Upload the six `cloud_*.py` modules and `ravenpack_v2.py` to that directory. WRDS Cloud provides its supported database connection; these scripts receive a read-only connection or an already prepared archive. Local synthetic tests additionally require PyArrow (`pip install -e ".[test,cloud]"`). An authenticated web session alone does not establish data rights or authorize export.
+Upload the required `cloud_*.py` modules and their sibling dependencies from this directory into a versioned source directory. WRDS Cloud provides its supported database connection; these scripts receive a read-only connection or an already prepared archive. Local synthetic tests additionally require PyArrow (`pip install -e ".[test,cloud]"`). An authenticated web session alone does not establish data rights or authorize export.
 
 ## Stages and quiet execution
 
@@ -16,6 +16,23 @@ Upload the six `cloud_*.py` modules and `ravenpack_v2.py` to that directory. WRD
 4. `cloud_diagnostics.execute(study)` produces separate explanatory firm/date estimates, all prespecified descriptive event groups, a private figure, market-exposure diagnostics and contribution reconciliation. Its manifest requires the predictive manifest.
 5. `cloud_finalize.execute(study, source_commit=...)` assembles the integrated private English report and input fingerprints. This final input snapshot is explicitly recorded after execution, not misrepresented as a pre-fit cryptographic commitment.
 6. If a held-return failure prevents the fixed reference book, `cloud_implementation_audit.execute(study, fitting, db)` reproduces its first failure and performs a bounded read-only source reconciliation. Private source flags support human review. It does not replace a missing return by zero, delete failed trades or change the frozen sample.
+
+## Missing-return follow-up
+
+The [return-review method and execution record](../../docs/company-news/RETURN_REVIEW.md) distinguishes failed observed-only references from conditional settlement accounting. All actual outputs stay private.
+
+|Entry point|Purpose|
+|---|---|
+|`cloud_return_diagnosis.execute(study, fitting, db)`|Bounded source flags, duration, price dates, trading/quote metadata and source discovery. |
+|`cloud_alternate_probe.execute(study, db)`|Bounded annual/legacy and historically linked Compustat total-return probe.|
+|`cloud_replay_v3.execute(study, db, ...)`|Two valuation conventions, all 72 fixed cost/borrow/delay attempts; refuses unresolved held returns.|
+|`cloud_source_resolution.execute(study, db)`|Fixed-priority whole-segment reconciliation; saves source/protocol fingerprints before replay.|
+|`cloud_source_resolution.reconcile_cached_local(study)`|Separate past-only overlap sensitivity using verified cached candidates.|
+|`cloud_unresolved_audit.execute(study, db, engine, ...)`|Reproduce the next unresolved reference value privately; return only a software remediation route.|
+|`cloud_terminal_sensitivity.execute(study, db)`|Explicit final-price settlement sensitivities, all 108 attempts; no observed execution/cash-settlement claim.|
+|`cloud_return_review_report.execute(study)`|Verify all run fingerprints and computed ledgers; integrate the original full report, 324 follow-up attempts and conditional plots.|
+
+`implementation_v3.py` and `return_reconciliation.py` are sibling dependencies. Keep each deployed revision immutable. Do not rerun into an existing output directory; checkpoint names are intentionally fixed to preserve this research record. The checked terminal run uses `execute(study, db, output_name="terminal_sensitivity_v4_checked")` after preserving the original reporting failure. New source or settlement rules require a new version rather than changing an old run. The current source fixes the reference metadata merge; executed historical source hashes remain separately recorded.
 
 Always redirect **both stdout and stderr** into a private Cloud log, including database connection setup and exceptions. The builder's ordinary human-facing progress includes sample counts. Those counts and all actual values must not be copied into an LLM interface. A status-only notebook can use this pattern:
 
