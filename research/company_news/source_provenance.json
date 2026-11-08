@@ -17,7 +17,9 @@
     "cloud_finalize_v3.py": "1d7f4d8c559ba54e9befa4923ec77761a1b6af81c33df500c9811076f26ba685",
     "cloud_unresolved_audit.py": "246f945ef461569964887a7856804dd2830c1e92720cefa4d4b8fdca732dc41f",
     "cloud_terminal_sensitivity.py": "429864a6f485a622f7a52759979b8b723f7f6c6bce997a267cf1ca975761cd91",
-    "cloud_return_review_report.py": "221fbc57935ae17daf3e5c3450d61f8099ea05cf1dac517d264634573ec747ce"
+    "cloud_return_review_report.py": "221fbc57935ae17daf3e5c3450d61f8099ea05cf1dac517d264634573ec747ce",
+    "cloud_model_strategy_comparison.py": "df25ce8b103f1495dab8a4233d40c85165cb1f21dc27a1c5218df5a8e705dc8c",
+    "cloud_model_strategy_report.py": "11bb1dd0f4ee197147840f34ec1e4ceccbfcdcd2428cdae0372d6561d45dd5ab"
   },
   "cloud_execution_verified": [
     "cloud_real_study.py",
@@ -26,10 +28,12 @@
     "cloud_fit_study.py",
     "cloud_diagnostics.py",
     "cloud_finalize.py",
-    "cloud_implementation_audit.py"
+    "cloud_implementation_audit.py",
+    "cloud_model_strategy_comparison.py",
+    "cloud_model_strategy_report.py"
   ],
   "implementation_gap_audit_execution_verified": true,
-  "status": "private statistical study and implementation follow-up executed; no validated tradable company-news performance or public commercial-data claim",
+  "status": "Private three-model comparison and independent checks completed; all 324 model and 324 paired configurations retained; negative aggregate findings published with conditional/retrospective limits",
   "core_archive_commit": "6ba3d6c87bf8a929a02e4bd8924fc96de410f97e",
   "implementation_audit_source_commit": "defe7f42bd72870d2b58e3f2b4b43fbfcc5393ce",
   "return_review_current_source_note": "Current source includes software-reporting fixes and clarification after earlier Cloud runs; exact historical deployed revisions are distinguished below. Code fingerprints only, never data/output fingerprints.",
@@ -64,5 +68,19 @@
     }
   },
   "return_review_note": "Earlier failed runs remain immutable. Observed-only reference failures are distinct from conditional terminal-price settlement accounting. No commercial data release or validated alpha claim.",
-  "return_review_status": "private source review, all predefined follow-up grids and integrated report executed and verified; observed-only references remain unestimable; terminal-price reference ledgers complete conditional on settlement assumptions; human economic and dissemination review pending"
+  "return_review_status": "private source review, all predefined follow-up grids and integrated report executed and verified; observed-only references remain unestimable; terminal-price reference ledgers complete conditional on settlement assumptions; human economic and dissemination review pending",
+  "model_strategy_comparison": {
+    "date": "2026-11-08",
+    "post_execution_supplement": true,
+    "unchanged_engine_sha256": "03932a9fe6fde33118e9169d63eb6b1aa086e3edf1812de69af5c578e02b10a2",
+    "all_324_model_scenarios_computed": true,
+    "all_324_pairwise_comparisons_computed": true,
+    "all_prior_B2_ledgers_reproduced": true,
+    "public_report": "docs/company-news/STRATEGY_COMPARISON.md",
+    "public_aggregates": "reports/company-news/",
+    "source_sha256": {
+      "cloud_model_strategy_comparison.py": "df25ce8b103f1495dab8a4233d40c85165cb1f21dc27a1c5218df5a8e705dc8c",
+      "cloud_model_strategy_report.py": "11bb1dd0f4ee197147840f34ec1e4ceccbfcdcd2428cdae0372d6561d45dd5ab"
+    }
+  }
 }

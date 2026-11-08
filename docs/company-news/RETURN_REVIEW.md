@@ -50,3 +50,7 @@ The first terminal run encountered a Pandas error involving DataFrame-valued met
 ## Reproduction and release boundary
 
 See the [Cloud source guide](../../research/company_news/README.md) for entry points. Each private run records its exact code, protocol, input snapshots, output fingerprints and failures. Historical code revisions are distinguished from the current reproducible source. The integrated private report preserves the original statistical study and all follow-up comparisons. No empirical metric, security record, data fingerprint, figure or commercial report is released here. Human economic interpretation and dissemination review remain pending.
+
+## Subsequent three-model comparison, 2026-11-08
+
+The original return-review record above is preserved. The [B0/B1/B2 supplement](STRATEGY_COMPARISON.md) now applies these identical saved valuations and book rules to all models, retains all 324 model configurations and 324 paired comparisons, and reproduces every earlier B2 ledger. At the fixed reference all books lose money; the B2−B0 cumulative difference is −1.0808 pp and its paired daily interval contains zero. Quote multipliers do not reverse that reference conclusion. Delayed entry can reverse relative point estimates, also retained. Bounded aggregate experiment tables and a reference figure are now public; source records, forecasts, security/date-level outputs and commercial input hashes remain private.

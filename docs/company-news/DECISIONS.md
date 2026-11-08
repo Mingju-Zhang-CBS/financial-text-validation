@@ -38,3 +38,13 @@ The [complete return-review record](RETURN_REVIEW.md) preserves three 72-attempt
 |D015|Detach DataFrame-valued attribution before all follow-on reporting and propagate unexpected software errors.|First terminal report failed; failed attempt and unsuccessful cached repair preserved; corrected run uses the same economic specification.|
 
 No amendment converts this historical period into prospective validation or authorizes public commercial-data findings.
+
+## Three-model strategy supplement, 2026-11-08
+
+|ID|Decision|Relation to inspected outcomes|
+|---|---|---|
+|D016|Freeze all original forecast rows and the exact v3 engine; replay B0/B1/B2 across three saved terminal valuations and the original cost/borrow/delay grid.|Requested after B2 results were inspected; explicitly post-execution, not preregistered or prospective.|
+|D017|Fix B2−B0 as the main supplemental contrast at quote 1x, delay 0, costs 10 bps, borrowing 100 bps; retain B1−B0, B2−B1 and every other configuration.|Fixed before running new B0/B1 outcomes; original predictive endpoint unchanged.|
+|D018|Use paired 2021–2025 daily net-return differences with 20-session blocks/2000 draws; retain complete cumulative results including the buffer.|Different inferential/cumulative clocks disclosed; intervals unadjusted for multiplicity.|
+|D019|Require exact prior B2 ledger parity and preserve all failures; report relative improvement separately from absolute profitability.|All 324 model scenarios completed and prior B2 reproduced. No positive paired increment established; delay-ordering reversals retained.|
+|D020|Publish bounded researcher-authored aggregate experiment tables and negative conclusions with source and invented tests.|No vendor corpus, identifiers, forecasts, saved models, security/date-level ledgers or private input hashes released.|

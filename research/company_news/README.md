@@ -62,3 +62,9 @@ The supplementary panel's main target is confirmation-period five-session market
 ```text
 python -m pytest research/company_news
 ```
+
+## Frozen three-model strategy comparison
+
+`cloud_model_strategy_comparison.execute(study)` replays B0/B1/B2 with the exact saved v4 valuations and unchanged engine. Ranking inputs share every forecast company-day, including missing realized targets. It preserves all 324 model configurations and all 324 same-date pairwise comparisons, stops unresolved holdings, and requires every B2 ledger to reproduce its previous counterpart. Actual holdings may differ; portfolio-construction rules are identical.
+
+`cloud_model_strategy_report.execute(study)` independently reconciles saved ledgers and creates the complete private English report plus a field-limited aggregate publication packet. The paired daily inferential clock is 2021–2025, while cumulative wealth retains the common liquidation buffer. This is a post-execution supplemental design with unadjusted intervals. Read the [full aggregate result and limitations](../../docs/company-news/STRATEGY_COMPARISON.md). Public configuration tables contain experiment summaries, never underlying observations, predictions, identifiers or date-level ledgers.

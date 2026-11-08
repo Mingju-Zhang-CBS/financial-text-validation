@@ -10,7 +10,7 @@
 
 ## Read the measured finding first
 
-**Company-news extension:** [Company News: Novelty, Sentiment and Market Response](docs/company-news/README.md) asks whether structured sentiment, novelty and past media coverage add information beyond price history. Private WRDS experiments and a [missing-return review](docs/company-news/RETURN_REVIEW.md) retain observed-only failures and explicit terminal-settlement sensitivities; [independent source and synthetic tests](research/company_news/README.md) are public. Conditional accounting is separate from tradable validation; human interpretation and dissemination review remain pending. No company-news predictive performance is claimed. The measured results below belong to the completed FOMC/FX study.
+**Company-news extension:** [A frozen B0/B1/B2 strategy comparison](docs/company-news/STRATEGY_COMPARISON.md) finds no established incremental predictive or net trading value from structured sentiment/novelty features. Costed reference cumulative returns are −55.13% / −55.47% / −56.21%; paired incremental intervals include zero. All configurations, delay-ordering reversals and conditional terminal-settlement limits are retained. [Source and invented-input tests](research/company_news/README.md) accompany the aggregate report. The measured results below belong to the separate completed FOMC/FX study.
 
 - **Data:** 128 official statements and 4,041 first-published reference observations; no commercial news or company data.
 - **Retained events:** 60 training, 24 validation and 42 confirmation. Train ends in 2016; selection uses 2017–2019; the fixed confirmation period is 2020–2024.
